@@ -1,0 +1,1990 @@
+player_id,name,year,age,team,conference,PA,BB,SO,OBP,SLG,OPS
+beck--001jor,Jordan Beck,2020,19,Tennessee,SEC,48,8,11,.396,.475,.871
+beck--001jor,Jordan Beck,2021,20,Tennessee,SEC,289,24,60,.336,.523,.859
+beck--001jor,Jordan Beck,2022,21,Tennessee,SEC,297,37,62,.391,.595,.986
+booker000kyl,Kyle Booker,2021,19,Tennessee,SEC,68,7,18,.382,.448,.831
+booker000kyl,Kyle Booker,2022,20,Tennessee,SEC,55,7,12,.364,.356,.719
+booker000kyl,Kyle Booker,2023,21,Tennessee,SEC,63,6,23,.323,.345,.668
+booker000kyl,Kyle Booker,2024,22,Oral Roberts,SUMT,274,32,52,.407,.461,.867
+burke-000bla,Blake Burke,2022,19,Tennessee,SEC,120,19,37,.467,.821,1.288
+burke-000bla,Blake Burke,2023,20,Tennessee,SEC,282,26,49,.369,.527,.896
+burke-000bla,Blake Burke,2024,21,Tennessee,SEC,323,35,48,.449,.702,1.151
+chambe000log,Logan Chambers,2022,21,Tennessee,SEC,35,8,5,.371,.200,.571
+chambe000log,Logan Chambers,2023,22,Tennessee,SEC,34,9,5,.441,.440,.881
+chambe000log,Logan Chambers,2024,23,Missouri State,MVC,221,26,36,.361,.406,.767
+dickey000jar,Jared Dickey,2022,20,Tennessee,SEC,126,20,12,.484,.690,1.174
+dickey000jar,Jared Dickey,2023,21,Tennessee,SEC,273,20,34,.392,.525,.917
+ensley000hun,Hunter Ensley,2021,19,Tennessee,SEC,1,0,0,.000,.000,.000
+ensley000hun,Hunter Ensley,2022,20,Tennessee,SEC,20,4,8,.350,.313,.663
+ensley000hun,Hunter Ensley,2023,21,Tennessee,SEC,232,24,43,.391,.425,.816
+ensley000hun,Hunter Ensley,2024,22,Tennessee,SEC,252,27,48,.390,.532,.923
+ensley000hun,Hunter Ensley,2025,23,Tennessee,SEC,282,30,42,.418,.531,.950
+gilber002and,Drew Gilbert,2020,19,Tennessee,SEC,51,7,6,.490,.500,.990
+gilber002and,Drew Gilbert,2021,20,Tennessee,SEC,303,15,40,.341,.437,.778
+gilber002and,Drew Gilbert,2022,21,Tennessee,SEC,244,33,32,.455,.673,1.128
+lawson001cor,Cortland Lawson,2021,21,Tennessee,SEC,16,0,5,.438,.643,1.080
+lawson001cor,Cortland Lawson,2022,22,Tennessee,SEC,256,42,65,.402,.512,.914
+lipciu000luc,Luc Lipcius,2017,19,Tennessee,SEC,100,9,16,.354,.326,.679
+lipciu000luc,Luc Lipcius,2018,20,Tennessee,SEC,32,7,8,.313,.125,.438
+lipciu000luc,Luc Lipcius,2019,21,Tennessee,SEC,61,10,10,.459,.694,1.153
+lipciu000luc,Luc Lipcius,2020,22,Tennessee,SEC,61,16,8,.525,.674,1.199
+lipciu000luc,Luc Lipcius,2021,23,Tennessee,SEC,269,36,64,.357,.480,.837
+lipciu000luc,Luc Lipcius,2022,24,Tennessee,SEC,266,59,62,.466,.667,1.133
+lipsco000tre,Trey Lipscomb,2019,19,Tennessee,SEC,14,0,2,.071,.143,.214
+lipsco000tre,Trey Lipscomb,2020,20,Tennessee,SEC,35,7,1,.400,.385,.785
+lipsco000tre,Trey Lipscomb,2021,21,Tennessee,SEC,34,4,6,.412,.517,.929
+lipsco000tre,Trey Lipscomb,2022,22,Tennessee,SEC,290,26,37,.428,.717,1.145
+moore-008chr,Christian Moore,2022,19,Tennessee,SEC,149,27,38,.443,.619,1.062
+moore-008chr,Christian Moore,2023,20,Tennessee,SEC,275,50,67,.444,.603,1.046
+moore-008chr,Christian Moore,2024,21,Tennessee,SEC,337,38,49,.451,.797,1.248
+ortega003jor,Jorel Ortega,2021,20,Tennessee,SEC,36,6,12,.333,.296,.630
+ortega003jor,Jorel Ortega,2022,21,Tennessee,SEC,264,25,40,.398,.672,1.070
+payne-001eth,Ethan Payne,2021,20,Tennessee,SEC,13,2,5,.308,.182,.490
+payne-001eth,Ethan Payne,2022,21,Tennessee,SEC,20,4,8,.500,.643,1.143
+payne-001eth,Ethan Payne,2023,22,Tennessee,SEC,17,2,7,.467,.500,.967
+payne-001eth,Ethan Payne,2024,23,Tennessee,SEC,24,4,5,.435,.278,.713
+russel000eva,Evan Russell,2018,19,Tennessee,SEC,151,16,26,.358,.378,.736
+russel000eva,Evan Russell,2019,20,Tennessee,SEC,207,30,42,.382,.446,.828
+russel000eva,Evan Russell,2020,21,Tennessee,SEC,61,9,10,.393,.458,.852
+russel000eva,Evan Russell,2021,22,Tennessee,SEC,241,29,62,.342,.500,.842
+russel000eva,Evan Russell,2022,23,Tennessee,SEC,237,33,39,.390,.587,.977
+scott-006chr,Christian Scott,2019,19,Tennessee,SEC,37,9,8,.486,.429,.915
+scott-006chr,Christian Scott,2020,20,Tennessee,SEC,16,1,6,.313,.286,.598
+scott-006chr,Christian Scott,2021,21,Tennessee,SEC,54,10,7,.415,.381,.796
+scott-006chr,Christian Scott,2022,22,Tennessee,SEC,92,16,17,.380,.400,.780
+scott-006chr,Christian Scott,2023,23,Tennessee,SEC,192,30,52,.396,.461,.857
+steens000log,Logan Steenstra,2021,21,Tennessee,SEC,67,10,15,.462,.500,.962
+steens000log,Logan Steenstra,2022,22,Tennessee,SEC,54,5,18,.426,.591,1.017
+stephe002set,Seth Stephenson,2022,21,Tennessee,SEC,207,15,41,.408,.508,.916
+taylor015cha,Charlie Taylor,2022,21,Tennessee,SEC,50,8,15,.306,.083,.389
+taylor015cha,Charlie Taylor,2023,22,Tennessee,SEC,83,12,14,.346,.464,.809
+taylor015cha,Charlie Taylor,2024,23,Tennessee,SEC,27,3,7,.259,.261,.520
+barker000rod,Rody Barker,2020,21,Texas A&M,SEC,7,0,1,.714,.600,1.314
+barker000rod,Rody Barker,2021,22,Texas A&M,SEC,12,4,2,.417,.000,.417
+barker000rod,Rody Barker,2022,23,Texas A&M,SEC,8,2,2,.500,.400,.900
+bost--000aus,Austin Bost,2020,20,Texas A&M,SEC,21,3,2,.476,.941,1.417
+bost--000aus,Austin Bost,2021,21,Texas A&M,SEC,216,12,34,.343,.513,.855
+bost--000aus,Austin Bost,2022,22,Texas A&M,SEC,288,34,29,.451,.572,1.023
+bost--000aus,Austin Bost,2023,23,Texas A&M,SEC,290,41,40,.353,.372,.725
+britt-000log,Logan Britt,2020,19,Texas A&M,SEC,20,1,7,.300,.375,.675
+britt-000log,Logan Britt,2021,20,Texas A&M,SEC,146,8,54,.315,.453,.768
+britt-000log,Logan Britt,2022,21,Texas A&M,SEC,146,11,42,.262,.432,.694
+britt-000log,Logan Britt,2023,22,Abilene Christian,WAC,265,23,54,.408,.591,.998
+claunc000tro,Troy Claunch,2018,19,Oregon State,P12,43,12,6,.512,.571,1.084
+claunc000tro,Troy Claunch,2019,20,Oregon State,P12,81,5,16,.333,.347,.681
+claunc000tro,Troy Claunch,2020,21,Oregon State,P12,49,4,20,.306,.489,.795
+claunc000tro,Troy Claunch,2021,22,Oregon State,P12,232,25,39,.379,.399,.778
+claunc000tro,Troy Claunch,2022,23,Texas A&M,SEC,280,25,51,.371,.392,.762
+harris000kal,Kalae Harrison,2021,19,Texas A&M,SEC,213,23,56,.311,.284,.595
+harris000kal,Kalae Harrison,2022,20,Texas A&M,SEC,44,6,21,.295,.216,.512
+harris000kal,Kalae Harrison,2023,21,NC State,ACC,246,37,28,.436,.426,.861
+hodge-000ty-,Ty Hodge,2022,19,Texas A&M,SEC,19,1,11,.105,.056,.161
+hodge-000ty-,Ty Hodge,2024,21,Houston Christian,SLC,203,21,29,.320,.356,.676
+hodge-000ty-,Ty Hodge,2025,22,Texas-San Antonio,Amer,237,30,24,.400,.446,.846
+kaler-000kol,Kole Kaler,2020,21,Hawaii,BigW,76,10,13,.486,.661,1.147
+kaler-000kol,Kole Kaler,2021,22,Hawaii,BigW,229,18,42,.376,.435,.810
+kaler-000kol,Kole Kaler,2022,23,Texas A&M,SEC,301,53,50,.376,.324,.699
+minnic001bre,Brett Minnich,2021,21,Texas A&M,SEC,111,13,25,.306,.330,.636
+minnic001bre,Brett Minnich,2022,22,Texas A&M,SEC,291,41,86,.409,.453,.862
+minnic001bre,Brett Minnich,2023,23,Texas A&M,SEC,164,27,42,.390,.519,.909
+moss--000jac,Jack Moss,2021,19,Arizona State,P12,170,12,29,.353,.487,.840
+moss--000jac,Jack Moss,2022,20,Texas A&M,SEC,309,28,47,.437,.520,.957
+moss--000jac,Jack Moss,2023,21,Texas A&M,SEC,315,47,46,.457,.466,.923
+rock--001dyl,Dylan Rock,2018,19,Texas-San Antonio,CUSA,208,20,37,.382,.438,.820
+rock--001dyl,Dylan Rock,2019,20,Texas-San Antonio,CUSA,273,32,38,.421,.471,.893
+rock--001dyl,Dylan Rock,2020,21,Texas-San Antonio,CUSA,78,9,13,.449,.508,.957
+rock--001dyl,Dylan Rock,2021,22,Texas-San Antonio,CUSA,227,28,31,.432,.516,.948
+rock--001dyl,Dylan Rock,2022,23,Texas A&M,SEC,297,52,49,.468,.641,1.109
+scamar001cha,Chanden Scamardo,2022,19,Texas A&M,SEC,19,4,8,.316,.071,.387
+smith-008tay,Taylor Smith,2019,19,Incarnate Word,SLC,264,39,67,.447,.615,1.062
+smith-008tay,Taylor Smith,2021,21,Texas A&M,SEC,98,13,45,.378,.590,.967
+smith-008tay,Taylor Smith,2022,22,Texas A&M,SEC,83,10,29,.313,.254,.567
+smith-008tay,Taylor Smith,2023,23,Texas-San Antonio,CUSA,245,38,62,.445,.624,1.069
+strace000aus,Austin Stracener,2022,19,Texas A&M,SEC,8,0,5,.250,.375,.625
+strace000aus,Austin Stracener,2023,20,Baylor,B12,53,7,17,.264,.178,.442
+targac000rya,Ryan Targac,2021,19,Texas A&M,SEC,74,10,23,.338,.367,.705
+targac000rya,Ryan Targac,2022,20,Texas A&M,SEC,265,42,81,.430,.569,.999
+targac000rya,Ryan Targac,2023,21,Texas A&M,SEC,276,43,78,.370,.429,.799
+targac000rya,Ryan Targac,2024,22,Texas A&M,SEC,72,9,24,.306,.344,.650
+thomps001jor,Jordan Thompson,2019,18,Incarnate Word,SLC,105,8,16,.419,.464,.883
+thomps001jor,Jordan Thompson,2021,20,Texas A&M,SEC,57,3,9,.357,.442,.799
+thomps001jor,Jordan Thompson,2022,21,Texas A&M,SEC,156,24,33,.400,.475,.875
+thomps001jor,Jordan Thompson,2023,22,Texas A&M,SEC,233,32,40,.403,.412,.815
+werner000tre,Trevor Werner,2020,19,Texas A&M,SEC,55,7,15,.364,.298,.662
+werner000tre,Trevor Werner,2021,20,Texas A&M,SEC,39,4,11,.282,.212,.494
+werner000tre,Trevor Werner,2022,21,Texas A&M,SEC,157,18,40,.357,.489,.845
+werner000tre,Trevor Werner,2023,22,Texas A&M,SEC,261,35,68,.349,.514,.862
+battle000jal,Jalen Battles,2021,21,Arkansas,SEC,258,33,56,.371,.407,.779
+battle000jal,Jalen Battles,2022,22,Arkansas,SEC,281,30,57,.364,.480,.844
+bohrof000jac,Jace Bohrofen,2021,19,Oklahoma,B12,122,15,33,.347,.408,.755
+bohrof000jac,Jace Bohrofen,2022,20,Arkansas,SEC,108,10,22,.333,.435,.768
+bohrof000jac,Jace Bohrofen,2023,21,Arkansas,SEC,267,32,63,.436,.612,1.048
+diggs-000ken,Kendall Diggs,2022,19,Arkansas,SEC,79,16,16,.367,.361,.728
+diggs-000ken,Kendall Diggs,2023,20,Arkansas,SEC,257,46,47,.436,.547,.983
+diggs-000ken,Kendall Diggs,2024,21,Arkansas,SEC,246,34,58,.346,.395,.741
+diggs-000ken,Kendall Diggs,2025,22,Arkansas,SEC,73,7,21,.264,.317,.581
+gregor000zac,Zack Gregory,2020,20,Arkansas,SEC,29,5,11,.310,.136,.447
+gregor000zac,Zack Gregory,2021,21,Arkansas,SEC,144,26,37,.440,.412,.851
+gregor000zac,Zack Gregory,2022,22,Arkansas,SEC,207,35,62,.414,.363,.777
+gregor000zac,Zack Gregory,2023,23,Grand Canyon,WAC,251,50,62,.446,.551,.997
+lanzil000chr,Chris Lanzilli,2018,20,Wake Forest,ACC,186,27,50,.378,.529,.908
+lanzil000chr,Chris Lanzilli,2019,21,Wake Forest,ACC,276,23,53,.409,.620,1.030
+lanzil000chr,Chris Lanzilli,2020,22,Wake Forest,ACC,77,9,11,.377,.642,1.018
+lanzil000chr,Chris Lanzilli,2021,23,Wake Forest,ACC,209,17,47,.325,.481,.807
+lanzil000chr,Chris Lanzilli,2022,24,Arkansas,SEC,264,26,51,.424,.513,.937
+leach-000dyl,Dylan Leach,2021,18,Arkansas,SEC,49,11,9,.469,.429,.898
+leach-000dyl,Dylan Leach,2022,19,Arkansas,SEC,64,5,16,.297,.517,.814
+leach-000dyl,Dylan Leach,2023,20,Missouri,SEC,134,12,30,.306,.325,.631
+leach-000dyl,Dylan Leach,2024,21,Missouri State,MVC,243,30,57,.415,.616,1.031
+moore-018rob,Robert Moore,2020,18,Arkansas,SEC,72,8,15,.403,.444,.847
+moore-018rob,Robert Moore,2021,19,Arkansas,SEC,284,41,51,.384,.558,.942
+moore-018rob,Robert Moore,2022,20,Arkansas,SEC,300,42,46,.374,.427,.801
+slaven000bra,Brady Slavens,2019,18,Wichita State,Amer,171,21,38,.322,.265,.587
+slaven000bra,Brady Slavens,2021,20,Arkansas,SEC,249,19,64,.347,.560,.906
+slaven000bra,Brady Slavens,2022,21,Arkansas,SEC,277,30,66,.332,.523,.855
+slaven000bra,Brady Slavens,2023,22,Arkansas,SEC,238,17,45,.340,.488,.829
+soliz-000max,Max Soliz,2022,20,Arkansas,SEC,10,1,4,.300,.333,.633
+soliz-000max,Max Soliz,2025,23,Kansas,B12,34,4,12,.412,.444,.856
+stoval000pey,Peyton Stovall,2022,19,Arkansas,SEC,226,19,39,.373,.425,.798
+stoval000pey,Peyton Stovall,2023,20,Arkansas,SEC,176,15,27,.330,.393,.723
+stoval000pey,Peyton Stovall,2024,21,Arkansas,SEC,230,20,41,.409,.535,.944
+turner002mic,Michael Turner,2018,19,Kent State,MAC,127,14,16,.370,.346,.716
+turner002mic,Michael Turner,2019,20,Kent State,MAC,173,25,23,.448,.539,.987
+turner002mic,Michael Turner,2020,21,Kent State,MAC,64,9,8,.359,.333,.693
+turner002mic,Michael Turner,2021,22,Kent State,MAC,107,16,12,.439,.640,1.080
+turner002mic,Michael Turner,2022,23,Arkansas,SEC,291,27,49,.388,.502,.890
+varnad000dra,Drake Varnado,2022,19,Arkansas,SEC,23,4,7,.391,.294,.685
+varnad000dra,Drake Varnado,2023,20,Arizona State,P12,12,0,3,.167,.167,.333
+varnad000dra,Drake Varnado,2024,21,Lamar,SLC,219,21,71,.333,.467,.801
+wallac001cay,Cayden Wallace,2021,19,Arkansas,SEC,279,29,61,.369,.500,.869
+wallac001cay,Cayden Wallace,2022,20,Arkansas,SEC,323,38,56,.387,.553,.940
+webb--004bra,Braydon Webb,2020,22,Arkansas,SEC,63,10,14,.452,.400,.852
+webb--004bra,Braydon Webb,2021,23,Arkansas,SEC,123,21,43,.372,.413,.785
+webb--004bra,Braydon Webb,2022,24,Arkansas,SEC,263,42,55,.418,.542,.960
+bello-000mik,Mike Bello,2022,20,Auburn,SEC,118,14,21,.350,.323,.674
+bello-000mik,Mike Bello,2023,21,Auburn,SEC,35,2,9,.200,.156,.356
+bello-000mik,Mike Bello,2024,22,Troy,SBC,102,12,12,.347,.345,.691
+bello-000mik,Mike Bello,2025,23,Troy,SBC,122,11,28,.364,.340,.704
+brown-012bra,Brayton Brown,2020,19,Auburn,SEC,36,5,10,.389,.433,.822
+brown-012bra,Brayton Brown,2021,20,Auburn,SEC,31,4,11,.333,.480,.813
+brown-012bra,Brayton Brown,2022,21,Auburn,SEC,17,2,7,.375,.167,.542
+brown-012bra,Brayton Brown,2023,22,Alabama-Birmingham,CUSA,211,13,59,.280,.378,.658
+brown-012bra,Brayton Brown,2024,23,Alabama-Birmingham,Amer,242,22,48,.335,.462,.797
+burk--000luk,Luke Burk,2022,21,Auburn,SEC,8,0,6,.125,.125,.250
+burk--000luk,Luke Burk,2023,22,Drury,GLVC,225,25,55,.395,.535,.929
+burk--000luk,Luke Burk,2024,23,Drury,GLVC,223,33,34,.466,.695,1.161
+carlso000bro,Brooks Carlson,2018,19,Samford,SoCo,268,28,37,.429,.552,.981
+carlso000bro,Brooks Carlson,2019,20,Samford,SoCo,266,30,46,.429,.518,.946
+carlso000bro,Brooks Carlson,2020,21,Samford,SoCo,73,20,4,.644,.760,1.404
+carlso000bro,Brooks Carlson,2021,22,Samford,SoCo,220,30,38,.409,.478,.888
+carlso000bro,Brooks Carlson,2022,23,Auburn,SEC,211,23,49,.379,.454,.833
+dichia000son,Sonny DiChiara,2019,19,Samford,SoCo,246,35,57,.407,.646,1.053
+dichia000son,Sonny DiChiara,2020,20,Samford,SoCo,74,5,12,.378,.475,.854
+dichia000son,Sonny DiChiara,2021,21,Samford,SoCo,251,48,60,.428,.598,1.026
+dichia000son,Sonny DiChiara,2022,22,Auburn,SEC,286,68,55,.549,.777,1.326
+dyal--000rya,Ryan Dyal,2021,20,Auburn,SEC,96,24,23,.411,.357,.768
+dyal--000rya,Ryan Dyal,2022,21,Auburn,SEC,118,16,32,.368,.391,.759
+dyal--000rya,Ryan Dyal,2023,22,Auburn,SEC,32,3,6,.344,.222,.566
+dyal--000rya,Ryan Dyal,2024,23,Georgia State,SBC,214,35,52,.379,.506,.884
+farquh000gar,Garrett Farquhar,2020,21,Auburn,SEC,51,10,5,.440,.316,.756
+farquh000gar,Garrett Farquhar,2021,22,Auburn,SEC,37,3,6,.444,.500,.944
+farquh000gar,Garrett Farquhar,2022,23,Auburn,SEC,83,7,8,.337,.375,.712
+foster002col,Cole Foster,2021,19,Auburn,SEC,29,3,9,.414,.417,.830
+foster002col,Cole Foster,2022,20,Auburn,SEC,216,29,46,.395,.488,.884
+foster002col,Cole Foster,2023,21,Auburn,SEC,263,30,50,.429,.570,.999
+hall--007jos,Josh Hall,2019,19,Mississippi,SEC,42,6,7,.310,.314,.624
+hall--007jos,Josh Hall,2021,21,Auburn,SEC,50,3,11,.347,.465,.812
+hall--007jos,Josh Hall,2022,22,Auburn,SEC,31,5,10,.387,.308,.695
+hall--007jos,Josh Hall,2023,23,Auburn,SEC,19,3,7,.368,.250,.618
+hill--005cam,Cam Hill,2021,19,Auburn,SEC,129,17,23,.364,.477,.842
+hill--005cam,Cam Hill,2022,20,Auburn,SEC,123,13,34,.358,.370,.728
+hill--005cam,Cam Hill,2023,21,Auburn,SEC,19,4,5,.368,.200,.568
+hill--005cam,Cam Hill,2024,22,South Alabama,SBC,0,0,0,,,
+howell000kas,Kason Howell,2019,20,Auburn,SEC,263,22,49,.340,.307,.646
+howell000kas,Kason Howell,2020,21,Auburn,SEC,43,3,6,.419,.538,.957
+howell000kas,Kason Howell,2021,22,Auburn,SEC,217,27,40,.382,.463,.845
+howell000kas,Kason Howell,2022,23,Auburn,SEC,299,28,52,.385,.402,.788
+howell000kas,Kason Howell,2023,24,Auburn,SEC,254,27,44,.377,.467,.844
+land--000mas,Mason Land,2020,20,Mississippi State,SEC,5,1,1,.400,.250,.650
+land--000mas,Mason Land,2022,22,Auburn,SEC,53,4,9,.320,.267,.587
+larue-000nat,Nate LaRue,2020,18,Auburn,SEC,20,2,1,.350,.353,.703
+larue-000nat,Nate LaRue,2021,19,Auburn,SEC,39,6,8,.333,.469,.802
+larue-000nat,Nate LaRue,2022,20,Auburn,SEC,174,13,66,.272,.382,.653
+larue-000nat,Nate LaRue,2023,21,Auburn,SEC,164,18,58,.282,.298,.580
+moore-000bro,Brody Moore,2019,18,Auburn,SEC,29,2,5,.379,.444,.824
+moore-000bro,Brody Moore,2020,19,Auburn,SEC,65,7,7,.415,.393,.808
+moore-000bro,Brody Moore,2021,20,Auburn,SEC,208,13,26,.341,.380,.722
+moore-000bro,Brody Moore,2022,21,Auburn,SEC,287,24,35,.351,.406,.756
+moss--000bro,Brody Moss,2022,20,Auburn,SEC,4,0,1,.250,.333,.583
+moss--000bro,Brody Moss,2023,21,Auburn,SEC,28,6,5,.357,.150,.507
+peirce000bob,Bobby Peirce,2021,21,Auburn,SEC,17,1,5,.294,.267,.561
+peirce000bob,Bobby Peirce,2022,22,Auburn,SEC,180,13,46,.350,.562,.912
+peirce000bob,Bobby Peirce,2023,23,Auburn,SEC,207,15,37,.411,.503,.913
+peirce000bob,Bobby Peirce,2024,24,Auburn,SEC,128,16,31,.352,.421,.772
+rambus000bla,Blake Rambusch,2022,22,Auburn,SEC,316,28,36,.415,.429,.844
+schorr000ben,Ben Schorr,2024,22,Auburn,SEC,1,7.1,9,6,2,4
+schorr000ben,Ben Schorr,2025,23,Auburn,SEC,0,9.1,12,5,1,3
+ware--001bry,Bryson Ware,2021,20,Auburn,SEC,160,17,56,.344,.442,.786
+ware--001bry,Bryson Ware,2022,21,Auburn,SEC,110,13,37,.336,.394,.730
+ware--001bry,Bryson Ware,2023,22,Auburn,SEC,270,30,46,.438,.731,1.169
+wyandt000jac,Jake Wyandt,2020,21,Presbyterian,BigS,20,2,9,.316,.133,.449
+wyandt000jac,Jake Wyandt,2021,22,Presbyterian,BigS,154,18,50,.359,.366,.725
+wyandt000jac,Jake Wyandt,2022,23,Auburn,SEC,51,4,16,.320,.326,.646
+alderm000kem,Kemp Alderman,2021,18,Mississippi,SEC,16,0,11,.125,.313,.438
+alderm000kem,Kemp Alderman,2022,19,Mississippi,SEC,240,29,58,.388,.522,.910
+alderm000kem,Kemp Alderman,2023,20,Mississippi,SEC,243,26,41,.440,.709,1.149
+bench-000jus,Justin Bench,2019,19,Mississippi,SEC,20,4,5,.368,.200,.568
+bench-000jus,Justin Bench,2020,20,Mississippi,SEC,62,9,6,.458,.386,.844
+bench-000jus,Justin Bench,2021,21,Mississippi,SEC,293,21,30,.423,.440,.863
+bench-000jus,Justin Bench,2022,22,Mississippi,SEC,302,25,43,.409,.438,.846
+burfor000rea,Reagan Burford,2022,20,Mississippi,SEC,121,11,30,.322,.423,.745
+burfor000rea,Reagan Burford,2023,21,Mississippi,SEC,59,6,20,.276,.300,.576
+burfor000rea,Reagan Burford,2024,22,Mississippi,SEC,95,11,27,.305,.432,.737
+chatag000pey,Peyton Chatagnier,2020,19,Mississippi,SEC,78,13,16,.449,.574,1.022
+chatag000pey,Peyton Chatagnier,2021,20,Mississippi,SEC,259,26,56,.368,.412,.780
+chatag000pey,Peyton Chatagnier,2022,21,Mississippi,SEC,263,18,63,.317,.461,.778
+chatag000pey,Peyton Chatagnier,2023,22,Mississippi,SEC,201,22,41,.343,.483,.826
+chatag000pey,Peyton Chatagnier,2024,23,Texas Christian,B12,193,33,30,.377,.399,.776
+diamon000der,Derek Diamond,2020,19,Mississippi,SEC,0,20.2,18,8,5,4
+diamon000der,Derek Diamond,2021,20,Mississippi,SEC,5,75.1,80,44,15,32
+diamon000der,Derek Diamond,2022,21,Mississippi,SEC,4,65.1,81,50,14,13
+dunhur000hay,Hayden Dunhurst,2020,19,Mississippi,SEC,62,7,16,.355,.577,.932
+dunhur000hay,Hayden Dunhurst,2021,20,Mississippi,SEC,275,32,44,.385,.435,.821
+dunhur000hay,Hayden Dunhurst,2022,21,Mississippi,SEC,211,36,69,.370,.385,.754
+elko--000tim,Tim Elko,2018,19,Mississippi,SEC,56,3,17,.250,.327,.577
+elko--000tim,Tim Elko,2019,20,Mississippi,SEC,76,9,17,.316,.364,.679
+elko--000tim,Tim Elko,2020,21,Mississippi,SEC,51,2,13,.373,.667,1.039
+elko--000tim,Tim Elko,2021,22,Mississippi,SEC,196,29,53,.444,.675,1.119
+elko--000tim,Tim Elko,2022,23,Mississippi,SEC,285,43,84,.407,.642,1.049
+gonzal006jac,Jacob Gonzalez,2021,19,Mississippi,SEC,310,38,34,.443,.561,1.004
+gonzal006jac,Jacob Gonzalez,2022,20,Mississippi,SEC,300,50,32,.405,.558,.963
+gonzal006jac,Jacob Gonzalez,2023,21,Mississippi,SEC,253,35,28,.435,.564,.999
+graham000kev,Kevin Graham,2019,19,Mississippi,SEC,173,14,43,.324,.507,.830
+graham000kev,Kevin Graham,2020,20,Mississippi,SEC,46,5,10,.326,.579,.905
+graham000kev,Kevin Graham,2021,21,Mississippi,SEC,303,31,36,.422,.562,.984
+graham000kev,Kevin Graham,2022,22,Mississippi,SEC,210,9,47,.371,.562,.933
+harris001cal,Calvin Harris,2021,19,Mississippi,SEC,86,9,20,.279,.347,.626
+harris001cal,Calvin Harris,2022,20,Mississippi,SEC,127,15,31,.417,.500,.917
+harris001cal,Calvin Harris,2023,21,Mississippi,SEC,244,29,40,.398,.579,.976
+kramer003joh,John Kramer,2022,19,Mississippi,SEC,18,3,6,.389,.643,1.032
+kramer003joh,John Kramer,2023,20,Mississippi,SEC,62,12,9,.419,.429,.848
+kramer003joh,John Kramer,2024,21,Mississippi,SEC,8,1,5,.125,.000,.125
+kramer003joh,John Kramer,2025,22,Appalachian State,SBC,94,7,20,.404,.452,.856
+leathe000hay,Hayden Leatherwood,2020,21,Mississippi,SEC,44,8,10,.477,.639,1.116
+leathe000hay,Hayden Leatherwood,2021,22,Mississippi,SEC,210,18,54,.348,.441,.788
+leathe000hay,Hayden Leatherwood,2022,23,Mississippi,SEC,145,10,43,.317,.432,.749
+lopose000kno,Knox Loposer,2019,19,Mississippi,SEC,53,5,10,.302,.319,.621
+lopose000kno,Knox Loposer,2020,20,Mississippi,SEC,16,2,5,.267,.615,.882
+lopose000kno,Knox Loposer,2021,21,Mississippi,SEC,45,6,14,.400,.353,.753
+lopose000kno,Knox Loposer,2022,22,Mississippi,SEC,12,1,3,.417,.333,.750
+lopose000kno,Knox Loposer,2023,23,UCLA,P12,70,10,24,.328,.278,.606
+malone000tyw,Tywone Malone,2022,19,Mississippi,SEC,10,1,3,.500,1.111,1.611
+malone000tyw,Tywone Malone,2023,20,Mississippi,SEC,12,2,6,.250,.400,.650
+mccant000tj-,T.J. McCants,2021,20,Mississippi,SEC,249,26,68,.369,.433,.803
+mccant000tj-,T.J. McCants,2022,21,Mississippi,SEC,209,22,65,.324,.410,.734
+mccant000tj-,T.J. McCants,2023,22,Mississippi,SEC,159,14,46,.308,.472,.780
+mccant000tj-,T.J. McCants,2024,23,Alabama,SEC,265,22,65,.374,.583,.957
+sapp--000hud,Hudson Sapp,2022,21,Mississippi,SEC,13,2,2,.385,.300,.685
+sapp--000hud,Hudson Sapp,2024,23,Houston,B12,2,1,0,.500,.000,.500
+tolley000ban,Banks Tolley,2022,22,Mississippi,SEC,17,2,5,.353,.400,.753
+tolley000ban,Banks Tolley,2024,24,Appalachian State,SBC,275,33,46,.484,.781,1.265
+vancle000ben,Ben Van Cleve,2020,20,Mississippi,SEC,34,6,4,.529,.500,1.029
+vancle000ben,Ben Van Cleve,2021,21,Mississippi,SEC,118,9,24,.342,.333,.675
+vancle000ben,Ben Van Cleve,2022,22,Mississippi,SEC,53,8,8,.415,.419,.834
+wood--003gar,Garrett Wood,2021,22,Mississippi,SEC,20,6,2,.300,.000,.300
+wood--003gar,Garrett Wood,2022,23,Mississippi,SEC,43,10,14,.349,.212,.561
+wood--003gar,Garrett Wood,2023,24,Mississippi,SEC,18,3,5,.444,.333,.778
+beloso000cad,Cade Beloso,2019,19,Louisiana State,SEC,251,19,41,.339,.429,.768
+beloso000cad,Cade Beloso,2020,20,Louisiana State,SEC,68,4,6,.353,.453,.806
+beloso000cad,Cade Beloso,2021,21,Louisiana State,SEC,199,23,24,.347,.354,.700
+beloso000cad,Cade Beloso,2022,22,Louisiana State,SEC,2,0,1,.000,.000,.000
+beloso000cad,Cade Beloso,2023,23,Louisiana State,SEC,237,38,32,.462,.622,1.083
+berry-003jac,Jacob Berry,2021,20,Arizona,P12,297,33,58,.439,.676,1.115
+berry-003jac,Jacob Berry,2022,21,Louisiana State,SEC,248,27,22,.464,.630,1.094
+bianco000dre,Drew Bianco,2019,19,Louisiana State,SEC,91,7,23,.348,.353,.701
+bianco000dre,Drew Bianco,2020,20,Louisiana State,SEC,36,7,10,.286,.111,.397
+bianco000dre,Drew Bianco,2021,21,Louisiana State,SEC,145,17,38,.378,.449,.827
+bianco000dre,Drew Bianco,2022,22,Louisiana State,SEC,50,5,18,.306,.154,.460
+bianco000dre,Drew Bianco,2023,23,Houston,Amer,180,18,50,.380,.448,.828
+cranfo000col,Collier Cranford,2020,19,Louisiana State,SEC,38,2,7,.394,.357,.751
+cranfo000col,Collier Cranford,2021,20,Louisiana State,SEC,55,4,17,.192,.128,.320
+cranfo000col,Collier Cranford,2022,21,Louisiana State,SEC,60,7,16,.328,.222,.550
+cranfo000col,Collier Cranford,2023,22,Kansas,B12,206,13,34,.316,.422,.738
+cranfo000col,Collier Cranford,2024,23,Kansas,B12,243,13,42,.328,.433,.760
+crews-000dyl,Dylan Crews,2021,19,Louisiana State,SEC,287,39,44,.453,.663,1.116
+crews-000dyl,Dylan Crews,2022,20,Louisiana State,SEC,307,42,56,.463,.691,1.153
+crews-000dyl,Dylan Crews,2023,21,Louisiana State,SEC,344,71,46,.567,.713,1.280
+digiac000gio,Gio DiGiacomo,2019,19,Louisiana State,SEC,166,22,46,.376,.333,.709
+digiac000gio,Gio DiGiacomo,2020,20,Louisiana State,SEC,43,5,12,.429,.459,.888
+digiac000gio,Gio DiGiacomo,2021,21,Louisiana State,SEC,108,3,29,.330,.414,.744
+digiac000gio,Gio DiGiacomo,2022,22,Louisiana State,SEC,83,7,23,.329,.382,.712
+digiac000gio,Gio DiGiacomo,2023,23,Duke,ACC,233,34,52,.389,.411,.799
+dought000cad,Cade Doughty,2020,19,Louisiana State,SEC,63,5,8,.365,.407,.772
+dought000cad,Cade Doughty,2021,20,Louisiana State,SEC,258,22,32,.368,.546,.914
+dought000cad,Cade Doughty,2022,21,Louisiana State,SEC,282,29,49,.393,.567,.960
+drost-000bro,Brody Drost,2021,18,Louisiana State,SEC,98,12,31,.327,.440,.767
+drost-000bro,Brody Drost,2022,19,Louisiana State,SEC,2,0,2,.000,.000,.000
+drost-000bro,Brody Drost,2023,20,Louisiana Tech,CUSA,243,35,75,.331,.405,.736
+drost-000bro,Brody Drost,2024,21,Louisiana Tech,CUSA,52,7,17,.327,.279,.606
+drost-000bro,Brody Drost,2025,22,Louisiana Tech,CUSA,140,14,38,.370,.420,.790
+dugas-000gav,Gavin Dugas,2019,19,Louisiana State,SEC,49,5,13,.265,.233,.498
+dugas-000gav,Gavin Dugas,2020,20,Louisiana State,SEC,34,4,10,.412,.607,1.019
+dugas-000gav,Gavin Dugas,2021,21,Louisiana State,SEC,268,26,63,.407,.641,1.048
+dugas-000gav,Gavin Dugas,2022,22,Louisiana State,SEC,146,22,39,.479,.519,.998
+dugas-000gav,Gavin Dugas,2023,23,Louisiana State,SEC,307,44,63,.464,.589,1.053
+holt--000bre,Brennan Holt,2022,19,Louisiana State,SEC,4,0,2,.000,.000,.000
+holt--000bre,Brennan Holt,2023,20,Oklahoma State,B12,63,9,19,.302,.250,.552
+holt--000bre,Brennan Holt,2024,21,South Alabama,SBC,245,30,52,.383,.394,.777
+holt--000bre,Brennan Holt,2025,22,South Alabama,SBC,208,37,42,.442,.558,1.000
+jobert000bra,Brayden Jobert,2020,19,Nicholls State,SLC,74,9,12,.459,.556,1.015
+jobert000bra,Brayden Jobert,2022,21,Louisiana State,SEC,238,28,50,.354,.578,.932
+jobert000bra,Brayden Jobert,2023,22,Louisiana State,SEC,230,22,59,.409,.596,1.005
+leto--000luk,Luke Leto,2022,19,Louisiana State,SEC,13,2,2,.308,.100,.408
+leto--000luk,Luke Leto,2023,20,Kansas,B12,153,16,54,.320,.444,.764
+leto--000luk,Luke Leto,2024,21,Kansas,B12,60,12,17,.433,.478,.912
+leto--000luk,Luke Leto,2025,22,Toledo,MAC,245,30,61,.381,.471,.852
+mcmanu000tyl,Tyler McManus,2020,21,Samford,SoCo,36,10,5,.611,.960,1.571
+mcmanu000tyl,Tyler McManus,2021,22,Samford,SoCo,220,24,47,.432,.612,1.044
+mcmanu000tyl,Tyler McManus,2022,23,Louisiana State,SEC,175,19,49,.387,.586,.973
+merrif000jac,Jack Merrifield,2022,22,Louisiana State,SEC,56,6,8,.358,.310,.668
+merrif000jac,Jack Merrifield,2023,23,Louisiana State,SEC,16,3,1,.250,.000,.250
+milazz001ale,Alex Milazzo,2020,19,Louisiana State,SEC,53,9,9,.340,.279,.619
+milazz001ale,Alex Milazzo,2021,20,Louisiana State,SEC,149,13,46,.220,.183,.402
+milazz001ale,Alex Milazzo,2022,21,Louisiana State,SEC,30,4,7,.346,.227,.573
+milazz001ale,Alex Milazzo,2023,22,Louisiana State,SEC,118,12,23,.369,.299,.668
+milazz001ale,Alex Milazzo,2024,23,Louisiana State,SEC,129,16,28,.371,.305,.676
+morgan002tre,Tre' Morgan,2021,18,Louisiana State,SEC,290,25,41,.441,.526,.967
+morgan002tre,Tre' Morgan,2022,19,Louisiana State,SEC,295,25,26,.414,.462,.876
+morgan002tre,Tre' Morgan,2023,20,Louisiana State,SEC,330,35,33,.418,.502,.920
+pearso002jos,Josh Pearson,2022,19,Louisiana State,SEC,185,22,41,.432,.524,.956
+pearso002jos,Josh Pearson,2023,20,Louisiana State,SEC,178,33,40,.393,.387,.780
+pearso002jos,Josh Pearson,2024,21,Louisiana State,SEC,233,22,43,.352,.442,.794
+pearso002jos,Josh Pearson,2025,22,Louisiana State,SEC,178,23,26,.434,.496,.931
+saffor000wil,Will Safford,2021,20,Louisiana State,SEC,44,7,9,.273,.086,.358
+saffor000wil,Will Safford,2022,21,Louisiana State,SEC,6,0,3,.167,.000,.167
+saffor000wil,Will Safford,2023,22,Louisiana Tech,CUSA,180,21,37,.329,.382,.711
+saffor000wil,Will Safford,2024,23,Louisiana Tech,CUSA,170,22,37,.329,.389,.719
+saffor000wil,Will Safford,2025,24,Louisiana Tech,CUSA,199,33,26,.344,.291,.635
+steven008jos,Josh Stevenson,2022,20,Louisiana State,SEC,89,17,31,.379,.308,.687
+steven008jos,Josh Stevenson,2023,21,Louisiana State,SEC,10,0,4,.100,.100,.200
+steven008jos,Josh Stevenson,2024,22,Ohio State,BTen,212,25,66,.360,.392,.752
+steven008jos,Josh Stevenson,2025,23,South Alabama,SBC,133,20,32,.348,.355,.704
+thomps002jor,Jordan Thompson,2021,19,Louisiana State,SEC,244,20,57,.324,.392,.715
+thomps002jor,Jordan Thompson,2022,20,Louisiana State,SEC,267,35,44,.395,.432,.827
+thomps002jor,Jordan Thompson,2023,21,Louisiana State,SEC,313,33,71,.365,.430,.794
+travin000hay,Hayden Travinski,2020,19,Louisiana State,SEC,17,0,7,.059,.235,.294
+travin000hay,Hayden Travinski,2021,20,Louisiana State,SEC,59,10,19,.390,.542,.931
+travin000hay,Hayden Travinski,2022,21,Louisiana State,SEC,74,9,24,.356,.581,.937
+travin000hay,Hayden Travinski,2023,22,Louisiana State,SEC,127,18,25,.465,.692,1.157
+travin000hay,Hayden Travinski,2024,23,Louisiana State,SEC,270,32,67,.381,.542,.924
+armstr000kri,Kris Armstrong,2019,19,Florida,SEC,38,3,15,.368,.559,.927
+armstr000kri,Kris Armstrong,2020,20,Florida,SEC,38,4,8,.368,.438,.806
+armstr000kri,Kris Armstrong,2021,21,Florida,SEC,162,15,44,.352,.535,.887
+armstr000kri,Kris Armstrong,2022,22,Florida,SEC,116,13,32,.322,.360,.682
+armstr000kri,Kris Armstrong,2023,23,Jacksonville,ASun,271,46,69,.424,.668,1.093
+caglia000jac,Jac Caglianone,2022,19,Florida,SEC,115,5,21,.339,.548,.887
+caglia000jac,Jac Caglianone,2023,20,Florida,SEC,319,17,58,.389,.738,1.126
+caglia000jac,Jac Caglianone,2024,21,Florida,SEC,316,58,26,.544,.875,1.419
+calila000ken,Kendrick Calilao,2019,19,Florida,SEC,253,23,54,.348,.401,.749
+calila000ken,Kendrick Calilao,2020,20,Florida,SEC,47,3,12,.319,.357,.676
+calila000ken,Kendrick Calilao,2021,21,Florida,SEC,131,9,24,.351,.434,.785
+calila000ken,Kendrick Calilao,2022,22,Florida,SEC,180,15,30,.289,.316,.605
+degoti000jor,Jorge De Goti,2022,19,Florida,SEC,8,0,0,.375,.429,.804
+degoti000jor,Jorge De Goti,2023,20,Indiana,BTen,7,0,2,.429,.571,1.000
+degoti000jor,Jorge De Goti,2025,22,Nova Southeastern,SSC,106,14,16,.358,.385,.743
+evans-000ty-,Ty Evans,2022,19,Florida,SEC,114,8,34,.301,.465,.766
+evans-000ty-,Ty Evans,2023,20,Florida,SEC,179,9,42,.302,.485,.786
+evans-000ty-,Ty Evans,2024,21,Florida,SEC,224,19,58,.406,.580,.987
+evans-000ty-,Ty Evans,2025,22,Florida,SEC,146,9,47,.322,.451,.773
+fabian001der,Deric Fabian,2022,19,Florida,SEC,171,19,43,.323,.331,.654
+fabian001der,Deric Fabian,2023,20,Florida,SEC,44,5,11,.386,.447,.834
+fabian001der,Deric Fabian,2024,21,Auburn,SEC,146,20,32,.372,.463,.836
+fabian001der,Deric Fabian,2025,22,Auburn,SEC,236,28,54,.339,.360,.699
+fabian000jud,Jud Fabian,2019,18,Florida,SEC,207,28,45,.353,.411,.764
+fabian000jud,Jud Fabian,2020,19,Florida,SEC,81,13,18,.407,.603,1.010
+fabian000jud,Jud Fabian,2021,20,Florida,SEC,269,40,79,.364,.560,.924
+fabian000jud,Jud Fabian,2022,21,Florida,SEC,310,62,69,.414,.598,1.013
+guscet000mac,Mac Guscette,2021,19,Florida,SEC,67,6,5,.364,.351,.715
+guscet000mac,Mac Guscette,2022,20,Florida,SEC,119,8,10,.296,.419,.715
+guscet000mac,Mac Guscette,2023,21,Alabama,SEC,171,13,24,.345,.479,.825
+guscet000mac,Mac Guscette,2024,22,Alabama,SEC,195,10,19,.418,.442,.860
+halter000col,Colby Halter,2021,19,Florida,SEC,182,19,40,.379,.453,.832
+halter000col,Colby Halter,2022,20,Florida,SEC,294,30,66,.338,.380,.718
+halter000col,Colby Halter,2023,21,Florida,SEC,216,25,34,.354,.397,.751
+langfo000wya,Wyatt Langford,2021,19,Florida,SEC,4,0,1,.250,.250,.500
+langfo000wya,Wyatt Langford,2022,20,Florida,SEC,303,36,44,.447,.719,1.166
+langfo000wya,Wyatt Langford,2023,21,Florida,SEC,303,56,44,.498,.784,1.282
+lastre000ren,Rene Lastres,2022,18,Florida,SEC,15,0,6,.333,.533,.867
+lastre000ren,Rene Lastres,2023,19,Florida,SEC,18,1,7,.278,.313,.590
+lastre000ren,Rene Lastres,2024,20,UNC Charlotte,Amer,100,5,36,.250,.359,.609
+lastre000ren,Rene Lastres,2025,21,Florida International,CUSA,21,0,9,.143,.300,.443
+preves000mat,Matt Prevesk,2022,19,Florida,SEC,21,4,7,.381,.333,.714
+preves000mat,Matt Prevesk,2023,20,Florida,SEC,45,2,11,.311,.405,.716
+preves000mat,Matt Prevesk,2024,21,Central Florida,B12,267,21,53,.409,.474,.883
+preves000mat,Matt Prevesk,2025,22,Central Florida,B12,117,3,27,.342,.411,.753
+riopel000bra,B.T. Riopelle,2019,19,Coastal Carolina,SBC,47,11,8,.413,.324,.737
+riopel000bra,B.T. Riopelle,2020,20,Coastal Carolina,SBC,45,6,10,.378,.692,1.070
+riopel000bra,B.T. Riopelle,2021,21,Coastal Carolina,SBC,211,17,77,.354,.459,.814
+riopel000bra,B.T. Riopelle,2022,22,Florida,SEC,263,21,78,.371,.551,.921
+riopel000bra,B.T. Riopelle,2023,23,Florida,SEC,296,39,85,.374,.546,.920
+rivera015jos,Josh Rivera,2020,19,Florida,SEC,66,8,19,.385,.439,.823
+rivera015jos,Josh Rivera,2021,20,Florida,SEC,210,18,52,.324,.389,.713
+rivera015jos,Josh Rivera,2022,21,Florida,SEC,261,30,44,.351,.429,.780
+rivera015jos,Josh Rivera,2023,22,Florida,SEC,312,46,35,.447,.617,1.064
+robins000cor,Corey Robinson,2022,20,Florida,SEC,18,2,8,.278,.333,.611
+robins000cor,Corey Robinson,2023,21,Central Florida,Amer,84,8,20,.309,.243,.551
+robins000cor,Corey Robinson,2024,22,Central Florida,B12,1,0,1,.000,.000,.000
+talbot000tuc,Tucker Talbott,2022,22,Florida,SEC,19,0,6,.316,.368,.684
+talbot000tuc,Tucker Talbott,2023,23,Florida,SEC,7,0,2,.286,.000,.286
+thomps007ste,Sterlin Thompson,2021,20,Florida,SEC,212,21,45,.396,.470,.866
+thomps007ste,Sterlin Thompson,2022,21,Florida,SEC,305,37,47,.443,.563,1.006
+bradfi000enr,Enrique Bradfield,2021,19,Vanderbilt,SEC,305,45,42,.451,.414,.865
+bradfi000enr,Enrique Bradfield,2022,20,Vanderbilt,SEC,292,41,40,.415,.498,.913
+bradfi000enr,Enrique Bradfield,2023,21,Vanderbilt,SEC,299,45,40,.410,.429,.839
+bulger000jac,Jack Bulger,2021,19,Vanderbilt,SEC,189,25,40,.369,.414,.783
+bulger000jac,Jack Bulger,2022,20,Vanderbilt,SEC,246,28,29,.363,.368,.731
+bulger000jac,Jack Bulger,2023,21,Vanderbilt,SEC,182,23,27,.348,.370,.718
+bulger000jac,Jack Bulger,2024,22,Vanderbilt,SEC,89,7,16,.371,.421,.792
+casas-000gav,Gavin Casas,2021,20,Vanderbilt,SEC,11,1,2,.273,.300,.573
+casas-000gav,Gavin Casas,2022,21,Vanderbilt,SEC,63,7,19,.381,.412,.793
+casas-000gav,Gavin Casas,2023,22,South Carolina,SEC,273,41,64,.407,.569,.976
+casas-000gav,Gavin Casas,2024,23,South Carolina,SEC,210,22,49,.385,.491,.876
+diaz--006dav,Davis Diaz,2022,19,Vanderbilt,SEC,244,36,37,.353,.293,.645
+diaz--006dav,Davis Diaz,2023,20,Vanderbilt,SEC,291,39,45,.376,.415,.791
+diaz--006dav,Davis Diaz,2024,21,Vanderbilt,SEC,265,30,44,.350,.385,.735
+espina000ala,Alan Espinal,2021,19,Vanderbilt,SEC,5,0,2,.200,.800,1.000
+espina000ala,Alan Espinal,2022,20,Vanderbilt,SEC,20,1,8,.250,.263,.513
+espina000ala,Alan Espinal,2023,21,Vanderbilt,SEC,103,11,33,.359,.495,.854
+espina000ala,Alan Espinal,2024,22,Vanderbilt,SEC,252,33,79,.398,.545,.943
+gordon009rob,Rob Gordon,2022,19,Vanderbilt,SEC,17,1,7,.294,.333,.627
+hewett000cal,Calvin Hewett,2021,19,Vanderbilt,SEC,10,1,1,.700,.857,1.557
+hewett000cal,Calvin Hewett,2022,20,Vanderbilt,SEC,106,9,22,.437,.494,.931
+hewett000cal,Calvin Hewett,2023,21,Vanderbilt,SEC,88,3,18,.329,.324,.654
+hewett000cal,Calvin Hewett,2024,22,Vanderbilt,SEC,151,15,23,.419,.426,.845
+jones-001spe,Spencer Jones,2020,19,Vanderbilt,SEC,42,4,7,.333,.324,.657
+jones-001spe,Spencer Jones,2021,20,Vanderbilt,SEC,107,7,33,.346,.421,.767
+jones-001spe,Spencer Jones,2022,21,Vanderbilt,SEC,272,32,64,.460,.643,1.103
+keegan000dom,Dominic Keegan,2019,18,Vanderbilt,SEC,25,2,6,.320,.273,.593
+keegan000dom,Dominic Keegan,2020,19,Vanderbilt,SEC,37,2,10,.324,.303,.627
+keegan000dom,Dominic Keegan,2021,20,Vanderbilt,SEC,267,30,74,.427,.638,1.065
+keegan000dom,Dominic Keegan,2022,21,Vanderbilt,SEC,275,39,51,.458,.646,1.104
+kolwyc000tat,Tate Kolwyck,2019,19,Vanderbilt,SEC,4,1,0,.750,1.333,2.083
+kolwyc000tat,Tate Kolwyck,2020,20,Vanderbilt,SEC,27,3,8,.296,.391,.688
+kolwyc000tat,Tate Kolwyck,2021,21,Vanderbilt,SEC,160,16,35,.371,.507,.878
+kolwyc000tat,Tate Kolwyck,2022,22,Vanderbilt,SEC,222,17,57,.330,.482,.813
+laneve000tro,Troy LaNeve,2020,20,Vanderbilt,SEC,2,0,1,.500,.000,.500
+laneve000tro,Troy LaNeve,2021,21,Vanderbilt,SEC,90,4,27,.326,.583,.909
+laneve000tro,Troy LaNeve,2022,22,Vanderbilt,SEC,42,7,12,.310,.353,.662
+laneve000tro,Troy LaNeve,2023,23,Vanderbilt,SEC,46,4,16,.326,.500,.826
+laneve000tro,Troy LaNeve,2024,24,Vanderbilt,SEC,177,19,48,.384,.510,.894
+mallor002ken,Kenny Mallory,2022,20,Vanderbilt,SEC,4,0,2,.000,.000,.000
+mallor002ken,Kenny Mallory,2023,21,Elon,CAA,175,21,45,.329,.308,.637
+mallor002ken,Kenny Mallory,2024,22,Elon,CAA,239,39,30,.462,.520,.982
+mallor002ken,Kenny Mallory,2025,23,Elon,CAA,235,42,35,.414,.385,.799
+mckenz000tyl,T.J. McKenzie,2020,19,Vanderbilt,SEC,2,0,0,.500,.000,.500
+mckenz000tyl,T.J. McKenzie,2021,20,Vanderbilt,SEC,2,0,1,.500,.000,.500
+mckenz000tyl,T.J. McKenzie,2022,21,Vanderbilt,SEC,18,1,5,.353,.563,.915
+mckenz000tyl,T.J. McKenzie,2023,22,Vanderbilt,SEC,40,4,12,.300,.389,.689
+mckenz000tyl,T.J. McKenzie,2024,23,Georgia Southern,SBC,142,12,34,.329,.420,.749
+noland000par,Parker Noland,2020,19,Vanderbilt,SEC,70,7,14,.324,.310,.634
+noland000par,Parker Noland,2021,20,Vanderbilt,SEC,282,28,77,.336,.407,.742
+noland000par,Parker Noland,2022,21,Vanderbilt,SEC,171,21,40,.363,.445,.808
+noland000par,Parker Noland,2023,22,Vanderbilt,SEC,267,27,57,.367,.455,.822
+noland000par,Parker Noland,2024,23,South Carolina,SEC,289,41,59,.383,.342,.725
+polk--000mat,Matthew Polk,2022,19,Vanderbilt,SEC,43,2,11,.372,.361,.733
+polk--000mat,Matthew Polk,2023,20,Vanderbilt,SEC,172,5,37,.353,.427,.780
+polk--000mat,Matthew Polk,2024,21,Vanderbilt,SEC,209,7,38,.372,.492,.864
+vastin000jon,Jonathan Vastine,2022,19,Vanderbilt,SEC,58,4,19,.246,.235,.481
+vastin000jon,Jonathan Vastine,2023,20,Vanderbilt,SEC,261,25,65,.355,.448,.803
+vastin000jon,Jonathan Vastine,2024,21,Vanderbilt,SEC,253,26,66,.384,.545,.929
+vastin000jon,Jonathan Vastine,2025,22,Vanderbilt,SEC,232,29,69,.358,.449,.807
+vaz---000jav,Javier Vaz,2021,20,Vanderbilt,SEC,55,10,5,.396,.286,.682
+vaz---000jav,Javier Vaz,2022,21,Vanderbilt,SEC,200,29,17,.402,.490,.893
+young-001car,Carter Young,2020,19,Vanderbilt,SEC,68,4,17,.373,.377,.750
+young-001car,Carter Young,2021,20,Vanderbilt,SEC,279,31,84,.341,.559,.899
+young-001car,Carter Young,2022,21,Vanderbilt,SEC,226,30,66,.327,.383,.710
+acton-000cor,Cory Acton,2019,20,Florida,SEC,234,28,50,.353,.387,.740
+acton-000cor,Cory Acton,2020,21,Florida,SEC,66,12,21,.364,.269,.633
+acton-000cor,Cory Acton,2021,22,Florida,SEC,81,18,14,.438,.283,.721
+acton-000cor,Cory Acton,2022,23,Georgia,SEC,220,31,46,.394,.401,.796
+allen-000dwi,Dwight Allen,2022,20,Georgia,SEC,48,9,13,.298,.237,.535
+allen-000dwi,Dwight Allen,2023,21,Georgia,SEC,14,2,4,.429,.364,.792
+allen-000dwi,Dwight Allen,2025,23,Nevada-Las Vegas,MWC,126,11,50,.320,.405,.725
+anders007ben,Ben Anderson,2020,21,Georgia,SEC,80,15,11,.544,.552,1.096
+anders007ben,Ben Anderson,2021,22,Georgia,SEC,238,34,49,.326,.352,.678
+anders007ben,Ben Anderson,2022,23,Georgia,SEC,275,38,45,.386,.453,.839
+anders007ben,Ben Anderson,2023,24,Georgia,SEC,253,29,60,.367,.432,.799
+blaylo003gar,Garrett Blaylock,2018,20,Vanderbilt,SEC,27,1,10,.259,.308,.567
+blaylo003gar,Garrett Blaylock,2020,22,Georgia,SEC,69,5,19,.261,.426,.687
+blaylo003gar,Garrett Blaylock,2021,23,Georgia,SEC,174,17,45,.328,.467,.795
+blaylo003gar,Garrett Blaylock,2022,24,Georgia,SEC,72,10,22,.389,.491,.880
+collin000cor,Corey Collins,2021,19,Georgia,SEC,228,29,58,.382,.487,.868
+collin000cor,Corey Collins,2022,20,Georgia,SEC,248,36,68,.387,.453,.840
+collin000cor,Corey Collins,2023,21,Georgia,SEC,135,21,25,.415,.505,.920
+collin000cor,Corey Collins,2024,22,Georgia,SEC,244,56,32,.574,.772,1.346
+floyd-000bud,Buddy Floyd,2020,19,Georgia,SEC,41,6,5,.368,.172,.541
+floyd-000bud,Buddy Floyd,2021,20,Georgia,SEC,32,3,6,.276,.231,.507
+floyd-000bud,Buddy Floyd,2022,21,Georgia,SEC,31,5,7,.419,.304,.724
+gonzal008fer,Fernando Gonzalez,2021,19,Georgia,SEC,141,4,26,.275,.343,.619
+gonzal008fer,Fernando Gonzalez,2022,20,Georgia,SEC,156,20,29,.368,.424,.792
+gonzal008fer,Fernando Gonzalez,2023,21,Georgia,SEC,170,25,21,.369,.431,.800
+gonzal008fer,Fernando Gonzalez,2024,22,Georgia,SEC,200,15,31,.364,.532,.896
+harber000par,Parks Harber,2021,19,Georgia,SEC,124,8,37,.331,.376,.707
+harber000par,Parks Harber,2022,20,Georgia,SEC,241,18,39,.365,.528,.893
+harber000par,Parks Harber,2023,21,Georgia,SEC,234,18,57,.342,.575,.917
+harber000par,Parks Harber,2024,22,North Carolina,ACC,273,35,54,.425,.648,1.073
+jernig000ran,Randon Jernigan,2019,19,Georgia,SEC,137,13,40,.338,.301,.639
+jernig000ran,Randon Jernigan,2020,20,Georgia,SEC,15,2,4,.467,.273,.739
+jernig000ran,Randon Jernigan,2021,21,Georgia,SEC,55,4,23,.315,.255,.570
+jernig000ran,Randon Jernigan,2022,22,Georgia,SEC,9,2,2,.444,.429,.873
+marsha002sha,Shane Marshall,2019,19,Georgia,SEC,83,14,34,.432,.371,.803
+marsha002sha,Shane Marshall,2020,20,Georgia,SEC,37,4,12,.361,.214,.575
+marsha002sha,Shane Marshall,2021,21,Georgia,SEC,66,3,22,.274,.250,.524
+marsha002sha,Shane Marshall,2022,22,Georgia,SEC,15,0,5,.231,.182,.413
+mcalli002jos,Josh McAllister,2021,22,Georgia,SEC,170,8,30,.382,.562,.944
+mcalli002jos,Josh McAllister,2022,23,Georgia,SEC,230,13,53,.321,.417,.739
+rogers008cha,Chaney Rogers,2018,19,Georgia,SEC,10,2,2,.500,.500,1.000
+rogers008cha,Chaney Rogers,2019,20,Georgia,SEC,165,25,41,.379,.338,.717
+rogers008cha,Chaney Rogers,2020,21,Georgia,SEC,43,6,9,.395,.351,.747
+rogers008cha,Chaney Rogers,2021,22,Georgia,SEC,224,21,47,.356,.402,.758
+rogers008cha,Chaney Rogers,2022,23,Georgia,SEC,219,31,57,.387,.413,.801
+spikes000gar,Garrett Spikes,2021,19,Georgia,SEC,39,2,12,.282,.222,.504
+spikes000gar,Garrett Spikes,2022,20,Georgia,SEC,44,3,8,.318,.333,.652
+spikes000gar,Garrett Spikes,2023,21,Georgia,SEC,30,2,8,.267,.240,.507
+tate--000col,Cole Tate,2018,19,Georgia,SEC,18,1,5,.278,.188,.465
+tate--000col,Cole Tate,2019,20,Georgia,SEC,32,4,11,.300,.231,.531
+tate--000col,Cole Tate,2020,21,Georgia,SEC,61,2,6,.350,.536,.886
+tate--000col,Cole Tate,2021,22,Georgia,SEC,236,17,53,.379,.395,.775
+tate--000col,Cole Tate,2022,23,Georgia,SEC,189,20,48,.429,.533,.962
+tate--000con,Connor Tate,2019,20,Georgia,SEC,81,3,25,.304,.459,.763
+tate--000con,Connor Tate,2020,21,Georgia,SEC,48,8,8,.396,.351,.747
+tate--000con,Connor Tate,2021,22,Georgia,SEC,210,14,46,.405,.545,.950
+tate--000con,Connor Tate,2022,23,Georgia,SEC,266,33,56,.436,.614,1.050
+tate--000con,Connor Tate,2023,24,Georgia,SEC,257,30,45,.459,.682,1.141
+taylor001dyl,Dylan Taylor,2022,--,Georgia,SEC,12,1,3,.417,.364,.780
+wagner003col,Cole Wagner,2022,19,Georgia,SEC,142,14,44,.359,.431,.790
+wagner003col,Cole Wagner,2023,20,Georgia,SEC,172,16,47,.292,.367,.659
+wagner003col,Cole Wagner,2025,22,Penn State,BTen,162,23,32,.432,.485,.917
+wagner000luk,Luke Wagner,2021,19,Georgia,SEC,3,39.1,37,20,3,24
+wagner000luk,Luke Wagner,2022,20,Georgia,SEC,3,41.0,43,28,5,27
+wagner000luk,Luke Wagner,2023,21,Georgia,SEC,3,31.1,48,36,6,21
+wagner000luk,Luke Wagner,2024,22,Purdue,BTen,2,73.0,94,44,7,22
+watkin001lan,Lane Watkins,2022,--,Georgia,SEC,6,1,4,.167,.000,.167
+anu---000ora,Oraj Anu,2020,21,Kentucky,SEC,57,5,9,.368,.549,.917
+anu---000ora,Oraj Anu,2021,22,Kentucky,SEC,208,12,51,.322,.434,.756
+anu---000ora,Oraj Anu,2022,23,Kentucky,SEC,115,3,34,.348,.491,.839
+burkes000dev,Devin Burkes,2022,20,Kentucky,SEC,52,11,9,.540,.730,1.270
+burkes000dev,Devin Burkes,2023,21,Kentucky,SEC,283,38,53,.423,.502,.925
+burkes000dev,Devin Burkes,2024,22,Kentucky,SEC,265,30,48,.372,.361,.733
+burkes000dev,Devin Burkes,2025,23,Kentucky,SEC,199,23,33,.340,.382,.722
+church000reu,Reuben Church,2021,19,Kentucky,SEC,106,5,34,.311,.438,.749
+church000reu,Reuben Church,2022,20,Kentucky,SEC,72,5,17,.333,.359,.693
+church000reu,Reuben Church,2023,21,Kentucky,SEC,118,12,27,.427,.418,.845
+church000reu,Reuben Church,2024,22,Kentucky,SEC,43,4,14,.372,.273,.645
+dallas001mic,Michael Dallas,2022,20,Kentucky,SEC,4,0,2,.000,.000,.000
+dallas001mic,Michael Dallas,2023,21,Jacksonville State,ASun,100,9,24,.347,.360,.707
+dallas001mic,Michael Dallas,2024,22,Jacksonville State,CUSA,64,8,22,.323,.184,.506
+dallas001mic,Michael Dallas,2025,23,Memphis,Amer,0,0,0,,,
+estep-000cha,Chase Estep,2020,20,Kentucky,SEC,40,5,7,.400,.441,.841
+estep-000cha,Chase Estep,2021,21,Kentucky,SEC,155,8,32,.286,.329,.614
+estep-000cha,Chase Estep,2022,22,Kentucky,SEC,274,40,54,.416,.560,.976
+felker000jas,Jase Felker,2022,22,Kentucky,SEC,72,12,16,.458,.404,.862
+felker000jas,Jase Felker,2023,23,Kentucky,SEC,255,30,50,.430,.354,.784
+fogel-000ada,Adam Fogel,2017,18,Hawaii,BigW,189,14,39,.354,.461,.816
+fogel-000ada,Adam Fogel,2018,19,Hawaii,BigW,222,24,43,.378,.526,.904
+fogel-000ada,Adam Fogel,2019,20,Hawaii,BigW,50,7,12,.400,.512,.912
+fogel-000ada,Adam Fogel,2020,21,Hawaii,BigW,58,6,16,.310,.250,.560
+fogel-000ada,Adam Fogel,2021,22,Hawaii,BigW,226,16,34,.382,.468,.850
+fogel-000ada,Adam Fogel,2022,23,Kentucky,SEC,239,19,45,.331,.420,.750
+harris006dan,Daniel Harris,2018,18,Eastern Kentucky,OVC,237,12,52,.306,.414,.720
+harris006dan,Daniel Harris,2019,19,Eastern Kentucky,OVC,244,16,45,.325,.431,.756
+harris006dan,Daniel Harris,2020,20,Eastern Kentucky,OVC,61,6,6,.541,.680,1.221
+harris006dan,Daniel Harris,2021,21,Eastern Kentucky,OVC,230,20,35,.361,.459,.820
+harris006dan,Daniel Harris,2022,22,Kentucky,SEC,240,21,44,.394,.409,.803
+jump--000hun,Hunter Jump,2018,18,Arizona State,P12,110,9,14,.418,.480,.898
+jump--000hun,Hunter Jump,2020,20,Arizona State,P12,72,5,8,.386,.524,.910
+jump--000hun,Hunter Jump,2021,21,Arizona State,P12,234,23,36,.372,.412,.784
+jump--000hun,Hunter Jump,2022,22,Kentucky,SEC,269,25,27,.357,.377,.734
+lieber000kir,Kirk Liebert,2021,21,Kentucky,SEC,6,0,2,.333,.333,.667
+lieber000kir,Kirk Liebert,2022,22,Kentucky,SEC,82,16,24,.383,.313,.695
+lieber000kir,Kirk Liebert,2023,23,Western Kentucky,CUSA,250,39,57,.393,.418,.810
+mccart002nol,Nolan McCarthy,2022,20,Kentucky,SEC,38,4,10,.270,.303,.573
+mccart002nol,Nolan McCarthy,2023,21,Kentucky,SEC,153,11,40,.351,.457,.808
+mccart002nol,Nolan McCarthy,2024,22,Kentucky,SEC,234,17,45,.380,.480,.860
+mccart002nol,Nolan McCarthy,2025,23,Georgia,SEC,261,18,43,.376,.480,.856
+pitre-000elm,Émilien Pitre,2022,19,Kentucky,SEC,6,2,0,.333,.000,.333
+pitre-000elm,Émilien Pitre,2023,20,Kentucky,SEC,281,42,35,.440,.413,.853
+pitre-000elm,Émilien Pitre,2024,21,Kentucky,SEC,295,47,38,.420,.519,.939
+plasti000jak,Jake Plastiak,2019,19,Wichita State,Amer,46,2,16,.261,.233,.493
+plasti000jak,Jake Plastiak,2021,21,Kentucky,SEC,76,7,23,.289,.403,.692
+plasti000jak,Jake Plastiak,2022,22,Kentucky,SEC,259,23,84,.351,.507,.858
+ritter002rya,Ryan Ritter,2021,20,Kentucky,SEC,201,11,46,.323,.365,.688
+ritter002rya,Ryan Ritter,2022,21,Kentucky,SEC,262,21,68,.369,.469,.838
+rubalc000alo,Alonzo Rubalcaba,2021,21,Kentucky,SEC,55,6,15,.382,.326,.708
+rubalc000alo,Alonzo Rubalcaba,2022,22,Kentucky,SEC,167,17,35,.325,.371,.696
+thrash002joh,John Thrasher,2018,19,Hartford,AEC,148,10,29,.324,.364,.688
+thrash002joh,John Thrasher,2019,20,Hartford,AEC,182,19,36,.356,.369,.725
+thrash002joh,John Thrasher,2020,21,Hartford,AEC,55,6,7,.370,.357,.728
+thrash002joh,John Thrasher,2021,22,Hartford,AEC,151,15,21,.470,.680,1.150
+thrash002joh,John Thrasher,2022,23,Kentucky,SEC,203,23,34,.375,.365,.740
+austin002tre,Trevor Austin,2021,19,Missouri,SEC,42,7,15,.350,.406,.756
+austin002tre,Trevor Austin,2022,20,Missouri,SEC,184,19,32,.417,.476,.893
+austin002tre,Trevor Austin,2023,21,Missouri,SEC,242,32,39,.440,.519,.958
+austin002tre,Trevor Austin,2024,22,Missouri,SEC,247,27,44,.433,.568,1.001
+beaman000jac,Jackson Beaman,2022,20,Missouri,SEC,12,1,2,.167,.364,.530
+beaman000jac,Jackson Beaman,2024,22,Missouri,SEC,116,22,27,.414,.494,.908
+beaman000jac,Jackson Beaman,2025,23,Iowa,BTen,114,18,33,.368,.511,.879
+bennet003gar,Garrison Bennett,2022,21,Missouri,SEC,2,1,0,1.000,1.000,2.000
+caresw000cam,Cam Careswell,2022,19,Missouri,SEC,21,2,9,.333,.421,.754
+caresw000cam,Cam Careswell,2023,20,Missouri,SEC,4,1,0,.750,2.000,2.750
+colett000mik,Mike Coletta,2021,--,Missouri,SEC,103,8,33,.272,.247,.519
+colett000mik,Mike Coletta,2022,--,Missouri,SEC,107,12,26,.346,.295,.641
+colon-001jus,JC Colon,2022,19,Missouri,SEC,40,5,6,.385,.618,1.002
+colon-001jus,JC Colon,2023,20,Missouri,SEC,114,11,27,.366,.360,.726
+colon-001jus,JC Colon,2024,21,Missouri,SEC,79,14,15,.385,.359,.744
+day---002jos,Joshua Day,2021,21,Missouri,SEC,184,25,37,.374,.316,.689
+day---002jos,Joshua Day,2022,22,Missouri,SEC,232,20,47,.435,.508,.943
+deseda000nan,Nander De Sedas,2019,19,Florida State,ACC,253,29,61,.353,.337,.690
+deseda000nan,Nander De Sedas,2020,20,Florida State,ACC,75,12,22,.307,.150,.457
+deseda000nan,Nander De Sedas,2021,21,Florida State,ACC,208,17,59,.303,.363,.666
+deseda000nan,Nander De Sedas,2022,22,Missouri,SEC,159,15,39,.373,.391,.764
+deseda000nan,Nander De Sedas,2023,23,Florida State,ACC,185,9,56,.298,.411,.709
+frost-000isa,Isaiah Frost,2022,19,Missouri,SEC,10,3,3,.300,.000,.300
+frost-000isa,Isaiah Frost,2023,20,Missouri,SEC,7,2,5,.286,.000,.286
+frost-000isa,Isaiah Frost,2024,21,Missouri,SEC,21,4,8,.450,.563,1.013
+frost-000isa,Isaiah Frost,2025,22,Missouri,SEC,20,5,9,.450,.286,.736
+leum--000fox,Fox Leum,2020,22,Coastal Carolina,SBC,51,12,14,.420,.333,.753
+leum--000fox,Fox Leum,2021,23,Coastal Carolina,SBC,22,5,10,.318,.063,.381
+leum--000fox,Fox Leum,2022,24,Missouri,SEC,156,23,48,.400,.488,.888
+lovich000ros,Ross Lovich,2021,19,Missouri,SEC,47,4,10,.340,.282,.622
+lovich000ros,Ross Lovich,2022,20,Missouri,SEC,182,14,33,.357,.396,.753
+lovich000ros,Ross Lovich,2023,21,Missouri,SEC,115,8,19,.383,.541,.923
+lovich000ros,Ross Lovich,2024,22,Arkansas,SEC,106,12,24,.408,.429,.836
+mangua000hec,Hector Mangual,2022,18,Missouri,SEC,19,4,3,.421,.333,.754
+mangua000hec,Hector Mangual,2025,21,South Alabama,SBC,39,6,8,.256,.242,.499
+mann--000luk,Luke Mann,2019,19,Missouri,SEC,61,16,17,.459,.455,.914
+mann--000luk,Luke Mann,2020,20,Missouri,SEC,50,6,21,.340,.325,.665
+mann--000luk,Luke Mann,2021,21,Missouri,SEC,157,17,60,.321,.448,.768
+mann--000luk,Luke Mann,2022,22,Missouri,SEC,233,28,56,.401,.595,.995
+mann--000luk,Luke Mann,2023,23,Missouri,SEC,250,32,59,.428,.680,1.108
+mcgaha000she,Shea McGahan,2022,19,Missouri,SEC,6,2,2,.667,1.250,1.917
+mcgaha000she,Shea McGahan,2024,21,SE Missouri State,OVC,166,23,24,.388,.474,.862
+mcgaha000she,Shea McGahan,2025,22,SE Missouri State,OVC,164,35,20,.438,.449,.887
+montgo000tor,Torin Montgomery,2020,19,Boise State,MWC,61,7,13,.393,.615,1.009
+montgo000tor,Torin Montgomery,2021,20,Missouri,SEC,185,23,44,.373,.430,.803
+montgo000tor,Torin Montgomery,2022,21,Missouri,SEC,223,21,37,.462,.547,1.009
+morris002tre,Tre Morris,2019,19,Missouri,SEC,10,3,2,.600,.714,1.314
+morris002tre,Tre Morris,2020,20,Missouri,SEC,18,1,2,.389,.412,.801
+morris002tre,Tre Morris,2021,21,Missouri,SEC,132,7,16,.308,.342,.649
+morris002tre,Tre Morris,2022,22,Missouri,SEC,130,7,9,.300,.336,.636
+morris002tre,Tre Morris,2023,23,Missouri,SEC,111,10,16,.351,.415,.766
+pena--016car,Carlos Pena,2022,18,Missouri,SEC,124,13,40,.290,.327,.618
+pena--016car,Carlos Pena,2023,19,Missouri,SEC,43,7,16,.372,.400,.772
+pena--016car,Carlos Pena,2024,20,Indiana State,MVC,11,0,8,.182,.364,.545
+pena--016car,Carlos Pena,2025,21,Indiana State,MVC,252,34,54,.444,.624,1.068
+rice--000gar,Garrett Rice,2021,19,Missouri,SEC,47,6,18,.277,.244,.520
+rice--000gar,Garrett Rice,2022,20,Missouri,SEC,27,6,4,.444,.263,.708
+rice--000gar,Garrett Rice,2023,21,Missouri Southern,MIAA,264,28,47,.447,.546,.993
+rice--000gar,Garrett Rice,2024,22,Missouri Southern,MIAA,225,21,37,.442,.651,1.093
+steven000juj,Juju Stevens,2022,19,Missouri,SEC,13,1,2,.538,.500,1.038
+steven000juj,Juju Stevens,2023,20,Missouri,SEC,83,1,26,.217,.395,.612
+steven000juj,Juju Stevens,2024,21,Missouri,SEC,33,3,9,.394,.370,.764
+steven000juj,Juju Stevens,2025,22,Georgia Southern,SBC,36,0,8,.333,.722,1.056
+swims-000dex,Dexter Swims,2019,19,Missouri Southern,MIAA,249,14,41,.371,.468,.839
+swims-000dex,Dexter Swims,2020,20,Missouri Southern,MIAA,80,6,21,.363,.408,.771
+swims-000dex,Dexter Swims,2021,21,Missouri Southern,MIAA,178,21,33,.390,.453,.843
+swims-000dex,Dexter Swims,2022,22,Missouri,SEC,6,1,0,.333,.250,.583
+swims-000dex,Dexter Swims,2023,23,Memphis,Amer,3,0,1,.000,.000,.000
+wilmsm000ty-,Ty Wilmsmeyer,2020,20,Missouri,SEC,1,0,0,.000,.000,.000
+wilmsm000ty-,Ty Wilmsmeyer,2021,21,Missouri,SEC,60,12,19,.424,.267,.690
+wilmsm000ty-,Ty Wilmsmeyer,2022,22,Missouri,SEC,200,12,42,.332,.355,.687
+wilmsm000ty-,Ty Wilmsmeyer,2023,23,Missouri,SEC,220,15,43,.380,.482,.861
+wilmsm000ty-,Ty Wilmsmeyer,2024,24,Arkansas,SEC,137,14,33,.319,.256,.575
+crawfo000gra,Graham Crawford,2022,21,Alabama,SEC,4,0,3,.000,.000,.000
+crawfo000gra,Graham Crawford,2023,22,Southern Mississippi,SBC,8,0,4,.000,.000,.000
+crawfo000gra,Graham Crawford,2024,23,Southern Mississippi,SBC,2,1,0,1.000,1.000,2.000
+denton000zan,Zane Denton,2020,19,Alabama,SEC,47,3,11,.277,.341,.618
+denton000zan,Zane Denton,2021,20,Alabama,SEC,262,35,52,.405,.489,.893
+denton000zan,Zane Denton,2022,21,Alabama,SEC,264,22,67,.337,.483,.820
+denton000zan,Zane Denton,2023,22,Tennessee,SEC,268,46,62,.403,.566,.969
+diodat000owe,Owen Diodati,2020,18,Alabama,SEC,72,13,13,.431,.673,1.103
+diodat000owe,Owen Diodati,2021,19,Alabama,SEC,226,19,61,.314,.420,.734
+diodat000owe,Owen Diodati,2022,20,Alabama,SEC,187,25,43,.364,.462,.826
+diodat000owe,Owen Diodati,2023,21,Oregon,P12,62,5,20,.226,.255,.480
+eblin-000bry,Bryce Eblin,2021,19,Alabama,SEC,46,7,8,.457,.474,.930
+eblin-000bry,Bryce Eblin,2022,20,Alabama,SEC,179,13,30,.314,.331,.645
+eblin-000bry,Bryce Eblin,2023,21,Alabama,SEC,95,8,14,.333,.378,.711
+eblin-000bry,Bryce Eblin,2024,22,Alabama,SEC,163,7,22,.327,.450,.777
+foggo-000eri,Eric Foggo,2018,18,Stetson,ASun,133,5,36,.286,.407,.692
+foggo-000eri,Eric Foggo,2019,19,Stetson,ASun,204,22,49,.368,.444,.812
+foggo-000eri,Eric Foggo,2020,20,Stetson,ASun,66,7,6,.394,.579,.973
+foggo-000eri,Eric Foggo,2021,21,Stetson,ASun,195,23,34,.344,.434,.777
+foggo-000eri,Eric Foggo,2022,22,Alabama,SEC,48,6,13,.354,.610,.964
+hamite000wil,Will Hamiter,2020,20,Alabama,SEC,3,0,0,.333,.333,.667
+hamite000wil,Will Hamiter,2021,21,Alabama,SEC,236,22,45,.356,.394,.750
+hamite000wil,Will Hamiter,2022,22,Alabama,SEC,141,10,28,.336,.411,.747
+hamite000wil,Will Hamiter,2023,23,Alabama,SEC,102,12,14,.356,.405,.761
+hamite000wil,Will Hamiter,2024,24,Alabama,SEC,99,11,20,.384,.482,.866
+haysli000cam,Camden Hayslip,2022,20,Alabama,SEC,16,0,7,.188,.400,.588
+haysli000cam,Camden Hayslip,2023,21,Alabama,SEC,21,2,6,.286,.368,.654
+haysli000cam,Camden Hayslip,2024,22,Alabama,SEC,13,2,6,.154,.000,.154
+haysli000cam,Camden Hayslip,2025,23,Alabama-Birmingham,Amer,206,16,62,.306,.535,.841
+heller001dav,Davis Heller,2021,20,Alabama,SEC,33,6,10,.364,.222,.586
+heller001dav,Davis Heller,2022,21,Alabama,SEC,12,2,5,.333,.300,.633
+hodo--000wil,Will Hodo,2022,19,Alabama,SEC,36,4,12,.361,.375,.736
+hodo--000wil,Will Hodo,2023,20,Alabama,SEC,124,16,23,.411,.420,.831
+hodo--000wil,Will Hodo,2024,21,Alabama,SEC,244,34,48,.393,.490,.883
+hodo--000wil,Will Hodo,2025,22,Alabama,SEC,259,33,61,.425,.576,1.000
+jarvis000jim,Jim Jarvis,2020,19,Alabama,SEC,58,8,7,.411,.311,.722
+jarvis000jim,Jim Jarvis,2021,20,Alabama,SEC,214,26,16,.362,.306,.669
+jarvis000jim,Jim Jarvis,2022,21,Alabama,SEC,266,30,35,.367,.367,.733
+jarvis000jim,Jim Jarvis,2023,22,Alabama,SEC,299,33,38,.379,.418,.797
+pinckn002and,Andrew Pinckney,2021,20,Alabama,SEC,111,3,37,.297,.333,.631
+pinckn002and,Andrew Pinckney,2022,21,Alabama,SEC,236,17,51,.383,.500,.883
+pinckn002and,Andrew Pinckney,2023,22,Alabama,SEC,288,40,68,.442,.648,1.090
+porter012wil,Will Portera,2022,20,Alabama,SEC,33,1,4,.313,.276,.588
+porter012wil,Will Portera,2023,21,Alabama,SEC,29,3,9,.321,.292,.613
+porter012wil,Will Portera,2024,22,Alabama,SEC,20,2,4,.250,.133,.383
+rose--000cad,Caden Rose,2021,19,Alabama,SEC,162,13,46,.285,.343,.628
+rose--000cad,Caden Rose,2022,20,Alabama,SEC,171,25,42,.435,.440,.875
+rose--000cad,Caden Rose,2023,21,Alabama,SEC,186,26,40,.383,.503,.886
+seidl-000tom,Tommy Seidl,2018,20,Harvard,IVY,34,3,8,.303,.207,.510
+seidl-000tom,Tommy Seidl,2019,21,Harvard,IVY,31,6,11,.323,.250,.573
+seidl-000tom,Tommy Seidl,2020,22,Harvard,IVY,25,2,5,.400,.545,.945
+seidl-000tom,Tommy Seidl,2022,24,Alabama,SEC,222,19,41,.385,.401,.786
+seidl-000tom,Tommy Seidl,2023,25,Alabama,SEC,241,32,48,.456,.548,1.005
+tamez-000dom,Dominic Tamez,2020,19,Arkansas,SEC,11,1,2,.455,.400,.855
+tamez-000dom,Dominic Tamez,2022,21,Alabama,SEC,233,18,36,.341,.393,.734
+tamez-000dom,Dominic Tamez,2023,22,Alabama,SEC,205,25,31,.376,.445,.821
+willia003dre,Drew Williamson,2019,19,Alabama,SEC,219,40,50,.425,.381,.805
+willia003dre,Drew Williamson,2020,20,Alabama,SEC,72,18,11,.521,.480,1.001
+willia003dre,Drew Williamson,2021,21,Alabama,SEC,198,26,41,.367,.400,.767
+willia003dre,Drew Williamson,2022,22,Alabama,SEC,255,28,55,.384,.495,.880
+willia003dre,Drew Williamson,2023,23,Alabama,SEC,287,42,69,.411,.519,.930
+belk--000bra,Brandt Belk,2017,19,Pepperdine,WCC,29,1,4,.276,.333,.609
+belk--000bra,Brandt Belk,2018,20,Pepperdine,WCC,185,9,24,.361,.418,.778
+belk--000bra,Brandt Belk,2019,21,Pepperdine,WCC,135,8,14,.363,.455,.818
+belk--000bra,Brandt Belk,2020,22,Missouri,SEC,58,9,13,.544,.652,1.196
+belk--000bra,Brandt Belk,2021,23,Missouri,SEC,176,8,26,.320,.416,.736
+belk--000bra,Brandt Belk,2022,24,South Carolina,SEC,227,25,20,.420,.500,.920
+braswe000mic,Michael Braswell,2022,19,South Carolina,SEC,231,27,54,.365,.378,.743
+braswe000mic,Michael Braswell,2023,20,South Carolina,SEC,183,28,40,.372,.353,.725
+braswe000mic,Michael Braswell,2024,21,Louisiana State,SEC,256,29,38,.411,.453,.864
+braswe000mic,Michael Braswell,2025,22,Louisiana State,SEC,185,19,35,.309,.270,.579
+burges001col,Colin Burgess,2020,19,South Carolina,SEC,29,2,5,.357,.423,.780
+burges001col,Colin Burgess,2021,20,South Carolina,SEC,196,9,27,.327,.329,.656
+burges001col,Colin Burgess,2022,21,South Carolina,SEC,186,23,31,.355,.363,.718
+cino--000con,Connor Cino,2021,19,South Carolina,SEC,8,1,3,.375,.286,.661
+cino--000con,Connor Cino,2022,20,South Carolina,SEC,27,3,9,.308,.348,.656
+cromer003dav,David Cromer,2022,20,South Carolina,SEC,2,1,1,.500,.000,.500
+cromer003dav,David Cromer,2023,21,South Carolina,SEC,5,1,1,.600,.500,1.100
+cromer003dav,David Cromer,2024,22,South Carolina,SEC,2,1,0,.500,,
+ector-000tha,Thad Ector,2022,18,South Carolina,SEC,18,2,7,.167,.067,.233
+ector-000tha,Thad Ector,2024,20,UNC Charlotte,Amer,165,29,33,.442,.430,.872
+ector-000tha,Thad Ector,2025,21,UNC Charlotte,Amer,123,16,32,.344,.402,.746
+eyster000and,Andrew Eyster,2019,20,South Carolina,SEC,190,20,56,.389,.576,.965
+eyster000and,Andrew Eyster,2020,21,South Carolina,SEC,70,7,15,.400,.593,.993
+eyster000and,Andrew Eyster,2021,22,South Carolina,SEC,251,20,76,.371,.484,.854
+eyster000and,Andrew Eyster,2022,23,South Carolina,SEC,228,21,55,.399,.520,.919
+hogan-000mat,Matt Hogan,2019,19,Vanderbilt,SEC,5,1,2,.200,.000,.200
+hogan-000mat,Matt Hogan,2020,20,Vanderbilt,SEC,2,0,2,.000,.000,.000
+hogan-000mat,Matt Hogan,2021,21,Vanderbilt,SEC,13,0,2,.154,.231,.385
+hogan-000mat,Matt Hogan,2022,22,South Carolina,SEC,69,9,21,.318,.255,.573
+hogan-000mat,Matt Hogan,2023,23,Oral Roberts,SUMT,292,51,72,.460,.662,1.123
+hornun000car,Carson Hornung,2022,18,South Carolina,SEC,111,19,23,.342,.297,.639
+hornun000car,Carson Hornung,2023,19,South Carolina,SEC,168,43,43,.464,.393,.857
+hornun000car,Carson Hornung,2024,20,South Carolina,SEC,10,2,4,.300,.250,.550
+hornun000car,Carson Hornung,2025,21,Jacksonville State,CUSA,266,46,55,.434,.451,.885
+lambro000eli,Elijah Lambros,2022,19,South Carolina,SEC,42,6,12,.300,.152,.452
+lambro000eli,Elijah Lambros,2023,20,Maryland,BTen,271,33,51,.404,.541,.944
+lambro000eli,Elijah Lambros,2024,21,Maryland,BTen,225,26,50,.373,.439,.811
+lambro000eli,Elijah Lambros,2025,22,Maryland,BTen,236,33,41,.411,.460,.871
+lecroy000tal,Talmadge LeCroy,2022,19,South Carolina,SEC,120,19,24,.381,.305,.687
+lecroy000tal,Talmadge LeCroy,2023,20,South Carolina,SEC,230,30,45,.430,.422,.852
+lecroy000tal,Talmadge LeCroy,2024,21,South Carolina,SEC,268,38,56,.389,.332,.720
+lecroy000tal,Talmadge LeCroy,2025,22,South Carolina,SEC,64,14,11,.391,.250,.641
+madden001kev,Kevin Madden,2019,20,Virginia Tech,ACC,218,11,29,.362,.423,.785
+madden001kev,Kevin Madden,2020,21,Virginia Tech,ACC,71,4,11,.300,.453,.753
+madden001kev,Kevin Madden,2021,22,Virginia Tech,ACC,221,11,22,.361,.418,.779
+madden001kev,Kevin Madden,2022,23,South Carolina,SEC,229,14,21,.314,.368,.682
+madden001kev,Kevin Madden,2023,24,South Carolina,SEC,11,1,2,.182,.400,.582
+madden001kev,Kevin Madden,2024,25,College of Charleston,CAA,243,18,27,.368,.562,.929
+mahone004jac,Jack Mahoney,2021,19,South Carolina,SEC,0,33.1,27,6,0,8
+mahone004jac,Jack Mahoney,2023,21,South Carolina,SEC,4,84.1,86,39,8,29
+messin000col,Cole Messina,2022,19,South Carolina,SEC,35,4,8,.257,.133,.390
+messin000col,Cole Messina,2023,20,South Carolina,SEC,285,40,48,.428,.615,1.043
+messin000col,Cole Messina,2024,21,South Carolina,SEC,286,50,67,.465,.701,1.166
+sightl000jos,Josiah Sightler,2019,19,South Carolina,SEC,31,1,18,.097,.133,.230
+sightl000jos,Josiah Sightler,2020,20,South Carolina,SEC,4,1,1,.250,.000,.250
+sightl000jos,Josiah Sightler,2021,21,South Carolina,SEC,216,17,46,.352,.437,.789
+sightl000jos,Josiah Sightler,2022,22,South Carolina,SEC,201,19,42,.408,.629,1.037
+stone-000eva,Evan Stone,2022,19,South Carolina,SEC,107,10,30,.317,.207,.524
+stone-000eva,Evan Stone,2023,20,South Carolina,SEC,146,19,48,.371,.315,.686
+stone-000eva,Evan Stone,2024,21,South Carolina,SEC,13,3,3,.583,.500,1.083
+stone-000eva,Evan Stone,2025,22,South Carolina,SEC,109,10,28,.336,.398,.734
+valinc000vyt,Vytas Valincius,2022,19,South Carolina,SEC,6,0,3,.167,.167,.333
+valinc000vyt,Vytas Valincius,2024,21,Illinois,BTen,240,37,51,.396,.513,.909
+valinc000vyt,Vytas Valincius,2025,22,Illinois,BTen,242,33,28,.434,.520,.953
+vasque000jal,Jalen Vasquez,2021,19,South Carolina,SEC,7,1,5,.143,.000,.143
+vasque000jal,Jalen Vasquez,2022,20,South Carolina,SEC,37,3,13,.278,.323,.600
+vasque000jal,Jalen Vasquez,2023,21,North Greenville,CCar,217,32,34,.444,.624,1.068
+wimmer000bra,Braylen Wimmer,2020,19,South Carolina,SEC,46,0,12,.233,.220,.452
+wimmer000bra,Braylen Wimmer,2021,20,South Carolina,SEC,232,13,60,.322,.512,.834
+wimmer000bra,Braylen Wimmer,2022,21,South Carolina,SEC,244,15,54,.361,.466,.827
+wimmer000bra,Braylen Wimmer,2023,22,South Carolina,SEC,256,30,55,.409,.561,.970
+alford000sla,Slate Alford,2022,19,Mississippi State,SEC,52,9,13,.346,.279,.625
+alford000sla,Slate Alford,2023,20,Mississippi State,SEC,176,14,32,.313,.459,.771
+alford000sla,Slate Alford,2024,21,Georgia,SEC,300,26,63,.370,.539,.909
+alford000sla,Slate Alford,2025,22,Georgia,SEC,293,39,50,.440,.649,1.089
+clark-002kel,Kellum Clark,2021,20,Mississippi State,SEC,110,14,29,.355,.495,.849
+clark-002kel,Kellum Clark,2022,21,Mississippi State,SEC,222,26,47,.369,.556,.926
+clark-002kel,Kellum Clark,2023,22,Mississippi State,SEC,218,28,49,.394,.545,.940
+corder000mat,Matt Corder,2022,--,Mississippi State,SEC,50,9,10,.320,.317,.637
+corder000mat,Matt Corder,2023,--,Delta State,GSC,48,3,19,.255,.357,.612
+cumbes000bra,Brad Cumbest,2019,18,Mississippi State,SEC,55,3,12,.345,.429,.774
+cumbes000bra,Brad Cumbest,2020,19,Mississippi State,SEC,24,1,10,.167,.304,.471
+cumbes000bra,Brad Cumbest,2021,20,Mississippi State,SEC,137,9,33,.372,.537,.909
+cumbes000bra,Brad Cumbest,2022,21,Mississippi State,SEC,219,12,46,.347,.584,.931
+davis-006jes,Jess Davis,2019,20,Alabama-Birmingham,CUSA,258,26,51,.391,.431,.822
+davis-006jes,Jess Davis,2020,21,Alabama-Birmingham,CUSA,76,5,14,.342,.435,.777
+davis-006jes,Jess Davis,2021,22,Alabama-Birmingham,CUSA,229,27,38,.367,.355,.722
+davis-006jes,Jess Davis,2022,23,Mississippi State,SEC,104,11,27,.369,.345,.714
+downs-000aar,Aaron Downs,2022,20,Mississippi State,SEC,40,4,15,.308,.294,.602
+downs-000aar,Aaron Downs,2023,21,Mississippi State,SEC,28,5,9,.393,.261,.654
+downs-000aar,Aaron Downs,2024,22,Mississippi State,SEC,111,13,31,.394,.347,.742
+downs-000aar,Aaron Downs,2025,23,Mississippi State,SEC,87,9,15,.379,.592,.971
+forsyt000lan,Lane Forsythe,2021,19,Mississippi State,SEC,218,23,56,.321,.274,.595
+forsyt000lan,Lane Forsythe,2022,20,Mississippi State,SEC,128,15,38,.359,.318,.678
+forsyt000lan,Lane Forsythe,2023,21,Mississippi State,SEC,139,26,23,.397,.358,.755
+forsyt000lan,Lane Forsythe,2024,22,Oklahoma State,B12,258,45,62,.414,.371,.786
+hancoc000luk,Luke Hancock,2019,20,Mississippi State,SEC,59,11,10,.483,.419,.901
+hancoc000luk,Luke Hancock,2020,21,Mississippi State,SEC,29,2,4,.310,.308,.618
+hancoc000luk,Luke Hancock,2021,22,Mississippi State,SEC,295,47,17,.393,.406,.799
+hancoc000luk,Luke Hancock,2022,23,Mississippi State,SEC,266,36,20,.406,.419,.825
+hancoc000luk,Luke Hancock,2023,24,Mississippi State,SEC,226,42,19,.438,.456,.894
+hines-002hun,Hunter Hines,2022,19,Mississippi State,SEC,244,29,58,.393,.600,.993
+hines-002hun,Hunter Hines,2023,20,Mississippi State,SEC,232,23,64,.375,.683,1.058
+hines-002hun,Hunter Hines,2024,21,Mississippi State,SEC,286,33,74,.346,.486,.832
+hines-002hun,Hunter Hines,2025,22,Mississippi State,SEC,250,33,60,.380,.578,.958
+james-000kam,Kamren James,2020,20,Mississippi State,SEC,56,3,10,.339,.423,.762
+james-000kam,Kamren James,2021,21,Mississippi State,SEC,294,31,60,.354,.454,.808
+james-000kam,Kamren James,2022,22,Mississippi State,SEC,254,30,47,.398,.474,.872
+legget000tan,Tanner Leggett,2020,21,Mississippi State,SEC,20,2,8,.250,.118,.368
+legget000tan,Tanner Leggett,2021,22,Mississippi State,SEC,99,10,25,.337,.321,.658
+legget000tan,Tanner Leggett,2022,23,Mississippi State,SEC,98,8,18,.298,.446,.744
+mcgowa000dre,Drew McGowan,2020,19,Mississippi State,SEC,10,0,4,.100,.100,.200
+mcgowa000dre,Drew McGowan,2021,20,Mississippi State,SEC,44,8,3,.364,.273,.636
+mcgowa000dre,Drew McGowan,2022,21,Mississippi State,SEC,31,4,8,.323,.192,.515
+meche-000dav,Davis Meche,2021,19,Mississippi State,SEC,15,2,4,.400,.333,.733
+meche-000dav,Davis Meche,2022,20,Mississippi State,SEC,17,3,7,.353,.429,.782
+meche-000dav,Davis Meche,2023,21,Louisiana-Monroe,SBC,59,1,15,.196,.315,.511
+meche-000dav,Davis Meche,2025,23,McNeese State,SLC,149,11,20,.387,.397,.784
+seiber000von,Von Seibert,2022,21,Mississippi State,SEC,53,6,17,.396,.273,.669
+seiber000von,Von Seibert,2023,22,Mississippi State,SEC,8,2,3,.375,.167,.542
+skinne001bra,Brayland Skinner,2021,21,Mississippi State,SEC,99,12,23,.333,.301,.635
+skinne001bra,Brayland Skinner,2022,22,Mississippi State,SEC,34,1,10,.294,.333,.627
+skinne001bra,Brayland Skinner,2023,23,Memphis,Amer,207,24,35,.364,.444,.808
+tanner000log,Logan Tanner,2020,19,Mississippi State,SEC,49,8,7,.388,.439,.827
+tanner000log,Logan Tanner,2021,20,Mississippi State,SEC,285,39,48,.382,.525,.907
+tanner000log,Logan Tanner,2022,21,Mississippi State,SEC,248,32,45,.387,.425,.812
+yeager000rj-,RJ Yeager,2018,19,Mercer,SoCo,274,25,41,.410,.458,.868
+yeager000rj-,RJ Yeager,2019,20,Mercer,SoCo,297,24,41,.333,.415,.748
+yeager000rj-,RJ Yeager,2020,21,Mercer,SoCo,77,13,9,.434,.386,.820
+yeager000rj-,RJ Yeager,2021,22,Mercer,SoCo,272,17,35,.363,.564,.927
+yeager000rj-,RJ Yeager,2022,23,Mississippi State,SEC,229,18,35,.389,.668,1.057
+heyman000luk,Luke Heyman,2023,19,Florida,SEC,216,18,53,.366,.555,.921
+heyman000luk,Luke Heyman,2024,20,Florida,SEC,304,23,74,.342,.481,.823
+heyman000luk,Luke Heyman,2025,21,Florida,SEC,204,22,38,.397,.578,.975
+kurlan000cad,Cade Kurland,2023,19,Florida,SEC,312,26,64,.404,.555,.959
+kurlan000cad,Cade Kurland,2024,20,Florida,SEC,287,22,73,.346,.457,.803
+kurlan000cad,Cade Kurland,2025,21,Florida,SEC,51,10,10,.490,.605,1.095
+robert020mic,Michael Robertson,2023,20,Florida,SEC,228,33,47,.360,.280,.640
+robert020mic,Michael Robertson,2024,21,Florida,SEC,192,12,46,.319,.360,.680
+robert020mic,Michael Robertson,2025,22,Liberty,CUSA,217,30,52,.286,.208,.494
+schiek000ric,Richie Schiekofer,2018,19,Maryland,BTen,46,5,10,.326,.167,.493
+schiek000ric,Richie Schiekofer,2020,21,Rutgers,BTen,69,7,14,.478,.607,1.085
+schiek000ric,Richie Schiekofer,2021,22,Rutgers,BTen,201,13,31,.403,.404,.807
+schiek000ric,Richie Schiekofer,2022,23,Rutgers,BTen,217,25,26,.421,.464,.884
+schiek000ric,Richie Schiekofer,2023,24,Florida,SEC,58,3,10,.259,.264,.523
+shelnu000tyl,Tyler Shelnut,2023,21,Florida,SEC,202,23,49,.371,.474,.845
+shelnu000tyl,Tyler Shelnut,2024,22,Florida,SEC,290,32,88,.360,.530,.890
+thomas004dal,Dale Thomas,2020,19,Coastal Carolina,SBC,12,1,2,.333,.273,.606
+thomas004dal,Dale Thomas,2021,20,Coastal Carolina,SBC,209,22,37,.377,.404,.780
+thomas004dal,Dale Thomas,2022,21,Coastal Carolina,SBC,257,31,48,.377,.550,.927
+thomas004dal,Dale Thomas,2023,22,Florida,SEC,64,14,17,.429,.438,.866
+thomas004dal,Dale Thomas,2024,23,Florida,SEC,193,28,35,.348,.344,.692
+frey--001eth,Ethan Frey,2023,19,Louisiana State,SEC,23,3,6,.348,.316,.664
+frey--001eth,Ethan Frey,2024,20,Louisiana State,SEC,65,6,16,.292,.281,.573
+frey--001eth,Ethan Frey,2025,21,Louisiana State,SEC,212,29,47,.420,.641,1.061
+guidry000gav,Gavin Guidry,2023,19,Louisiana State,SEC,0,28.2,23,12,4,12
+guidry000gav,Gavin Guidry,2024,20,Louisiana State,SEC,0,24.1,14,7,2,18
+jones-013jar,Jared Jones,2023,19,Louisiana State,SEC,202,36,69,.426,.640,1.065
+jones-013jar,Jared Jones,2024,20,Louisiana State,SEC,295,59,76,.454,.747,1.201
+jones-013jar,Jared Jones,2025,21,Louisiana State,SEC,326,38,85,.414,.613,1.027
+kling-000pax,Paxton Kling,2023,20,Louisiana State,SEC,106,9,27,.390,.522,.913
+kling-000pax,Paxton Kling,2024,21,Louisiana State,SEC,173,27,43,.409,.317,.727
+kling-000pax,Paxton Kling,2025,22,Penn State,BTen,269,37,45,.470,.632,1.102
+neal--000bra,Brady Neal,2023,18,Louisiana State,SEC,95,21,27,.411,.388,.799
+neal--000bra,Brady Neal,2024,19,Louisiana State,SEC,142,20,35,.408,.578,.986
+neal--000bra,Brady Neal,2025,20,Alabama,SEC,165,29,40,.373,.336,.709
+nippol000ben,Ben Nippolt,2022,21,Virginia Commonwealth,A10,221,31,19,.430,.407,.837
+nippol000ben,Ben Nippolt,2023,22,Louisiana State,SEC,60,10,9,.362,.209,.571
+nippol000ben,Ben Nippolt,2024,23,Louisiana State,SEC,18,3,4,.444,.250,.694
+paul--004mic,Mic Paul,2023,19,Louisiana State,SEC,10,1,3,.200,.111,.311
+paul--004mic,Mic Paul,2025,21,Louisiana State,SEC,14,4,4,.538,.250,.788
+white-000tom,Tommy White,2022,19,NC State,ACC,266,23,50,.425,.757,1.182
+white-000tom,Tommy White,2023,20,Louisiana State,SEC,310,23,41,.432,.725,1.158
+white-000tom,Tommy White,2024,21,Louisiana State,SEC,314,27,38,.401,.638,1.039
+bolton001joh,John Bolton,2021,22,Austin Peay,OVC,156,10,32,.252,.234,.485
+bolton001joh,John Bolton,2022,23,Austin Peay,OVC,225,27,37,.384,.399,.782
+bolton001joh,John Bolton,2023,24,Arkansas,SEC,186,26,39,.358,.248,.606
+cali--000cal,Caleb Cali,2023,22,Arkansas,SEC,204,27,41,.412,.512,.923
+coll--000har,Harold Coll,2023,21,Arkansas,SEC,94,7,21,.301,.463,.764
+coll--000har,Harold Coll,2024,22,Houston,B12,236,23,45,.394,.601,.995
+grimes000hun,Hunter Grimes,2019,19,Texas-San Antonio,CUSA,71,3,16,.343,.515,.858
+grimes000hun,Hunter Grimes,2020,20,Texas-San Antonio,CUSA,14,1,2,.214,.154,.368
+grimes000hun,Hunter Grimes,2023,23,Arkansas,SEC,40,9,14,.368,.259,.628
+holt--000pey,Peyton Holt,2023,22,Arkansas,SEC,88,9,13,.489,.581,1.070
+holt--000pey,Peyton Holt,2024,23,Arkansas,SEC,177,16,25,.412,.507,.919
+jones-005jay,Jayson Jones,2023,19,Arkansas,SEC,62,14,15,.403,.370,.773
+jones-005jay,Jayson Jones,2024,20,Arkansas,SEC,83,8,26,.301,.403,.704
+jones-005jay,Jayson Jones,2025,21,Oklahoma State,B12,216,20,55,.306,.354,.660
+josenb000tav,Tavian Josenberger,2021,19,Kansas,B12,236,20,29,.392,.413,.805
+josenb000tav,Tavian Josenberger,2022,20,Kansas,B12,244,25,33,.357,.386,.743
+josenb000tav,Tavian Josenberger,2023,21,Arkansas,SEC,241,41,51,.414,.490,.904
+mclaug000ben,Ben McLaughlin,2023,21,Arkansas,SEC,95,11,11,.442,.487,.929
+mclaug000ben,Ben McLaughlin,2024,22,Arkansas,SEC,262,50,30,.447,.490,.937
+nevill000mas,Mason Neville,2023,19,Arkansas,SEC,33,4,20,.250,.148,.398
+nevill000mas,Mason Neville,2024,20,Oregon,P12,179,25,60,.369,.664,1.033
+nevill000mas,Mason Neville,2025,21,Oregon,BTen,280,53,66,.429,.724,1.152
+polk--000hud,Hudson Polk,2021,20,Oklahoma,B12,6,0,0,.333,.833,1.167
+polk--000hud,Hudson Polk,2022,21,Oklahoma,B12,24,7,8,.522,.563,1.084
+polk--000hud,Hudson Polk,2023,22,Arkansas,SEC,73,8,16,.342,.310,.653
+polk--000hud,Hudson Polk,2024,23,Arkansas,SEC,26,4,9,.269,.286,.555
+robine000ree,Reese Robinett,2023,20,Arkansas,SEC,26,1,9,.269,.480,.749
+robine000ree,Reese Robinett,2025,22,Arkansas,SEC,91,16,26,.400,.438,.838
+rowlan000par,Parker Rowland,2020,19,Arkansas State,SBC,26,2,7,.167,.000,.167
+rowlan000par,Parker Rowland,2021,20,Arkansas State,SBC,63,2,21,.258,.271,.529
+rowlan000par,Parker Rowland,2023,22,Arkansas,SEC,168,21,57,.293,.238,.531
+rowlan000par,Parker Rowland,2024,23,Arkansas,SEC,42,9,7,.410,.414,.824
+wegner000jar,Jared Wegner,2019,19,Creighton,BigE,149,16,43,.369,.336,.705
+wegner000jar,Jared Wegner,2020,20,Creighton,BigE,22,3,4,.409,.444,.854
+wegner000jar,Jared Wegner,2021,21,Creighton,BigE,72,4,19,.324,.354,.678
+wegner000jar,Jared Wegner,2022,22,Creighton,BigE,229,30,42,.459,.635,1.094
+wegner000jar,Jared Wegner,2023,23,Arkansas,SEC,188,33,42,.457,.673,1.131
+arias-000iva,Ivan Arias,2023,20,Vanderbilt,SEC,3,1,0,.333,.000,.333
+arias-000iva,Ivan Arias,2024,21,Dayton,A10,199,34,29,.439,.420,.860
+arias-000iva,Ivan Arias,2025,22,Franklin Pierce,NE10,205,35,19,.405,.382,.787
+austin000rj-,RJ Austin,2023,19,Vanderbilt,SEC,280,29,48,.351,.390,.741
+austin000rj-,RJ Austin,2024,20,Vanderbilt,SEC,277,23,38,.402,.471,.873
+austin000rj-,RJ Austin,2025,21,Vanderbilt,SEC,267,21,47,.353,.383,.736
+maldon002chr,Chris Maldonado,2023,20,Vanderbilt,SEC,187,20,37,.411,.542,.953
+maldon002chr,Chris Maldonado,2024,21,Vanderbilt,SEC,20,5,3,.450,.154,.604
+maldon002chr,Chris Maldonado,2025,22,Vanderbilt,SEC,44,6,17,.250,.143,.393
+rogers000jd-,JD Rogers,2023,20,Vanderbilt,SEC,7,1,2,.429,.333,.762
+rogers000jd-,JD Rogers,2024,21,Vanderbilt,SEC,20,4,5,.474,.533,1.007
+rogers000jd-,JD Rogers,2025,22,Vanderbilt,SEC,23,4,4,.304,.444,.749
+schrec000rj-,RJ Schreck,2019,18,Duke,ACC,89,10,30,.284,.260,.544
+schrec000rj-,RJ Schreck,2020,19,Duke,ACC,13,3,2,.308,.100,.408
+schrec000rj-,RJ Schreck,2021,20,Duke,ACC,246,27,43,.435,.635,1.070
+schrec000rj-,RJ Schreck,2022,21,Duke,ACC,217,26,29,.401,.486,.887
+schrec000rj-,RJ Schreck,2023,22,Vanderbilt,SEC,292,48,32,.454,.588,1.042
+guardi000rya,Ryan Guardino,2021,22,Wofford,SoCo,7,1,3,.143,.000,.143
+guardi000rya,Ryan Guardino,2022,23,Tennessee Tech,OVC,213,22,37,.408,.661,1.070
+guardi000rya,Ryan Guardino,2023,24,Alabama,SEC,10,4,4,.500,.333,.833
+johnso003ed-,Ed Johnson,2019,19,Auburn,SEC,8,1,2,.375,.286,.661
+johnso003ed-,Ed Johnson,2021,21,Tennessee Tech,OVC,201,14,30,.406,.483,.889
+johnso003ed-,Ed Johnson,2022,22,Tennessee Tech,OVC,289,19,31,.420,.591,1.011
+johnso003ed-,Ed Johnson,2023,23,Alabama,SEC,247,34,34,.426,.455,.881
+shelto002col,Colby Shelton,2023,20,Alabama,SEC,248,33,61,.419,.729,1.148
+shelto002col,Colby Shelton,2024,21,Florida,SEC,311,35,82,.374,.551,.925
+shelto002col,Colby Shelton,2025,22,Florida,SEC,203,21,24,.458,.606,1.064
+swinne000mas,Mason Swinney,2023,19,Alabama,SEC,14,5,2,.571,.444,1.016
+swinne000mas,Mason Swinney,2024,20,Alabama,SEC,77,16,22,.408,.286,.694
+swinne000mas,Mason Swinney,2025,21,Dallas Baptist,CUSA,41,4,9,.275,.200,.475
+west--000jax,Jaxson West,2023,19,Alabama,SEC,35,7,4,.371,.333,.705
+west--000jax,Jaxson West,2024,20,Florida State,ACC,183,27,19,.398,.404,.802
+west--000jax,Jaxson West,2025,21,Florida State,ACC,188,30,16,.370,.311,.680
+willia004max,Max Williams,2023,18,Alabama,SEC,31,5,6,.452,.440,.892
+willia004max,Max Williams,2024,19,Florida State,ACC,259,19,54,.384,.582,.967
+willia004max,Max Williams,2025,20,Florida State,ACC,261,19,42,.383,.598,.981
+brewer000dyl,Dylan Brewer,2020,19,Clemson,ACC,63,14,13,.413,.408,.821
+brewer000dyl,Dylan Brewer,2021,20,Clemson,ACC,215,29,65,.332,.420,.751
+brewer000dyl,Dylan Brewer,2022,21,Clemson,ACC,178,16,43,.295,.338,.633
+brewer000dyl,Dylan Brewer,2023,22,South Carolina,SEC,218,38,61,.394,.415,.809
+brewer000dyl,Dylan Brewer,2024,23,South Carolina,SEC,167,22,28,.395,.463,.858
+denny-000cal,Caleb Denny,2020,20,Oral Roberts,SUMT,64,6,19,.333,.315,.648
+denny-000cal,Caleb Denny,2021,21,Oral Roberts,SUMT,234,20,63,.359,.456,.815
+denny-000cal,Caleb Denny,2022,22,Oral Roberts,SUMT,271,22,53,.389,.565,.954
+denny-000cal,Caleb Denny,2023,23,South Carolina,SEC,177,21,55,.343,.381,.724
+french003jon,Jonathan French,2021,20,Clemson,ACC,118,14,38,.347,.416,.763
+french003jon,Jonathan French,2022,21,Clemson,ACC,164,20,48,.333,.428,.761
+french003jon,Jonathan French,2023,22,South Carolina,SEC,98,17,34,.371,.346,.717
+french003jon,Jonathan French,2024,23,Houston,B12,173,27,49,.386,.540,.926
+mcgill008wil,Will McGillis,2019,20,Southern Mississippi,CUSA,191,13,41,.328,.293,.621
+mcgill008wil,Will McGillis,2020,21,Southern Mississippi,CUSA,56,5,10,.357,.447,.804
+mcgill008wil,Will McGillis,2021,22,Southern Mississippi,CUSA,237,28,50,.362,.503,.865
+mcgill008wil,Will McGillis,2022,23,Southern Mississippi,CUSA,287,32,57,.394,.543,.937
+mcgill008wil,Will McGillis,2023,24,South Carolina,SEC,128,19,23,.469,.798,1.267
+petry-000eth,Ethan Petry,2023,19,South Carolina,SEC,276,33,59,.471,.733,1.204
+petry-000eth,Ethan Petry,2024,20,South Carolina,SEC,289,51,73,.471,.639,1.110
+petry-000eth,Ethan Petry,2025,21,South Carolina,SEC,190,26,33,.437,.590,1.027
+tippet000wil,Will Tippett,2023,20,South Carolina,SEC,140,19,47,.305,.291,.596
+tippet000wil,Will Tippett,2024,21,South Carolina,SEC,178,26,63,.335,.361,.696
+tippet000wil,Will Tippett,2025,22,South Carolina,SEC,49,8,15,.313,.333,.646
+veach-000chr,Chris Veach,2021,19,Presbyterian,BigS,0,20.0,13,6,2,10
+veach-000chr,Chris Veach,2023,21,South Carolina,SEC,1,26.0,16,10,2,15
+veach-000chr,Chris Veach,2024,22,South Carolina,SEC,2,44.2,33,18,3,24
+ahuna-000mau,Maui Ahuna,2021,19,Kansas,B12,220,28,38,.413,.422,.834
+ahuna-000mau,Maui Ahuna,2022,20,Kansas,B12,236,28,49,.479,.634,1.112
+ahuna-000mau,Maui Ahuna,2023,21,Tennessee,SEC,247,37,77,.425,.537,.962
+chapma000ree,Reese Chapman,2023,19,Tennessee,SEC,24,3,3,.417,.579,.996
+chapma000ree,Reese Chapman,2024,20,Tennessee,SEC,134,17,38,.398,.519,.917
+chapma000ree,Reese Chapman,2025,21,Tennessee,SEC,250,21,73,.344,.523,.867
+dreili000dyl,Dylan Dreiling,2023,20,Tennessee,SEC,120,24,20,.433,.621,1.054
+dreili000dyl,Dylan Dreiling,2024,21,Tennessee,SEC,303,53,62,.459,.715,1.174
+jaslov000aus,Austen Jaslove,2023,21,Tennessee,SEC,42,4,6,.268,.243,.512
+jaslov000aus,Austen Jaslove,2024,22,Arkansas State,SBC,186,7,28,.360,.441,.801
+jaslov000aus,Austen Jaslove,2025,23,Austin Peay,ASun,56,4,5,.389,.458,.847
+kendro000jak,Jake Kendro,2023,20,Tennessee,SEC,37,4,14,.306,.438,.743
+kendro000jak,Jake Kendro,2024,21,Pittsburgh,ACC,198,25,68,.367,.406,.773
+kendro000jak,Jake Kendro,2025,22,Pittsburgh,ACC,144,14,37,.308,.305,.613
+merrit000gri,Griffin Merritt,2019,19,Cincinnati,Amer,116,9,33,.278,.300,.578
+merrit000gri,Griffin Merritt,2020,20,Cincinnati,Amer,52,8,12,.462,.667,1.128
+merrit000gri,Griffin Merritt,2021,21,Cincinnati,Amer,221,22,59,.362,.511,.873
+merrit000gri,Griffin Merritt,2022,22,Cincinnati,Amer,225,21,60,.382,.695,1.077
+merrit000gri,Griffin Merritt,2023,23,Tennessee,SEC,222,18,50,.392,.648,1.040
+miller017rya,Ryan Miller,2023,20,Tennessee,SEC,17,5,2,.647,1.364,2.011
+miller017rya,Ryan Miller,2024,21,Ohio State,BTen,94,17,31,.426,.535,.961
+miller017rya,Ryan Miller,2025,22,Ohio State,BTen,133,9,39,.361,.509,.870
+stark-001cal,Cal Stark,2023,20,Tennessee,SEC,150,19,50,.365,.351,.716
+stark-001cal,Cal Stark,2024,21,Tennessee,SEC,169,19,59,.353,.511,.864
+tears-000kav,Kavares Tears,2023,20,Tennessee,SEC,66,7,18,.379,.518,.897
+tears-000kav,Kavares Tears,2024,21,Tennessee,SEC,293,45,74,.427,.643,1.070
+byars-000isa,Isaiah Byars,2019,19,Alabama,SEC,12,1,5,.333,.273,.606
+byars-000isa,Isaiah Byars,2021,21,North Florida,ASun,148,20,34,.386,.345,.731
+byars-000isa,Isaiah Byars,2022,22,North Florida,ASun,236,20,50,.387,.478,.866
+byars-000isa,Isaiah Byars,2023,23,Kentucky,SEC,30,2,8,.167,.148,.315
+ewell-000ken,Kendal Ewell,2020,19,Eastern Kentucky,OVC,6,0,2,.167,.167,.333
+ewell-000ken,Kendal Ewell,2021,20,Eastern Kentucky,OVC,200,22,57,.390,.509,.899
+ewell-000ken,Kendal Ewell,2022,21,Eastern Kentucky,ASun,276,40,79,.482,.607,1.089
+ewell-000ken,Kendal Ewell,2023,22,Kentucky,SEC,46,7,17,.333,.216,.550
+ewell-000ken,Kendal Ewell,2024,23,Illinois-Chicago,MVC,255,35,54,.494,.795,1.289
+giles-000ryd,Ryder Giles,2019,19,East Carolina,Amer,0,24.0,22,10,3,5
+giles-000ryd,Ryder Giles,2020,20,East Carolina,Amer,1,4.1,6,5,1,1
+giles-000ryd,Ryder Giles,2021,21,East Carolina,Amer,1,12.1,12,6,3,2
+giles-000ryd,Ryder Giles,2022,22,East Carolina,Amer,1,44.0,45,16,5,8
+giles-000ryd,Ryder Giles,2023,23,Kentucky,SEC,1,18.1,18,8,2,4
+gillia000hun,Hunter Gilliam,2019,--,Longwood,BigS,175,6,52,.295,.377,.671
+gillia000hun,Hunter Gilliam,2020,--,Longwood,BigS,60,7,13,.383,.415,.798
+gillia000hun,Hunter Gilliam,2021,--,Longwood,BigS,200,16,58,.343,.420,.764
+gillia000hun,Hunter Gilliam,2022,--,Longwood,BigS,220,30,49,.395,.579,.974
+gillia000hun,Hunter Gilliam,2023,--,Kentucky,SEC,276,30,45,.414,.551,.965
+gray--001jac,Jackson Gray,2019,19,Washington (MO),UAA,157,20,21,.417,.446,.863
+gray--001jac,Jackson Gray,2021,21,Western Kentucky,CUSA,215,29,45,.460,.592,1.053
+gray--001jac,Jackson Gray,2022,22,Western Kentucky,CUSA,170,19,53,.312,.399,.710
+gray--001jac,Jackson Gray,2023,23,Kentucky,SEC,290,41,60,.491,.543,1.035
+herrer000pat,Patrick Herrera,2022,20,Northwestern,BTen,143,20,34,.457,.478,.935
+herrer000pat,Patrick Herrera,2023,21,Kentucky,SEC,8,0,2,.375,.375,.750
+herrer000pat,Patrick Herrera,2024,22,Kentucky,SEC,89,15,21,.494,.390,.884
+herrer000pat,Patrick Herrera,2025,23,Kentucky,SEC,215,29,33,.440,.394,.834
+mccoy-005jam,James McCoy,2023,21,Kentucky,SEC,153,22,60,.349,.433,.782
+mccoy-005jam,James McCoy,2024,22,Kentucky,SEC,181,25,53,.369,.387,.756
+mccoy-005jam,James McCoy,2025,23,Kentucky,SEC,110,15,22,.448,.429,.876
+smith-003gra,Grant Smith,2020,19,Incarnate Word,SLC,69,7,10,.456,.446,.902
+smith-003gra,Grant Smith,2021,20,Incarnate Word,SLC,211,14,41,.354,.447,.801
+smith-003gra,Grant Smith,2022,21,Incarnate Word,SLC,243,34,42,.401,.493,.893
+smith-003gra,Grant Smith,2023,22,Kentucky,SEC,240,19,54,.380,.448,.828
+smith-003gra,Grant Smith,2024,23,Kentucky,SEC,202,15,47,.335,.343,.678
+stanke000cha,Chase Stanke,2019,19,Minnesota,BTen,61,8,14,.350,.240,.590
+stanke000cha,Chase Stanke,2020,20,Minnesota,BTen,62,4,13,.262,.245,.508
+stanke000cha,Chase Stanke,2021,21,Minnesota,BTen,141,11,19,.355,.352,.707
+stanke000cha,Chase Stanke,2022,22,Minnesota,BTen,224,22,43,.323,.513,.836
+stanke000cha,Chase Stanke,2023,23,Kentucky,SEC,91,14,19,.382,.269,.651
+waldsc000rya,Ryan Waldschmidt,2022,19,Charleston Southern,BigS,198,36,26,.485,.559,1.043
+waldsc000rya,Ryan Waldschmidt,2023,20,Kentucky,SEC,262,35,42,.427,.445,.872
+waldsc000rya,Ryan Waldschmidt,2024,21,Kentucky,SEC,273,41,45,.469,.610,1.079
+green-000cad,Caden Green,2023,20,Auburn,SEC,183,21,37,.331,.279,.610
+green-000cad,Caden Green,2024,21,Auburn,SEC,95,6,13,.372,.500,.872
+irish-000ike,Ike Irish,2023,19,Auburn,SEC,273,26,45,.429,.546,.975
+irish-000ike,Ike Irish,2024,20,Auburn,SEC,217,23,29,.403,.627,1.030
+irish-000ike,Ike Irish,2025,21,Auburn,SEC,258,33,37,.469,.710,1.179
+kirby-000jus,Justin Kirby,2019,18,Kent State,MAC,173,17,33,.398,.619,1.017
+kirby-000jus,Justin Kirby,2020,19,Kent State,MAC,44,4,8,.318,.270,.588
+kirby-000jus,Justin Kirby,2021,20,Kent State,MAC,171,18,45,.386,.473,.859
+kirby-000jus,Justin Kirby,2022,21,Kent State,MAC,239,28,55,.420,.646,1.067
+kirby-000jus,Justin Kirby,2023,22,Auburn,SEC,163,27,45,.383,.515,.898
+mcmurr000coo,Cooper McMurray,2022,20,Kansas,B12,140,23,35,.374,.540,.914
+mcmurr000coo,Cooper McMurray,2023,21,Auburn,SEC,187,45,51,.460,.625,1.085
+mcmurr000coo,Cooper McMurray,2024,22,Auburn,SEC,236,47,55,.449,.603,1.053
+mcmurr000coo,Cooper McMurray,2025,23,Auburn,SEC,281,39,66,.431,.588,1.019
+miller000gav,Gavin Miller,2023,19,Auburn,SEC,29,4,8,.448,.364,.812
+miller000gav,Gavin Miller,2024,20,Auburn,SEC,72,7,18,.361,.500,.861
+miller000gav,Gavin Miller,2025,21,Pittsburgh,ACC,89,7,26,.326,.234,.560
+stanfi000chr,Chris Stanfield,2023,19,Auburn,SEC,189,18,45,.364,.409,.772
+stanfi000chr,Chris Stanfield,2024,20,Auburn,SEC,220,24,38,.365,.395,.760
+stanfi000chr,Chris Stanfield,2025,21,Louisiana State,SEC,255,36,52,.414,.404,.818
+wortha000bro,Brody Wortham,2019,--,West Georgia,GSC,100,10,14,.404,.420,.824
+wortha000bro,Brody Wortham,2020,--,West Georgia,GSC,77,4,14,.377,.465,.841
+wortha000bro,Brody Wortham,2021,--,West Georgia,GSC,195,21,22,.487,.577,1.064
+wortha000bro,Brody Wortham,2022,--,West Georgia,GSC,208,14,21,.435,.585,1.019
+wortha000bro,Brody Wortham,2023,--,Auburn,SEC,36,3,5,.306,.194,.499
+wright005car,Carter Wright,2023,20,Auburn,SEC,39,5,5,.359,.226,.585
+wright005car,Carter Wright,2024,21,Auburn,SEC,95,8,14,.400,.424,.824
+bard--000han,Hank Bard,2023,22,Texas A&M,SEC,92,22,15,.413,.353,.766
+bard--000han,Hank Bard,2024,23,Texas A&M,SEC,43,7,8,.349,.333,.682
+chestn000tra,Travis Chestnut,2023,21,Texas A&M,SEC,23,2,6,.318,.450,.768
+chestn000tra,Travis Chestnut,2024,22,Texas A&M,SEC,147,29,43,.441,.411,.853
+chestn000tra,Travis Chestnut,2025,23,St. Edward's,LSC,280,46,62,.456,.523,.980
+gregso000jd-,JD Gregson,2021,19,Baylor,B12,2,0,1,.000,.000,.000
+gregso000jd-,JD Gregson,2023,21,Texas A&M,SEC,25,3,12,.320,.227,.547
+gregso000jd-,JD Gregson,2024,22,Incarnate Word,SLC,183,11,44,.339,.530,.869
+gregso000jd-,JD Gregson,2025,23,Incarnate Word,SLC,65,3,10,.297,.316,.613
+haas--000hun,Hunter Haas,2021,19,Arizona State,P12,238,15,25,.371,.402,.773
+haas--000hun,Hunter Haas,2022,20,Arizona State,P12,75,10,15,.342,.237,.580
+haas--000hun,Hunter Haas,2023,21,Texas A&M,SEC,311,49,39,.447,.506,.953
+kaufer000max,Max Kaufer,2023,18,Texas A&M,SEC,134,27,30,.343,.221,.564
+kaufer000max,Max Kaufer,2024,19,Texas A&M,SEC,32,8,5,.516,.500,1.016
+kaufer000max,Max Kaufer,2025,20,South Carolina,SEC,55,7,19,.291,.244,.535
+kent--000kae,Kaeden Kent,2023,19,Texas A&M,SEC,94,8,17,.330,.373,.703
+kent--000kae,Kaeden Kent,2024,20,Texas A&M,SEC,129,16,20,.414,.491,.905
+kent--000kae,Kaeden Kent,2025,21,Texas A&M,SEC,251,37,35,.398,.544,.943
+laviol000jac,Jace LaViolette,2023,19,Texas A&M,SEC,280,48,75,.414,.632,1.047
+laviol000jac,Jace LaViolette,2024,20,Texas A&M,SEC,334,64,81,.449,.726,1.175
+laviol000jac,Jace LaViolette,2025,21,Texas A&M,SEC,262,57,66,.427,.576,1.003
+tracy-000tab,Tab Tracy,2022,19,Houston,Amer,30,2,9,.241,.185,.427
+tracy-000tab,Tab Tracy,2023,20,Texas A&M,SEC,46,3,14,.370,.419,.788
+tracy-000tab,Tab Tracy,2025,22,Lamar,SLC,233,37,27,.436,.360,.795
+tucker001sta,Stanley Tucker,2023,21,Texas A&M,SEC,27,5,6,.407,.364,.771
+wells-000kas,Kasen Wells,2023,19,Texas A&M,SEC,73,13,17,.397,.276,.673
+bargo-000dal,Dalton Bargo,2023,19,Missouri,SEC,195,19,44,.379,.442,.822
+bargo-000dal,Dalton Bargo,2024,20,Tennessee,SEC,126,12,37,.373,.551,.924
+bargo-000dal,Dalton Bargo,2025,21,Tennessee,SEC,236,26,64,.366,.559,.925
+chick-000cam,Cam Chick,2019,19,Nebraska,BTen,201,23,45,.333,.327,.661
+chick-000cam,Cam Chick,2020,20,Nebraska,BTen,72,4,8,.347,.547,.894
+chick-000cam,Cam Chick,2021,21,Nebraska,BTen,191,25,52,.387,.468,.855
+chick-000cam,Cam Chick,2022,22,Nebraska,BTen,226,37,67,.425,.456,.881
+chick-000cam,Cam Chick,2023,23,Missouri,SEC,139,25,41,.331,.168,.499
+daniel001bro,Brock Daniels,2023,20,Missouri,SEC,1,0,1,.000,.000,.000
+daniel001bro,Brock Daniels,2024,21,Missouri,SEC,134,9,40,.356,.452,.808
+daniel001bro,Brock Daniels,2025,22,Missouri,SEC,137,7,29,.353,.421,.774
+garcia004mat,Matt Garcia,2020,19,Bethune-Cookman,MEAC,73,4,11,.274,.304,.578
+garcia004mat,Matt Garcia,2022,21,Bethune-Cookman,SWAC,266,15,52,.367,.460,.828
+garcia004mat,Matt Garcia,2023,22,Missouri,SEC,152,18,42,.347,.388,.734
+garcia004mat,Matt Garcia,2024,23,Missouri,SEC,185,15,50,.337,.382,.719
+heberl000aid,Aiden Heberlie,2023,19,Missouri,SEC,2,0,0,.000,.000,.000
+heberl000aid,Aiden Heberlie,2025,21,Dayton,A10,128,13,32,.328,.274,.602
+lovich000jac,Jackson Lovich,2023,19,Missouri,SEC,53,7,16,.321,.370,.690
+lovich000jac,Jackson Lovich,2024,20,Missouri,SEC,204,20,53,.377,.540,.918
+lovich000jac,Jackson Lovich,2025,21,Missouri,SEC,216,20,52,.430,.622,1.052
+mosh--000jac,Jack Mosh,2023,20,Missouri,SEC,2,1,0,1.000,2.000,3.000
+mosh--000jac,Jack Mosh,2025,22,Minnesota,BTen,10,0,4,.300,.667,.967
+zeisle000hen,Hank Zeisler,2019,20,Chapman,SCIA,190,27,31,.412,.529,.941
+zeisle000hen,Hank Zeisler,2020,21,Chapman,SCIA,67,15,6,.582,.940,1.522
+zeisle000hen,Hank Zeisler,2021,22,Chapman,SCIA,104,19,17,.510,.713,1.222
+zeisle000hen,Hank Zeisler,2022,23,Nevada-Las Vegas,MWC,271,33,57,.494,.693,1.188
+zeisle000hen,Hank Zeisler,2023,24,Missouri,SEC,237,42,43,.441,.640,1.081
+condon000cha,Charlie Condon,2023,20,Georgia,SEC,254,33,45,.484,.800,1.284
+condon000cha,Charlie Condon,2024,21,Georgia,SEC,304,57,41,.556,1.009,1.565
+david-000wil,Will David,2019,15,Samford,SoCo,4,1,1,.500,.333,.833
+david-000wil,Will David,2020,16,Samford,SoCo,44,8,6,.524,.500,1.024
+david-000wil,Will David,2021,17,Samford,SoCo,227,24,30,.396,.372,.767
+david-000wil,Will David,2022,18,Samford,SoCo,238,31,29,.412,.434,.846
+david-000wil,Will David,2023,19,Georgia,SEC,201,18,43,.338,.449,.787
+finley000lei,Leighton Finley,2023,19,Georgia,SEC,2,27.1,31,19,6,10
+finley000lei,Leighton Finley,2024,20,Georgia,SEC,1,76.0,74,35,15,28
+finley000lei,Leighton Finley,2025,21,Georgia,SEC,2,68.2,56,37,12,25
+hoskin000mat,Matthew Hoskins,2023,19,Georgia,SEC,2,19.2,15,9,1,10
+hoskin000mat,Matthew Hoskins,2024,20,Georgia,SEC,0,3.2,4,8,1,7
+hoskin000mat,Matthew Hoskins,2025,21,Georgia,SEC,2,27.1,24,18,3,23
+laplan000mas,Mason LaPlante,2019,19,Yale,IVY,169,17,18,.423,.404,.827
+laplan000mas,Mason LaPlante,2020,20,Yale,IVY,48,9,6,.458,.378,.837
+laplan000mas,Mason LaPlante,2022,22,Yale,IVY,183,21,24,.379,.379,.758
+laplan000mas,Mason LaPlante,2023,23,Georgia,SEC,222,17,25,.358,.396,.754
+murill000seb,Sebastian Murillo,2021,20,Long Beach State,BigW,94,11,17,.418,.487,.904
+murill000seb,Sebastian Murillo,2022,21,Long Beach State,BigW,218,28,51,.390,.333,.723
+murill000seb,Sebastian Murillo,2023,22,Georgia,SEC,205,28,52,.372,.414,.786
+murill000seb,Sebastian Murillo,2024,23,Georgia,SEC,107,19,13,.396,.361,.758
+stinso002jos,Josh Stinson,2021,20,Georgia,SEC,8,1,0,.500,.333,.833
+stinso002jos,Josh Stinson,2023,22,Georgia,SEC,35,2,4,.257,.344,.601
+stinso002jos,Josh Stinson,2024,23,Georgia,SEC,22,1,7,.227,.105,.333
+tate--001jos,Josh Tate,2023,19,Georgia,SEC,25,5,4,.400,.421,.821
+tate--001jos,Josh Tate,2024,20,Georgia Southern,SBC,285,39,32,.475,.489,.964
+tate--001jos,Josh Tate,2025,21,Georgia Southern,SBC,285,27,37,.437,.606,1.042
+thomas009jus,Justin Thomas,2023,19,Georgia,SEC,40,7,15,.350,.241,.591
+thomas009jus,Justin Thomas,2025,21,Arkansas,SEC,214,34,49,.438,.515,.953
+chance000bry,Bryce Chance,2023,20,Mississippi State,SEC,125,20,15,.444,.430,.874
+chance000bry,Bryce Chance,2024,21,Mississippi State,SEC,254,26,18,.370,.429,.799
+chance000bry,Bryce Chance,2025,22,Mississippi State,SEC,242,23,39,.399,.466,.866
+cheste000nat,Nate Chester,2023,21,Mississippi State,SEC,23,2,4,.348,.263,.611
+cheste000nat,Nate Chester,2024,22,Mississippi State,SEC,45,10,7,.386,.265,.651
+cheste000nat,Nate Chester,2025,23,Mississippi State,SEC,7,3,2,.714,.000,.714
+highfi000ros,Ross Highfill,2023,19,Mississippi State,SEC,142,12,38,.312,.521,.832
+highfi000ros,Ross Highfill,2024,20,Mississippi State,SEC,14,1,4,.214,.100,.314
+highfi000ros,Ross Highfill,2025,21,Mississippi State,SEC,150,11,44,.345,.339,.683
+hoyle-000wil,Wil Hoyle,2019,20,Duke,ACC,38,4,16,.222,.097,.319
+hoyle-000wil,Wil Hoyle,2020,21,Duke,ACC,38,3,12,.324,.500,.824
+hoyle-000wil,Wil Hoyle,2021,22,Duke,ACC,135,16,40,.344,.400,.744
+hoyle-000wil,Wil Hoyle,2022,23,Duke,ACC,202,26,46,.333,.299,.632
+hoyle-000wil,Wil Hoyle,2023,24,Mississippi State,SEC,15,1,4,.400,.500,.900
+hubbar001bry,Bryce Hubbard,2023,19,Mississippi State,SEC,4,0,1,.250,.250,.500
+hubbar001bry,Bryce Hubbard,2025,21,Oregon State,D1IN,33,10,9,.485,.200,.685
+hujsak000con,Connor Hujsak,2021,19,Virginia Commonwealth,A10,212,25,55,.346,.460,.806
+hujsak000con,Connor Hujsak,2022,20,Virginia Commonwealth,A10,285,25,51,.363,.526,.888
+hujsak000con,Connor Hujsak,2023,21,Mississippi State,SEC,47,2,10,.277,.452,.729
+hujsak000con,Connor Hujsak,2024,22,Mississippi State,SEC,232,16,32,.413,.555,.968
+jordan000dak,Dakota Jordan,2023,20,Mississippi State,SEC,184,25,46,.397,.575,.972
+jordan000dak,Dakota Jordan,2024,21,Mississippi State,SEC,290,44,84,.459,.671,1.129
+larry-000ama,Amani Larry,2022,21,New Orleans,SLC,258,32,29,.477,.578,1.055
+larry-000ama,Amani Larry,2023,22,Mississippi State,SEC,230,34,26,.451,.512,.963
+larry-000ama,Amani Larry,2024,23,Mississippi State,SEC,295,37,41,.394,.413,.808
+ledbet001col,Colton Ledbetter,2021,19,Samford,SoCo,65,6,21,.338,.441,.779
+ledbet001col,Colton Ledbetter,2022,20,Samford,SoCo,248,30,28,.407,.640,1.047
+ledbet001col,Colton Ledbetter,2023,21,Mississippi State,SEC,248,47,36,.452,.574,1.025
+mersho000dav,David Mershon,2023,20,Mississippi State,SEC,107,20,17,.427,.305,.732
+mersho000dav,David Mershon,2024,21,Mississippi State,SEC,276,41,38,.454,.500,.954
+calarc000ant,Anthony Calarco,2019,19,Northwestern,BTen,89,14,30,.326,.247,.572
+calarc000ant,Anthony Calarco,2020,20,Northwestern,BTen,22,5,4,.364,.235,.599
+calarc000ant,Anthony Calarco,2021,21,Northwestern,BTen,169,19,35,.379,.564,.942
+calarc000ant,Anthony Calarco,2022,22,Northwestern,BTen,234,34,52,.432,.619,1.050
+calarc000ant,Anthony Calarco,2023,23,Mississippi,SEC,198,24,42,.379,.423,.801
+furnis002wil,Will Furniss,2023,19,Mississippi,SEC,147,13,33,.367,.397,.764
+furnis002wil,Will Furniss,2024,20,Mississippi,SEC,177,27,46,.350,.473,.823
+furnis002wil,Will Furniss,2025,21,Mississippi,SEC,250,43,56,.424,.517,.941
+gatlin000bo-,Bo Gatlin,2023,22,Mississippi,SEC,15,0,3,.400,.417,.817
+gatlin000bo-,Bo Gatlin,2024,23,Mississippi,SEC,43,4,12,.372,.344,.716
+groff-000eth,Ethan Groff,2020,20,Tulane,Amer,38,1,10,.263,.444,.708
+groff-000eth,Ethan Groff,2021,21,Tulane,Amer,176,15,37,.306,.333,.640
+groff-000eth,Ethan Groff,2022,22,Tulane,Amer,186,24,26,.503,.709,1.211
+groff-000eth,Ethan Groff,2023,23,Mississippi,SEC,248,29,36,.379,.427,.806
+groff-000eth,Ethan Groff,2024,24,Mississippi,SEC,251,29,54,.361,.392,.754
+lege--000eth,Ethan Lege,2020,19,Nicholls State,SLC,14,1,2,.429,.385,.813
+lege--000eth,Ethan Lege,2023,22,Mississippi,SEC,211,12,16,.332,.359,.691
+lege--000eth,Ethan Lege,2024,23,Mississippi,SEC,191,22,16,.424,.645,1.069
+maddox001ril,Riley Maddox,2022,19,Mississippi,SEC,1,22.1,26,13,1,9
+maddox001ril,Riley Maddox,2023,20,Mississippi,SEC,0,3.0,12,13,2,4
+maddox001ril,Riley Maddox,2024,21,Mississippi,SEC,7,69.0,79,42,5,23
+maddox001ril,Riley Maddox,2025,22,Mississippi,SEC,5,69.2,71,43,11,30
+morris001mas,Mason Morris,2023,19,Mississippi,SEC,0,7.2,11,5,1,7
+morris001mas,Mason Morris,2024,20,Mississippi,SEC,2,33.0,29,24,4,21
+morris001mas,Mason Morris,2025,21,Mississippi,SEC,1,54.2,45,20,6,21
+plattn000wil,Will Plattner,2023,19,Mississippi,SEC,13,2,4,.417,.400,.817
+plattn000wil,Will Plattner,2025,21,Alabama,SEC,102,13,24,.363,.391,.754
+simay-000tim,Tim Simay,2023,--,Mississippi,SEC,3,0,1,.667,.667,1.333
+simay-000tim,Tim Simay,2025,--,Southern Illinois,MVC,230,33,27,.452,.539,.991
+uterma000jud,Judd Utermark,2023,19,Mississippi,SEC,39,1,17,.179,.297,.477
+uterma000jud,Judd Utermark,2024,20,Mississippi,SEC,112,10,46,.313,.440,.753
+uterma000jud,Judd Utermark,2025,21,Mississippi,SEC,287,30,92,.376,.599,.976
+amick-000bil,Billy Amick,2022,19,Clemson,ACC,19,0,11,.105,.105,.211
+amick-000bil,Billy Amick,2023,20,Clemson,ACC,192,13,32,.464,.772,1.236
+amick-000bil,Billy Amick,2024,21,Tennessee,SEC,292,29,53,.387,.639,1.026
+antigu000ari,Ariel Antigua,2024,19,Tennessee,SEC,25,2,9,.280,.304,.584
+antigu000ari,Ariel Antigua,2025,20,Tennessee,SEC,91,9,12,.302,.205,.508
+backus000col,Colby Backus,2024,22,Tennessee,SEC,38,6,13,.500,.968,1.468
+backus000col,Colby Backus,2025,23,Tennessee,SEC,19,2,7,.316,.313,.628
+bates-000cam,Camden Bates,2024,20,Tennessee,SEC,12,3,3,.417,.625,1.042
+bates-000cam,Camden Bates,2025,21,Arizona State,B12,6,0,4,.167,.167,.333
+curley000dea,Dean Curley,2024,20,Tennessee,SEC,268,31,47,.386,.502,.888
+curley000dea,Dean Curley,2025,21,Tennessee,SEC,294,45,47,.435,.531,.966
+high--000hun,Hunter High,2024,20,Tennessee,SEC,14,1,3,.429,.615,1.044
+high--000hun,Hunter High,2025,21,Tennessee,SEC,15,5,5,.600,.667,1.267
+lohry-000bra,Bradke Lohry,2024,21,Tennessee,SEC,42,10,14,.452,.345,.797
+lohry-000bra,Bradke Lohry,2025,22,South Florida,Amer,238,36,47,.367,.332,.699
+peeble000can,Cannon Peebles,2023,19,NC State,ACC,172,27,29,.456,.697,1.153
+peeble000can,Cannon Peebles,2024,20,Tennessee,SEC,153,30,34,.379,.328,.707
+peeble000can,Cannon Peebles,2025,21,Tennessee,SEC,203,19,43,.335,.483,.818
+perry-002ale,Alex Perry,2024,21,Tennessee,SEC,10,3,2,.500,.286,.786
+sharp-000bra,Brayden Sharp,2024,19,Tennessee,SEC,0,3.0,2,0,0,0
+sharp-000bra,Brayden Sharp,2025,20,Tennessee,SEC,0,8.0,7,6,4,5
+villen001rob,Robin Villeneuve,2024,20,Tennessee,SEC,103,14,38,.447,.513,.959
+appel-000jac,Jackson Appel,2020,18,Pennsylvania,IVY,0,0,0,,,
+appel-000jac,Jackson Appel,2021,19,Pennsylvania,IVY,29,3,3,.429,.409,.838
+appel-000jac,Jackson Appel,2022,20,Pennsylvania,IVY,207,23,13,.420,.525,.945
+appel-000jac,Jackson Appel,2023,21,Pennsylvania,IVY,247,25,26,.389,.467,.856
+appel-000jac,Jackson Appel,2024,22,Texas A&M,SEC,282,34,33,.422,.534,.956
+bell--008jac,Jack Bell,2024,19,Texas A&M,SEC,26,8,5,.500,.500,1.000
+bell--008jac,Jack Bell,2025,20,Texas Christian,B12,170,26,43,.376,.453,.830
+binder000bla,Blake Binderup,2024,20,Texas A&M,SEC,49,9,17,.367,.359,.726
+binder000bla,Blake Binderup,2025,21,Texas A&M,SEC,135,14,41,.341,.478,.819
+burton000ted,Ted Burton,2020,20,Michigan,BTen,40,3,9,.275,.333,.608
+burton000ted,Ted Burton,2021,21,Michigan,BTen,137,15,29,.434,.667,1.100
+burton000ted,Ted Burton,2022,22,Michigan,BTen,279,36,74,.375,.458,.834
+burton000ted,Ted Burton,2023,23,Michigan,BTen,252,32,53,.414,.565,.979
+burton000ted,Ted Burton,2024,24,Texas A&M,SEC,276,51,54,.438,.479,.917
+camari000ali,Ali Camarillo,2022,19,CS Northridge,BigW,133,7,9,.364,.306,.671
+camari000ali,Ali Camarillo,2023,20,CS Northridge,BigW,199,13,30,.421,.611,1.032
+camari000ali,Ali Camarillo,2024,21,Texas A&M,SEC,293,34,59,.384,.432,.816
+grahov000gav,Gavin Grahovac,2024,19,Texas A&M,SEC,328,36,95,.390,.596,.987
+grahov000gav,Gavin Grahovac,2025,20,Texas A&M,SEC,26,1,6,.346,.545,.892
+johnst000jet,Jett Johnston,2024,19,Texas A&M,SEC,0,2.0,5,6,2,2
+johnst000jet,Jett Johnston,2025,20,Auburn,SEC,0,11.1,7,6,4,8
+montgo002bra,Braden Montgomery,2022,19,Stanford,P12,274,18,73,.361,.596,.957
+montgo002bra,Braden Montgomery,2023,20,Stanford,P12,310,51,64,.461,.611,1.072
+montgo002bra,Braden Montgomery,2024,21,Texas A&M,SEC,295,53,59,.454,.733,1.187
+schott000hay,Hayden Schott,2022,22,Columbia,IVY,212,10,31,.349,.594,.943
+schott000hay,Hayden Schott,2023,23,Columbia,IVY,212,22,44,.410,.618,1.029
+schott000hay,Hayden Schott,2024,24,Texas A&M,SEC,306,34,59,.418,.498,.916
+schott000hay,Hayden Schott,2025,25,Texas A&M,SEC,153,14,42,.285,.319,.603
+sorrel001cad,Caden Sorrell,2024,19,Texas A&M,SEC,214,24,56,.369,.555,.924
+sorrel001cad,Caden Sorrell,2025,20,Texas A&M,SEC,114,16,25,.430,.789,1.219
+vossos000jus,Justin Vossos,2024,20,Texas A&M,SEC,9,1,3,.333,.250,.583
+vossos000jus,Justin Vossos,2025,21,Texas State,SBC,59,4,16,.281,.308,.588
+camero000gri,Griffin Cameron,2024,20,Kentucky,SEC,30,6,8,.379,.190,.570
+camero000gri,Griffin Cameron,2025,21,Kentucky,SEC,105,13,17,.333,.256,.589
+critte000ty-,Ty Crittenberger,2021,21,Western Kentucky,CUSA,129,9,37,.312,.375,.687
+critte000ty-,Ty Crittenberger,2022,22,Western Kentucky,CUSA,162,21,35,.395,.412,.807
+critte000ty-,Ty Crittenberger,2023,23,Western Kentucky,CUSA,267,25,44,.400,.454,.854
+critte000ty-,Ty Crittenberger,2024,24,Kentucky,SEC,33,4,11,.323,.481,.804
+daly--000mit,Mitchell Daly,2021,20,Texas,B12,256,31,41,.413,.416,.829
+daly--000mit,Mitchell Daly,2022,21,Texas,B12,259,32,47,.351,.367,.718
+daly--000mit,Mitchell Daly,2023,22,Texas,B12,222,27,48,.323,.403,.726
+daly--000mit,Mitchell Daly,2024,23,Kentucky,SEC,248,32,43,.431,.500,.931
+fawley000aus,Austin Fawley,2024,21,Kentucky,SEC,20,1,7,.263,.611,.874
+fawley000aus,Austin Fawley,2025,22,Mississippi,SEC,215,33,77,.386,.648,1.034
+garget000kyu,Kyuss Gargett,2024,19,Kentucky,SEC,25,2,6,.217,.429,.646
+garget000kyu,Kyuss Gargett,2025,20,Kentucky,SEC,113,8,19,.343,.330,.672
+hindle000eth,Ethan Hindle,2024,19,Kentucky,SEC,16,2,4,.313,.167,.479
+hindle000eth,Ethan Hindle,2025,20,Kentucky,SEC,93,13,22,.484,.448,.932
+lopez-002nic,Nick Lopez,2020,20,Illinois-Chicago,Horz,42,3,8,.310,.263,.573
+lopez-002nic,Nick Lopez,2022,22,Southern California,P12,192,22,23,.363,.460,.823
+lopez-002nic,Nick Lopez,2023,23,Southern California,P12,186,10,22,.328,.465,.793
+lopez-002nic,Nick Lopez,2024,24,Kentucky,SEC,260,22,33,.400,.537,.937
+nichol002rya,Ryan Nicholson,2020,19,Cincinnati,Amer,17,2,5,.471,.467,.937
+nichol002rya,Ryan Nicholson,2021,20,Cincinnati,Amer,198,26,31,.384,.412,.796
+nichol002rya,Ryan Nicholson,2022,21,Cincinnati,Amer,226,21,31,.354,.529,.883
+nichol002rya,Ryan Nicholson,2023,22,Cincinnati,Amer,244,28,59,.374,.607,.982
+nichol002rya,Ryan Nicholson,2024,23,Kentucky,SEC,245,28,56,.405,.689,1.094
+schram000luk,Lukas Schramm,2024,20,Kentucky,SEC,24,2,10,.304,.524,.828
+schram000luk,Lukas Schramm,2025,21,Campbell,CAA,120,17,33,.378,.463,.841
+small-001eli,Eli Small,2024,19,Kentucky,SEC,17,3,5,.471,.636,1.107
+aloy--000weh,Wehiwa Aloy,2023,19,Sacramento State,WAC,261,15,44,.427,.662,1.089
+aloy--000weh,Wehiwa Aloy,2024,20,Arkansas,SEC,274,25,55,.355,.485,.841
+aloy--000weh,Wehiwa Aloy,2025,21,Arkansas,SEC,311,32,64,.434,.673,1.107
+edmuns000wil,Will Edmunson,2024,21,Arkansas,SEC,107,11,12,.362,.333,.695
+edmuns000wil,Will Edmunson,2025,22,Oral Roberts,SUMT,289,26,34,.394,.466,.861
+helfri000ryd,Ryder Helfrick,2024,19,Arkansas,SEC,104,14,28,.320,.321,.642
+helfri000ryd,Ryder Helfrick,2025,20,Arkansas,SEC,236,32,53,.420,.616,1.036
+souza-000nol,Nolan Souza,2024,19,Arkansas,SEC,132,18,38,.366,.509,.876
+souza-000nol,Nolan Souza,2025,20,Arkansas,SEC,115,19,30,.374,.427,.801
+spragu000jar,Jared Sprague-Lott,2021,19,Richmond,A10,102,15,10,.490,.613,1.103
+spragu000jar,Jared Sprague-Lott,2022,20,Richmond,A10,269,31,43,.405,.423,.829
+spragu000jar,Jared Sprague-Lott,2023,21,Richmond,A10,249,44,31,.440,.582,1.022
+spragu000jar,Jared Sprague-Lott,2024,22,Arkansas,SEC,214,36,37,.425,.491,.916
+wagner001jac,Jack Wagner,2019,19,Kansas,B12,41,8,12,.415,.375,.790
+wagner001jac,Jack Wagner,2020,20,Kansas,B12,46,6,12,.378,.306,.683
+wagner001jac,Jack Wagner,2021,21,Kansas,B12,146,22,35,.385,.363,.747
+wagner001jac,Jack Wagner,2023,23,Tarleton State,WAC,215,28,42,.451,.692,1.143
+wagner001jac,Jack Wagner,2024,24,Arkansas,SEC,61,6,12,.344,.500,.844
+white-000hud,Hudson White,2022,19,Texas Tech,B12,261,35,37,.369,.395,.765
+white-000hud,Hudson White,2023,20,Texas Tech,B12,204,27,31,.397,.550,.947
+white-000hud,Hudson White,2024,21,Arkansas,SEC,187,23,28,.396,.525,.921
+branch000kol,Kolby Branch,2023,20,Baylor,B12,256,39,38,.430,.509,.939
+branch000kol,Kolby Branch,2024,21,Georgia,SEC,265,31,51,.366,.538,.904
+branch000kol,Kolby Branch,2025,22,Georgia,SEC,256,33,76,.398,.537,.935
+carter000dil,Dillon Carter,2020,19,Texas Tech,B12,69,13,7,.448,.380,.828
+carter000dil,Dillon Carter,2021,20,Texas Tech,B12,130,13,42,.318,.288,.606
+carter000dil,Dillon Carter,2022,21,Texas Tech,B12,182,26,73,.339,.322,.661
+carter000dil,Dillon Carter,2023,22,Texas Tech,B12,140,25,44,.449,.554,1.003
+carter000dil,Dillon Carter,2024,23,Georgia,SEC,116,25,32,.439,.500,.939
+chadwi000cla,Clayton Chadwick,2020,19,Sam Houston State,SLC,3,0,3,.000,.000,.000
+chadwi000cla,Clayton Chadwick,2021,20,Sam Houston State,SLC,126,13,27,.365,.358,.723
+chadwi000cla,Clayton Chadwick,2022,21,Sam Houston State,WAC,265,38,43,.460,.460,.920
+chadwi000cla,Clayton Chadwick,2023,22,Sam Houston State,WAC,278,37,35,.404,.500,.904
+chadwi000cla,Clayton Chadwick,2024,23,Georgia,SEC,202,28,27,.418,.444,.862
+farris000luk,Lukas Farris,2023,19,Western Kentucky,CUSA,206,16,62,.363,.544,.907
+farris000luk,Lukas Farris,2024,20,Georgia,SEC,20,2,9,.300,.313,.613
+goldst000dyl,Dylan Goldstein,2022,21,Florida Atlantic,CUSA,258,39,38,.473,.662,1.134
+goldst000dyl,Dylan Goldstein,2023,22,Florida Atlantic,CUSA,284,34,51,.413,.538,.952
+goldst000dyl,Dylan Goldstein,2024,23,Georgia,SEC,214,30,34,.421,.570,.990
+hunter000hen,Henry Hunter,2022,19,Alabama-Birmingham,CUSA,165,25,48,.407,.474,.881
+hunter000hen,Henry Hunter,2023,20,Alabama-Birmingham,CUSA,163,12,50,.247,.290,.537
+hunter000hen,Henry Hunter,2024,21,Georgia,SEC,88,13,23,.379,.500,.879
+hunter000hen,Henry Hunter,2025,22,Georgia,SEC,210,25,57,.371,.480,.851
+jordan000log,Logan Jordan,2022,21,Campbell,BigS,237,17,47,.350,.531,.881
+jordan000log,Logan Jordan,2023,22,Campbell,BigS,242,13,37,.394,.529,.923
+jordan000log,Logan Jordan,2024,23,Georgia,SEC,106,21,26,.425,.430,.855
+king--000tre,Trey King,2024,19,Georgia,SEC,31,2,5,.310,.269,.580
+king--000tre,Trey King,2025,20,Georgia,SEC,21,1,3,.333,.222,.556
+marant000joh,John Marant,2024,22,Georgia,SEC,28,6,9,.429,.300,.729
+phelps000tre,Tre Phelps,2024,20,Georgia,SEC,161,10,15,.441,.699,1.140
+phelps000tre,Tre Phelps,2025,21,Georgia,SEC,237,20,44,.409,.547,.957
+toetz-000pau,Paul Toetz,2021,20,Indiana,BTen,189,16,43,.365,.407,.772
+toetz-000pau,Paul Toetz,2022,21,Purdue,BTen,218,19,45,.362,.435,.798
+toetz-000pau,Paul Toetz,2023,22,Purdue,BTen,229,25,42,.425,.579,1.004
+toetz-000pau,Paul Toetz,2024,23,Georgia,SEC,165,19,32,.448,.543,.992
+zeldin000bri,Brian Zeldin,2020,19,Pennsylvania,IVY,0,2.0,1,0,0,2
+zeldin000bri,Brian Zeldin,2021,20,Pennsylvania,IVY,0,16.2,19,6,0,7
+zeldin000bri,Brian Zeldin,2022,21,Pennsylvania,IVY,0,5.1,3,1,0,5
+zeldin000bri,Brian Zeldin,2023,22,Pennsylvania,IVY,1,21.2,16,9,1,12
+zeldin000bri,Brian Zeldin,2024,23,Georgia,SEC,3,55.2,55,35,13,30
+zeldin000bri,Brian Zeldin,2025,24,Georgia,SEC,1,31.2,31,20,4,21
+bingha000sea,Mac Bingham,2020,19,Arizona,P12,48,9,5,.478,.500,.978
+bingha000sea,Mac Bingham,2021,20,Arizona,P12,178,25,29,.417,.390,.807
+bingha000sea,Mac Bingham,2022,21,Arizona,P12,272,21,58,.338,.459,.797
+bingha000sea,Mac Bingham,2023,22,Arizona,P12,297,32,43,.432,.573,1.006
+bingha000sea,Mac Bingham,2024,23,Louisiana State,SEC,200,21,39,.372,.425,.797
+brown-014jak,Jake Brown,2024,19,Louisiana State,SEC,108,10,21,.370,.440,.810
+brown-014jak,Jake Brown,2025,20,Louisiana State,SEC,212,23,34,.407,.528,.935
+kucher000rya,Ryan Kucherak,2024,19,Louisiana State,SEC,17,3,5,.471,.250,.721
+kucher000rya,Ryan Kucherak,2025,20,Northwestern,BTen,224,20,47,.379,.639,1.019
+larson000ash,Ashton Larson,2024,19,Louisiana State,SEC,172,22,38,.401,.426,.827
+larson000ash,Ashton Larson,2025,20,Louisiana State,SEC,52,9,14,.423,.487,.910
+milam-000ste,Steven Milam,2024,19,Louisiana State,SEC,262,32,36,.415,.516,.931
+milam-000ste,Steven Milam,2025,20,Louisiana State,SEC,295,41,27,.398,.506,.904
+ruddel000har,Zeb Ruddell,2024,20,Louisiana State,SEC,14,3,3,.429,.600,1.029
+ruddel000har,Zeb Ruddell,2025,21,Louisiana Tech,CUSA,210,34,41,.416,.503,.919
+cupp--000dyl,Dylan Cupp,2024,19,Mississippi State,SEC,84,11,14,.367,.318,.685
+cupp--000dyl,Dylan Cupp,2025,20,Mississippi State,SEC,116,21,22,.451,.424,.875
+dotson000luk,Luke Dotson,2024,20,Mississippi State,SEC,0,12.0,15,11,0,5
+dotson000luk,Luke Dotson,2025,21,Mississippi State,SEC,2,23.1,18,8,3,12
+kohler000log,Logan Kohler,2020,20,Oklahoma,B12,25,1,5,.200,.174,.374
+kohler000log,Logan Kohler,2021,21,Oklahoma,B12,43,1,13,.233,.300,.533
+kohler000log,Logan Kohler,2022,22,Memphis,Amer,234,27,44,.374,.436,.810
+kohler000log,Logan Kohler,2023,23,Memphis,Amer,225,22,49,.404,.574,.977
+kohler000log,Logan Kohler,2024,24,Mississippi State,SEC,230,26,65,.351,.389,.739
+long--004joh,Johnny Long,2020,19,Florida Gulf Coast,ASun,21,1,3,.286,.300,.586
+long--004joh,Johnny Long,2021,20,Florida Gulf Coast,ASun,155,18,16,.399,.359,.758
+long--004joh,Johnny Long,2022,21,Pittsburgh,ACC,30,5,6,.300,.167,.467
+long--004joh,Johnny Long,2023,22,Pittsburgh,ACC,106,8,22,.343,.315,.658
+long--004joh,Johnny Long,2024,23,Mississippi State,SEC,153,23,24,.354,.214,.567
+mckenz001jac,Jackson McKenzie,2024,20,Mississippi State,SEC,19,3,7,.316,.188,.503
+obrien015mic,Michael O'Brien,2024,20,Mississippi State,SEC,13,5,1,.462,.125,.587
+obrien015mic,Michael O'Brien,2025,21,Mississippi State,SEC,25,4,6,.320,.333,.653
+powell002joe,Joe Powell,2020,19,Cincinnati,Amer,38,2,8,.289,.353,.642
+powell002joe,Joe Powell,2021,20,Cincinnati,Amer,132,22,40,.351,.393,.744
+powell002joe,Joe Powell,2022,21,Cincinnati,Amer,166,22,39,.422,.574,.996
+powell002joe,Joe Powell,2024,23,Mississippi State,SEC,109,11,20,.343,.462,.805
+powell002joe,Joe Powell,2025,24,Mississippi State,SEC,124,13,37,.374,.594,.968
+pullia000eth,Ethan Pulliam,2024,19,Mississippi State,SEC,75,8,13,.307,.348,.655
+pullia000eth,Ethan Pulliam,2025,20,Mississippi State,SEC,9,1,1,.556,.667,1.222
+spalit000ste,Steven Spalitta,2024,19,Mississippi State,SEC,12,1,3,.250,.100,.350
+spalit000ste,Steven Spalitta,2025,20,Mississippi State,SEC,16,1,3,.438,.733,1.171
+stephe000kha,Khal Stephen,2022,19,Purdue,BTen,4,33.2,39,31,4,18
+stephe000kha,Khal Stephen,2023,20,Purdue,BTen,4,76.0,72,44,15,30
+stephe000kha,Khal Stephen,2024,21,Mississippi State,SEC,3,96.0,76,35,13,21
+steven001nol,Nolan Stevens,2024,19,Mississippi State,SEC,28,1,8,.321,.423,.745
+steven001nol,Nolan Stevens,2025,20,Mississippi State,SEC,116,13,25,.414,.500,.914
+barczi000col,Colin Barczi,2024,19,Vanderbilt,SEC,84,7,26,.298,.319,.617
+barczi000col,Colin Barczi,2025,20,Vanderbilt,SEC,215,12,47,.307,.439,.746
+davis-007jay,Jayden Davis,2023,19,Samford,SoCo,272,37,33,.452,.541,.994
+davis-007jay,Jayden Davis,2024,20,Vanderbilt,SEC,193,18,21,.394,.435,.828
+davis-007jay,Jayden Davis,2025,21,Vanderbilt,SEC,74,8,14,.297,.297,.594
+holcom001bra,Braden Holcomb,2024,19,Vanderbilt,SEC,119,15,43,.345,.466,.811
+holcom001bra,Braden Holcomb,2025,20,Vanderbilt,SEC,180,21,48,.378,.503,.881
+humphr001jac,Jacob Humphrey,2022,19,Massachusetts-Lowell,AEC,253,36,46,.456,.426,.882
+humphr001jac,Jacob Humphrey,2023,20,Massachusetts-Lowell,AEC,259,30,46,.421,.523,.944
+humphr001jac,Jacob Humphrey,2024,21,Vanderbilt,SEC,55,8,15,.346,.455,.801
+humphr001jac,Jacob Humphrey,2025,22,Vanderbilt,SEC,190,22,39,.400,.442,.842
+kozeal000cam,Cam Kozeal,2024,19,Vanderbilt,SEC,167,14,32,.349,.439,.789
+kozeal000cam,Cam Kozeal,2025,20,Arkansas,SEC,256,19,53,.386,.606,.992
+ossenf000mat,Matt Ossenfort,2024,20,Vanderbilt,SEC,12,1,6,.250,.545,.795
+ossenf000mat,Matt Ossenfort,2025,21,NC State,ACC,64,12,11,.406,.340,.746
+poteet000log,Logan Poteet,2024,20,Vanderbilt,SEC,31,1,10,.226,.517,.743
+poteet000log,Logan Poteet,2025,21,UNC Charlotte,Amer,225,27,50,.393,.486,.879
+velazq000ray,Ray Velazquez,2024,21,Vanderbilt,SEC,1,0,0,1.000,1.000,2.000
+velazq000ray,Ray Velazquez,2025,22,Austin Peay,ASun,216,32,32,.479,.728,1.207
+bakes-000rya,Ryan Bakes,2024,19,South Carolina,SEC,24,5,6,.375,.316,.691
+bakes-000rya,Ryan Bakes,2025,20,South Carolina,SEC,32,1,10,.219,.250,.469
+brinli000aus,Austin Brinling,2023,22,North Florida,ASun,253,36,20,.500,.540,1.040
+brinli000aus,Austin Brinling,2024,23,South Carolina,SEC,124,14,17,.413,.364,.777
+causey000tyl,Tyler Causey,2020,19,North Carolina,ACC,19,2,6,.368,.471,.839
+causey000tyl,Tyler Causey,2021,20,North Carolina,ACC,53,5,15,.321,.396,.717
+causey000tyl,Tyler Causey,2022,21,North Carolina,ACC,6,0,3,.167,.167,.333
+causey000tyl,Tyler Causey,2024,23,South Carolina,SEC,107,19,37,.402,.464,.866
+ellis-002lee,Lee Ellis,2024,19,South Carolina,SEC,30,7,12,.467,.364,.830
+ellis-002lee,Lee Ellis,2025,20,Ohio State,BTen,175,21,32,.408,.514,.922
+jackso002bla,Blake Jackson,2022,21,UNC Charlotte,CUSA,63,7,15,.349,.358,.708
+jackso002bla,Blake Jackson,2023,22,UNC Charlotte,CUSA,266,39,54,.433,.413,.846
+jackso002bla,Blake Jackson,2024,23,South Carolina,SEC,206,32,45,.465,.483,.948
+jackso002bla,Blake Jackson,2025,24,South Carolina,SEC,109,21,24,.442,.333,.776
+jones-017ken,Kennedy Jones,2022,19,UNC Greensboro,SoCo,276,20,42,.420,.594,1.014
+jones-017ken,Kennedy Jones,2023,20,UNC Greensboro,SoCo,281,26,44,.445,.598,1.042
+jones-017ken,Kennedy Jones,2024,21,South Carolina,SEC,246,36,63,.398,.483,.881
+jones-017ken,Kennedy Jones,2025,22,South Carolina,SEC,150,14,33,.367,.357,.724
+reeves000dal,Dalton Reeves,2020,19,Erskine,CCar,0,0,0,,,
+reeves000dal,Dalton Reeves,2021,20,Erskine,CCar,135,13,18,.415,.582,.997
+reeves000dal,Dalton Reeves,2022,21,Presbyterian,BigS,199,21,37,.367,.483,.849
+reeves000dal,Dalton Reeves,2023,22,Presbyterian,BigS,201,20,37,.313,.529,.842
+reeves000dal,Dalton Reeves,2024,23,South Carolina,SEC,139,13,34,.370,.597,.967
+zedali000tyl,Tyler Zedalis,2024,19,South Carolina,SEC,2,0,1,.000,.000,.000
+zedali000tyl,Tyler Zedalis,2025,20,Old Dominion,SBC,117,10,37,.282,.365,.647
+grant-000max,Max Grant,2021,18,Canisius,MAAC,106,18,12,.519,.446,.965
+grant-000max,Max Grant,2022,19,Canisius,MAAC,268,30,39,.489,.646,1.135
+grant-000max,Max Grant,2023,20,Canisius,MAAC,239,30,41,.406,.439,.845
+grant-000max,Max Grant,2024,21,Alabama,SEC,40,1,10,.270,.500,.770
+guango000kam,Kameron Guangorena,2019,19,CS Fullerton,BigW,200,17,43,.325,.341,.666
+guango000kam,Kameron Guangorena,2020,20,CS Fullerton,BigW,64,4,17,.190,.109,.300
+guango000kam,Kameron Guangorena,2021,21,CS Fullerton,BigW,8,0,2,.125,.250,.375
+guango000kam,Kameron Guangorena,2022,22,Coastal Carolina,SBC,130,17,22,.389,.408,.797
+guango000kam,Kameron Guangorena,2023,23,Coastal Carolina,SBC,50,3,14,.320,.422,.742
+guango000kam,Kameron Guangorena,2024,24,Alabama,SEC,34,4,4,.294,.286,.580
+lebron002jus,Justin Lebron,2024,19,Alabama,SEC,254,20,53,.429,.546,.975
+lebron002jus,Justin Lebron,2025,20,Alabama,SEC,281,35,68,.421,.636,1.058
+miller001gag,Gage Miller,2024,21,Alabama,SEC,268,27,24,.474,.702,1.176
+mizell000col,Coleman Mizell,2024,19,Alabama,SEC,25,4,6,.320,.381,.701
+mizell000col,Coleman Mizell,2025,20,Alabama,SEC,192,30,45,.370,.382,.752
+petrut000ian,Ian Petrutz,2022,19,Maryland,BTen,133,18,14,.444,.639,1.082
+petrut000ian,Ian Petrutz,2023,20,Maryland,BTen,272,44,31,.408,.512,.920
+petrut000ian,Ian Petrutz,2024,21,Alabama,SEC,267,30,26,.447,.479,.926
+picot-000par,Parker Picot,2024,19,Alabama,SEC,2,0,1,.500,.500,1.000
+picot-000par,Parker Picot,2025,20,Michigan State,BTen,209,14,55,.314,.500,.814
+sleigh000eva,Evan Sleight,2021,20,Rutgers,BTen,175,13,33,.353,.383,.735
+sleigh000eva,Evan Sleight,2022,21,Rutgers,BTen,250,24,50,.408,.469,.877
+sleigh000eva,Evan Sleight,2023,22,Rutgers,BTen,257,34,34,.435,.571,1.007
+sleigh000eva,Evan Sleight,2024,23,Alabama,SEC,196,18,48,.354,.456,.809
+snell-000kad,Kade Snell,2024,21,Alabama,SEC,167,15,18,.389,.507,.896
+snell-000kad,Kade Snell,2025,22,Alabama,SEC,261,38,18,.464,.575,1.039
+vaughn000luk,Luke Vaughn,2024,18,Alabama,SEC,9,2,4,.375,.000,.375
+albert000arm,Armando Albert,2022,21,Florida Atlantic,CUSA,270,45,50,.408,.355,.764
+albert000arm,Armando Albert,2023,22,Florida Atlantic,CUSA,286,47,53,.425,.407,.832
+albert000arm,Armando Albert,2024,23,Florida,SEC,51,10,11,.431,.222,.654
+brooki000bla,Blake Brookins,2024,19,Florida,SEC,7,1,2,.143,.000,.143
+brooki000bla,Blake Brookins,2025,20,Florida,SEC,11,0,5,.364,.500,.864
+donay-000bra,Brody Donay,2023,19,Virginia Tech,ACC,142,10,42,.352,.585,.937
+donay-000bra,Brody Donay,2024,20,Florida,SEC,190,13,74,.323,.527,.850
+donay-000bra,Brody Donay,2025,21,Florida,SEC,238,28,60,.418,.646,1.064
+garris000tan,Tanner Garrison,2020,20,Coastal Carolina,SBC,14,1,2,.357,.500,.857
+garris000tan,Tanner Garrison,2021,21,Coastal Carolina,SBC,68,8,18,.358,.426,.784
+garris000tan,Tanner Garrison,2022,22,Coastal Carolina,SBC,95,8,19,.385,.408,.793
+garris000tan,Tanner Garrison,2023,23,Coastal Carolina,SBC,96,9,27,.396,.588,.983
+garris000tan,Tanner Garrison,2024,24,Florida,SEC,71,4,9,.348,.351,.699
+guy---000jay,Jaylen Guy,2019,18,Liberty,ASun,248,13,55,.351,.320,.672
+guy---000jay,Jaylen Guy,2020,19,Liberty,ASun,63,3,14,.344,.377,.722
+guy---000jay,Jaylen Guy,2021,20,Liberty,ASun,210,13,54,.284,.313,.598
+guy---000jay,Jaylen Guy,2023,22,Liberty,ASun,199,9,24,.359,.434,.793
+guy---000jay,Jaylen Guy,2024,23,Florida,SEC,65,9,10,.338,.163,.502
+russel001lan,Landon Russell,2024,20,Florida,SEC,29,2,9,.172,.231,.403
+russel001lan,Landon Russell,2025,21,Stetson,ASun,254,25,61,.317,.321,.639
+wilson000ash,Ashton Wilson,2023,19,Charleston Southern,BigS,156,14,33,.380,.358,.738
+wilson000ash,Ashton Wilson,2024,20,Florida,SEC,84,8,24,.405,.471,.875
+wilson000ash,Ashton Wilson,2025,21,Florida,SEC,145,21,29,.368,.350,.718
+yost--000hay,Hayden Yost,2024,19,Florida,SEC,81,8,18,.400,.358,.758
+yost--000hay,Hayden Yost,2025,20,Florida,SEC,237,32,41,.380,.392,.772
+belyeu000cad,Cade Belyeu,2024,19,Auburn,SEC,122,12,32,.426,.632,1.058
+belyeu000cad,Cade Belyeu,2025,20,Auburn,SEC,170,20,32,.450,.444,.894
+edward007col,Cole Edwards,2024,19,Auburn,SEC,17,2,6,.235,.133,.369
+edward007col,Cole Edwards,2025,20,Auburn,SEC,14,0,7,.214,.385,.599
+freema000kal,Kaleb Freeman,2022,19,North Georgia,PBC,126,20,17,.437,.420,.857
+freema000kal,Kaleb Freeman,2024,21,Auburn,SEC,30,3,9,.300,.400,.700
+freema000kal,Kaleb Freeman,2025,22,Georgia State,SBC,276,61,57,.504,.732,1.236
+guevar000eri,Eric Guevara,2024,19,Auburn,SEC,67,8,18,.343,.352,.695
+guevar000eri,Eric Guevara,2025,20,Auburn,SEC,141,11,29,.388,.556,.945
+hall--012chr,Christian Hall,2020,19,Tennessee-Martin,OVC,71,12,17,.465,.509,.974
+hall--012chr,Christian Hall,2021,20,Tennessee-Martin,OVC,205,29,57,.376,.482,.858
+hall--012chr,Christian Hall,2022,21,Alabama-Birmingham,CUSA,219,26,37,.443,.614,1.057
+hall--012chr,Christian Hall,2023,22,Alabama-Birmingham,CUSA,234,38,54,.380,.433,.813
+hall--012chr,Christian Hall,2024,23,Auburn,SEC,114,26,30,.404,.500,.904
+hernan012jav,Javon Hernandez,2023,22,Jacksonville State,ASun,266,33,29,.479,.567,1.046
+hernan012jav,Javon Hernandez,2024,23,Auburn,SEC,96,10,12,.266,.220,.485
+hernan012jav,Javon Hernandez,2025,24,Jefferson,CACC,268,37,26,.513,.707,1.220
+maners000mas,Mason Maners,2021,20,Jacksonville State,OVC,39,5,8,.385,.324,.708
+maners000mas,Mason Maners,2022,21,Jacksonville State,ASun,201,20,40,.437,.512,.949
+maners000mas,Mason Maners,2023,22,Jacksonville State,ASun,271,29,45,.462,.594,1.057
+maners000mas,Mason Maners,2024,23,Auburn,SEC,180,24,37,.426,.549,.975
+mauldi000tyl,Ty Mauldin,2024,23,Auburn,SEC,2,0,0,.500,.500,1.000
+mauldi000tyl,Ty Mauldin,2025,24,Alabama-Birmingham,Amer,33,5,6,.333,.286,.619
+robert007sam,Sam Robertson,2024,19,Auburn,SEC,1,0,0,1.000,,
+strick000cal,Cale Stricklin,2024,20,Auburn,SEC,44,8,5,.455,.303,.758
+strick000cal,Cale Stricklin,2025,21,Auburn,SEC,6,1,0,.333,.000,.333
+weiss-000coo,Cooper Weiss,2020,19,Coastal Carolina,SBC,55,6,11,.473,.628,1.101
+weiss-000coo,Cooper Weiss,2021,20,Coastal Carolina,SBC,188,32,57,.377,.368,.745
+weiss-000coo,Cooper Weiss,2022,21,Coastal Carolina,SBC,98,12,30,.372,.319,.692
+weiss-000coo,Cooper Weiss,2023,22,Miami (OH),MAC,252,35,53,.424,.567,.992
+weiss-000coo,Cooper Weiss,2024,23,Auburn,SEC,242,34,48,.403,.487,.890
+berch-000eli,Eli Berch,2024,20,Mississippi,SEC,118,16,35,.333,.255,.588
+berch-000eli,Eli Berch,2025,21,Louisiana Tech,CUSA,217,24,41,.350,.373,.723
+chisol000con,Connor Chisolm,2024,21,Mississippi,SEC,1,0,0,.000,.000,.000
+chisol000con,Connor Chisolm,2025,22,Mississippi,SEC,11,3,1,.364,.125,.489
+farni-000set,Seth Farni,2024,20,Mississippi,SEC,7,0,3,.143,.429,.571
+farni-000set,Seth Farni,2025,21,Campbell,CAA,73,3,23,.342,.339,.681
+fische001and,Andrew Fischer,2023,19,Duke,ACC,208,29,53,.404,.595,.999
+fische001and,Andrew Fischer,2024,20,Mississippi,SEC,252,35,53,.397,.643,1.039
+fische001and,Andrew Fischer,2025,21,Tennessee,SEC,292,63,42,.497,.760,1.257
+hill--000luk,Luke Hill,2023,19,Arizona State,P12,235,23,42,.389,.456,.845
+hill--000luk,Luke Hill,2024,20,Mississippi,SEC,241,35,27,.404,.378,.782
+hill--000luk,Luke Hill,2025,21,Mississippi,SEC,307,46,43,.459,.488,.947
+hughes002tre,Treyson Hughes,2022,20,Mercer,SoCo,260,28,44,.403,.576,.979
+hughes002tre,Treyson Hughes,2023,21,Mercer,SoCo,279,47,35,.504,.604,1.107
+hughes002tre,Treyson Hughes,2024,22,Mississippi,SEC,173,16,36,.306,.307,.613
+hughes002tre,Treyson Hughes,2025,23,Virginia Tech,ACC,55,10,7,.418,.450,.868
+lyons-000tre,Trenton Lyons,2024,19,Mississippi,SEC,43,4,16,.326,.282,.608
+lyons-000tre,Trenton Lyons,2025,20,NC State,ACC,20,3,6,.400,.375,.775
+markle000dre,Drew Markle,2024,20,Mississippi,SEC,14,2,2,.214,.083,.298
+markle000dre,Drew Markle,2025,21,Louisiana-Lafayette,SBC,159,14,36,.336,.338,.674
+randle000bra,Brayden Randle,2024,19,Mississippi,SEC,137,13,32,.316,.310,.626
+randle000bra,Brayden Randle,2025,20,Mississippi,SEC,84,11,10,.378,.386,.764
+ross--005jac,Jackson Ross,2022,22,Florida Atlantic,CUSA,251,25,49,.364,.470,.834
+ross--005jac,Jackson Ross,2023,23,Florida Atlantic,CUSA,287,40,28,.437,.605,1.042
+ross--005jac,Jackson Ross,2024,24,Mississippi,SEC,256,55,46,.438,.492,.930
+smithw000cam,Campbell Smithwick,2024,18,Mississippi,SEC,107,21,29,.449,.367,.816
+smithw000cam,Campbell Smithwick,2025,19,Mississippi,SEC,134,17,33,.410,.464,.874
+corona001dan,Danny Corona,2022,18,Wake Forest,ACC,216,22,48,.355,.400,.755
+corona001dan,Danny Corona,2023,19,Wake Forest,ACC,175,15,53,.360,.609,.970
+corona001dan,Danny Corona,2024,20,Missouri,SEC,150,14,41,.340,.372,.712
+culber000dre,Drew Culbertson,2024,19,Missouri,SEC,181,13,68,.272,.241,.513
+culber000dre,Drew Culbertson,2025,20,Oklahoma State,B12,134,16,47,.295,.168,.463
+curry-000tho,Thomas Curry,2024,19,Missouri,SEC,118,19,35,.393,.422,.815
+curry-000tho,Thomas Curry,2025,20,Illinois-Chicago,MVC,143,16,33,.434,.564,.998
+curtis002jer,Jeric Curtis,2023,19,Texas Tech,B12,17,1,3,.235,.188,.423
+curtis002jer,Jeric Curtis,2024,20,Missouri,SEC,142,10,43,.319,.310,.628
+curtis002jer,Jeric Curtis,2025,21,Missouri,SEC,10,2,4,.222,.000,.222
+hernan000jed,Jedier Hernandez,2022,19,Seton Hall,BigE,139,5,30,.296,.317,.614
+hernan000jed,Jedier Hernandez,2023,20,Seton Hall,BigE,191,24,15,.368,.379,.747
+hernan000jed,Jedier Hernandez,2024,21,Missouri,SEC,167,16,26,.347,.356,.703
+hernan000jed,Jedier Hernandez,2025,22,Missouri,SEC,106,10,19,.305,.193,.498
+holubo000jac,Jack Holubowski,2024,19,Missouri,SEC,14,2,6,.286,.091,.377
+jimers000ram,RJ Jimerson,2023,19,Memphis,Amer,164,21,47,.341,.338,.680
+jimers000ram,RJ Jimerson,2024,20,Missouri,SEC,12,0,3,.333,.200,.533
+jimers000ram,RJ Jimerson,2025,21,Pepperdine,WCC,42,1,20,.122,.100,.222
+moore-000tuc,Tucker Moore,2024,20,Missouri,SEC,109,12,31,.349,.319,.667
+moore-000tuc,Tucker Moore,2025,21,Liberty,CUSA,158,17,49,.318,.369,.688
+peer--000kad,Kaden Peer,2024,19,Missouri,SEC,154,17,31,.375,.315,.690
+peer--000kad,Kaden Peer,2025,20,Missouri,SEC,204,16,47,.411,.445,.856
+serna-001mat,Mateo Serna,2024,19,Missouri,SEC,108,9,38,.324,.406,.730
+serna-001mat,Mateo Serna,2025,20,Missouri,SEC,209,16,62,.341,.441,.782
+arramb000cad,Cade Arrambide,2025,19,Louisiana State,SEC,75,9,25,.351,.484,.835
+beck--000dal,Dalton Beck,2023,21,Kansas State,B12,0,0,0,,,
+beck--000dal,Dalton Beck,2024,22,Incarnate Word,SLC,264,23,42,.433,.716,1.150
+beck--000dal,Dalton Beck,2025,23,Louisiana State,SEC,13,3,3,.462,.300,.762
+costel005rya,Ryan Costello,2025,19,Louisiana State,SEC,13,4,4,.308,.000,.308
+curiel000der,Derek Curiel,2025,20,Louisiana State,SEC,323,53,56,.470,.519,.990
+dickin000dan,Daniel Dickinson,2023,19,Utah Valley State,WAC,248,22,32,.441,.592,1.033
+dickin000dan,Daniel Dickinson,2024,20,Utah Valley State,WAC,295,34,28,.469,.661,1.131
+dickin000dan,Daniel Dickinson,2025,21,Louisiana State,SEC,305,40,42,.458,.525,.984
+hernan029lui,Luis Hernandez,2022,19,Indiana State,MVC,121,10,32,.339,.435,.774
+hernan029lui,Luis Hernandez,2023,20,Indiana State,MVC,261,21,44,.379,.439,.819
+hernan029lui,Luis Hernandez,2024,21,Indiana State,MVC,279,17,50,.421,.694,1.114
+hernan029lui,Luis Hernandez,2025,22,Louisiana State,SEC,201,10,35,.348,.500,.848
+hogg--002dav,David Hogg,2025,19,Louisiana State,SEC,3,1,2,.333,.000,.333
+pearso002joh,John Pearson,2025,20,Louisiana State,SEC,26,4,9,.346,.571,.918
+priest000bla,Blaise Priester,2025,22,Louisiana State,SEC,7,0,3,.000,.000,.000
+reaves000tan,Tanner Reaves,2025,22,Louisiana State,SEC,79,12,15,.372,.446,.818
+ryan--008mik,Mikey Ryan,2025,19,Louisiana State,SEC,5,2,2,.600,.333,.933
+aloy--000kuh,Kuhio Aloy,2024,18,Brigham Young,B12,225,20,62,.329,.447,.776
+aloy--000kuh,Kuhio Aloy,2025,19,Arkansas,SEC,280,31,77,.404,.539,.943
+anders017mic,Michael Anderson,2023,19,Rhode Island,A10,240,13,51,.396,.555,.951
+anders017mic,Michael Anderson,2024,20,Rhode Island,A10,203,26,48,.411,.574,.985
+anders017mic,Michael Anderson,2025,21,Arkansas,SEC,9,1,3,.111,.000,.111
+becker000zan,Zane Becker,2025,19,Arkansas,SEC,41,5,9,.425,.452,.877
+boles-002car,Carson Boles,2022,20,Lincoln Memorial,SAC,194,21,32,.373,.370,.743
+boles-002car,Carson Boles,2023,21,Lincoln Memorial,SAC,235,27,27,.438,.552,.991
+boles-002car,Carson Boles,2024,22,Lincoln Memorial,SAC,236,40,18,.572,.863,1.435
+boles-002car,Carson Boles,2025,23,Arkansas,SEC,80,19,16,.475,.500,.975
+davala000cha,Charles Davalan,2024,20,Florida Gulf Coast,ASun,276,28,35,.413,.514,.927
+davala000cha,Charles Davalan,2025,21,Arkansas,SEC,317,35,27,.433,.561,.994
+fraser000gab,Gabe Fraser,2025,19,Arkansas,SEC,62,6,11,.339,.365,.704
+iredal000bre,Brent Iredale,2025,21,Arkansas,SEC,280,46,68,.450,.544,.994
+maxwel001log,Logan Maxwell,2022,19,Texas Christian,B12,94,17,20,.372,.250,.622
+maxwel001log,Logan Maxwell,2023,20,Texas Christian,B12,128,14,23,.418,.460,.878
+maxwel001log,Logan Maxwell,2024,21,Texas Christian,B12,213,30,23,.447,.482,.929
+maxwel001log,Logan Maxwell,2025,22,Arkansas,SEC,220,27,35,.454,.605,1.059
+peppi-000roc,Rocco Peppi,2022,20,Long Beach State,BigW,245,13,37,.408,.443,.852
+peppi-000roc,Rocco Peppi,2023,21,Long Beach State,BigW,247,21,30,.371,.431,.802
+peppi-000roc,Rocco Peppi,2024,22,Fresno State,MWC,245,7,28,.392,.602,.994
+peppi-000roc,Rocco Peppi,2025,23,Arkansas,SEC,57,5,10,.351,.261,.612
+belyeu000max,Max Belyeu,2023,19,Texas,B12,21,1,8,.333,.350,.683
+belyeu000max,Max Belyeu,2024,20,Texas,B12,249,27,44,.423,.667,1.090
+belyeu000max,Max Belyeu,2025,21,Texas,SEC,156,21,39,.410,.576,.986
+borba-000cas,Casey Borba,2024,20,Texas,B12,101,7,26,.371,.488,.859
+borba-000cas,Casey Borba,2025,21,Texas,SEC,200,33,47,.410,.574,.984
+chambe001col,Cole Chamberlain,2025,19,Texas,SEC,54,15,15,.407,.189,.597
+duplan000jay,Jayden Duplantier,2023,19,Texas,B12,50,5,9,.347,.326,.673
+duplan000jay,Jayden Duplantier,2024,20,Texas,B12,16,3,2,.375,.111,.486
+duplan000jay,Jayden Duplantier,2025,21,Texas,SEC,57,11,15,.345,.233,.578
+farmer000tom,Tommy Farmer,2024,20,Texas,B12,26,4,10,.385,.200,.585
+farmer000tom,Tommy Farmer,2025,21,Texas,SEC,213,25,65,.371,.339,.710
+flores000jal,Jalin Flores,2023,19,Texas,B12,123,15,37,.293,.311,.603
+flores000jal,Jalin Flores,2024,20,Texas,B12,278,21,56,.408,.656,1.064
+flores000jal,Jalin Flores,2025,21,Texas,SEC,268,23,59,.317,.491,.809
+galvan000ryl,Rylan Galvan,2023,20,Texas,B12,102,16,37,.356,.405,.761
+galvan000ryl,Rylan Galvan,2024,21,Texas,B12,207,27,58,.392,.506,.898
+galvan000ryl,Rylan Galvan,2025,22,Texas,SEC,239,47,66,.452,.613,1.065
+gaspar002wil,Will Gasparino,2024,19,Texas,B12,231,11,76,.300,.495,.795
+gaspar002wil,Will Gasparino,2025,20,Texas,SEC,245,29,63,.339,.512,.851
+mendoz000eth,Ethan Mendoza,2024,19,Arizona State,P12,222,13,22,.367,.443,.810
+mendoz000eth,Ethan Mendoza,2025,20,Texas,SEC,268,36,47,.437,.476,.912
+rodrig014adr,Adrian Rodriguez,2025,19,Texas,SEC,212,22,38,.410,.516,.927
+schues000kim,Kimble Schuessler,2021,19,Texas A&M,SEC,3,1,1,.667,1.000,1.667
+schues000kim,Kimble Schuessler,2022,20,Texas,B12,24,3,6,.435,.500,.935
+schues000kim,Kimble Schuessler,2024,22,Texas,B12,211,24,30,.420,.601,1.021
+schues000kim,Kimble Schuessler,2025,23,Texas,SEC,260,22,43,.377,.489,.866
+scott-010mat,Matthew Scott,2025,19,Texas,SEC,4,0,3,.250,.000,.250
+servic000oli,Oliver Service,2024,18,Texas,B12,5,0,1,.800,1.000,1.800
+servic000oli,Oliver Service,2025,19,Texas,SEC,3,0,2,.000,.000,.000
+stewar000jaq,Jaquae Stewart,2025,20,Texas,SEC,55,6,18,.273,.255,.528
+willia012jon,Jonah Williams,2025,18,Texas,SEC,60,3,13,.383,.382,.765
+winfie000eas,Easton Winfield,2024,18,Louisiana-Monroe,SBC,240,24,46,.414,.546,.960
+winfie000eas,Easton Winfield,2025,19,Texas,SEC,58,6,23,.328,.385,.712
+adams-008chr,Christian Adams,2023,21,Florida Atlantic,CUSA,137,11,27,.353,.463,.816
+adams-008chr,Christian Adams,2024,22,Florida Atlantic,Amer,254,40,51,.465,.522,.986
+adams-008chr,Christian Adams,2025,23,Georgia,SEC,145,18,38,.400,.537,.937
+black-004rya,Ryan Black,2023,19,Texas-Arlington,WAC,269,33,34,.428,.502,.930
+black-004rya,Ryan Black,2024,20,Texas-Arlington,WAC,256,26,32,.398,.476,.875
+black-004rya,Ryan Black,2025,21,Georgia,SEC,143,14,22,.390,.500,.890
+brown-003cad,Cade Brown,2025,20,Georgia,SEC,37,2,10,.216,.314,.531
+burnet000rob,Robbie Burnett,2022,19,UNC Asheville,BigS,215,26,55,.416,.481,.897
+burnet000rob,Robbie Burnett,2023,20,UNC Asheville,BigS,177,24,30,.486,.759,1.244
+burnet000rob,Robbie Burnett,2024,21,UNC Asheville,BigS,240,41,57,.454,.656,1.110
+burnet000rob,Robbie Burnett,2025,22,Georgia,SEC,256,42,52,.477,.693,1.169
+clavon000bry,Bryce Clavon,2025,19,Georgia,SEC,19,2,7,.474,.733,1.207
+hudson000bre,Brennan Hudson,2023,19,Georgia State,SBC,28,2,14,.179,.269,.448
+hudson000bre,Brennan Hudson,2024,20,Georgia State,SBC,180,34,32,.478,.622,1.100
+hudson000bre,Brennan Hudson,2025,21,Georgia,SEC,46,6,17,.457,.625,1.082
+jackso015dan,Daniel Jackson,2024,19,Wofford,SoCo,253,31,45,.460,.599,1.059
+jackso015dan,Daniel Jackson,2025,20,Georgia,SEC,148,19,44,.365,.612,.976
+jones-044cha,Charlie Jones,2023,20,Air Force,MWC,37,5,14,.378,.548,.927
+jones-044cha,Charlie Jones,2024,21,Air Force,MWC,177,13,58,.415,.682,1.097
+jones-044cha,Charlie Jones,2025,22,Georgia,SEC,15,1,6,.400,.308,.708
+obee--000dev,Devin Obee,2022,18,Duke,ACC,116,9,34,.278,.437,.715
+obee--000dev,Devin Obee,2023,19,Duke,ACC,68,9,31,.358,.500,.858
+obee--000dev,Devin Obee,2024,20,Duke,ACC,258,29,60,.399,.599,.998
+obee--000dev,Devin Obee,2025,21,Georgia,SEC,189,34,51,.388,.462,.850
+parker001eri,Erik Parker,2025,19,Georgia,SEC,6,2,1,.500,.250,.750
+zaboro000ryl,Ryland Zaborowski,2021,19,Grand Canyon,WAC,107,12,32,.318,.355,.673
+zaboro000ryl,Ryland Zaborowski,2023,21,Miami (OH),MAC,246,30,63,.402,.686,1.088
+zaboro000ryl,Ryland Zaborowski,2024,22,Miami (OH),MAC,242,40,40,.421,.532,.952
+zaboro000ryl,Ryland Zaborowski,2025,23,Georgia,SEC,184,29,40,.500,.788,1.288
+aberna000jay,Jay Abernathy,2025,19,Tennessee,SEC,129,22,21,.409,.340,.749
+clark-001lev,Levi Clark,2025,19,Tennessee,SEC,172,35,39,.459,.594,1.053
+grimme000bla,Blake Grimmer,2025,21,Tennessee,SEC,56,10,10,.464,.591,1.055
+kilen-000gav,Gavin Kilen,2023,19,Louisville,ACC,168,10,14,.321,.338,.659
+kilen-000gav,Gavin Kilen,2024,20,Louisville,ACC,234,7,22,.361,.591,.952
+kilen-000gav,Gavin Kilen,2025,21,Tennessee,SEC,245,30,27,.441,.671,1.112
+lawles000sto,Stone Lawless,2025,20,Tennessee,SEC,79,19,14,.468,.644,1.112
+marin-000man,Manny Marin,2025,20,Tennessee,SEC,177,12,35,.356,.401,.758
+newstr000chr,Chris Newstrom,2025,20,Tennessee,SEC,68,8,19,.433,.684,1.117
+hamilt000rj-,RJ Hamilton,2025,20,Vanderbilt,SEC,4,1,2,.250,.000,.250
+johnst000bro,Brodie Johnston,2025,19,Vanderbilt,SEC,240,10,68,.297,.534,.831
+mancin000mik,Mike Mancini,2023,19,James Madison,SBC,253,43,46,.413,.388,.801
+mancin000mik,Mike Mancini,2024,20,James Madison,SBC,286,34,55,.419,.586,1.006
+mancin000mik,Mike Mancini,2025,21,Vanderbilt,SEC,182,28,43,.398,.393,.791
+mendez005dav,David Mendez,2024,19,Dayton,A10,233,30,29,.442,.505,.947
+mendez005dav,David Mendez,2025,20,Vanderbilt,SEC,28,2,3,.259,.292,.551
+nelson002ril,Riley Nelson,2025,21,Vanderbilt,SEC,262,34,36,.450,.526,.976
+rigdon000rus,Rustan Rigdon,2025,19,Vanderbilt,SEC,217,42,46,.431,.346,.776
+rose--000mac,Mac Rose,2025,21,Vanderbilt,SEC,169,26,37,.393,.326,.719
+waite-000ryk,Ryker Waite,2025,18,Vanderbilt,SEC,6,2,2,.500,.000,.500
+bonome000ric,Richie Bonomolo,2025,21,Alabama,SEC,260,40,46,.416,.526,.943
+duff--000ahm,Ahmaad Duff,2025,19,Alabama,SEC,0,0,0,,,
+fowler003bry,Bryce Fowler,2023,20,Southern Mississippi,SBC,5,2,2,.600,.333,.933
+fowler003bry,Bryce Fowler,2025,22,Alabama,SEC,283,35,39,.381,.394,.775
+griggs000sea,Sean Griggs,2025,20,Alabama,SEC,2,0,1,.000,.000,.000
+modugn000and,Andre Modugno,2025,19,Alabama,SEC,1,1,0,1.000,,
+norton001bre,Brennen Norton,2022,19,Jacksonville State,ASun,166,6,30,.386,.517,.902
+norton001bre,Brennen Norton,2023,20,Jacksonville State,ASun,223,13,34,.336,.437,.773
+norton001bre,Brennen Norton,2024,21,Jacksonville State,CUSA,248,22,36,.419,.573,.993
+norton001bre,Brennen Norton,2025,22,Alabama,SEC,157,11,31,.318,.435,.753
+staton000gar,Garrett Staton,2022,20,Samford,SoCo,187,17,39,.403,.386,.790
+staton000gar,Garrett Staton,2023,21,Samford,SoCo,273,24,40,.366,.459,.825
+staton000gar,Garrett Staton,2024,22,Samford,SoCo,288,25,51,.390,.633,1.023
+staton000gar,Garrett Staton,2025,23,Alabama,SEC,117,6,39,.342,.538,.880
+steele000pey,Peyton Steele,2025,19,Alabama,SEC,12,0,3,.333,.667,1.000
+torres002jas,Jason Torres,2023,19,Miami (FL),ACC,38,1,7,.500,.861,1.361
+torres002jas,Jason Torres,2024,20,Miami (FL),ACC,174,10,46,.385,.529,.914
+torres002jas,Jason Torres,2025,21,Alabama,SEC,260,35,83,.392,.443,.836
+willia000joj,JoJo Williamson,2025,20,Alabama,SEC,2,1,0,.500,.000,.500
+young-002jon,Jon Young,2025,19,Alabama,SEC,25,1,7,.208,.136,.345
+carter002bri,Bristol Carter,2024,20,East Carolina,Amer,187,12,23,.406,.440,.846
+carter002bri,Bristol Carter,2025,21,Auburn,SEC,170,15,25,.331,.336,.667
+dutton000and,Andrew Dutton,2021,19,Birmingham-Southern,SAA,119,8,7,.410,.356,.766
+dutton000and,Andrew Dutton,2022,20,Birmingham-Southern,SAA,245,34,25,.508,.518,1.026
+dutton000and,Andrew Dutton,2023,21,Birmingham-Southern,SAA,244,37,25,.406,.379,.785
+dutton000and,Andrew Dutton,2024,22,Birmingham-Southern,SAA,237,27,25,.436,.518,.954
+dutton000and,Andrew Dutton,2025,23,Auburn,SEC,1,0,0,1.000,4.000,5.000
+fralic000cha,Chase Fralick,2025,19,Auburn,SEC,250,29,41,.426,.472,.897
+klepsc000add,Addison Klepsch,2025,19,Auburn,SEC,12,0,1,.083,.083,.167
+rember000chr,Chris Rembert,2025,19,Auburn,SEC,260,37,36,.467,.555,1.022
+snow--000eri,Eric Snow,2023,19,South Florida,Amer,246,22,52,.418,.526,.944
+snow--000eri,Eric Snow,2024,20,South Florida,Amer,178,13,26,.345,.335,.680
+snow--000eri,Eric Snow,2025,21,Auburn,SEC,253,25,26,.403,.493,.896
+steele000luc,Lucas Steele,2023,19,Samford,SoCo,245,27,51,.404,.635,1.040
+steele000luc,Lucas Steele,2024,20,Samford,SoCo,247,35,37,.364,.520,.884
+steele000luc,Lucas Steele,2025,21,Auburn,SEC,202,30,36,.411,.491,.901
+terrel000dma,Bub Terrell,2025,19,Auburn,SEC,231,20,46,.372,.458,.830
+cheng-000luk,Luke Cheng,2021,19,Illinois State,MVC,71,6,12,.324,.204,.527
+cheng-000luk,Luke Cheng,2022,20,Illinois State,MVC,193,12,34,.347,.318,.665
+cheng-000luk,Luke Cheng,2023,21,Illinois State,MVC,110,12,11,.367,.322,.689
+cheng-000luk,Luke Cheng,2024,22,Illinois State,MVC,71,6,14,.522,.431,.953
+cheng-000luk,Luke Cheng,2025,23,Mississippi,SEC,148,12,35,.394,.382,.776
+federi000hay,Hayden Federico,2025,19,Mississippi,SEC,232,34,34,.389,.343,.731
+humphr000isa,Isaac Humphrey,2022,21,Louisville,ACC,258,41,50,.458,.490,.948
+humphr000isa,Isaac Humphrey,2023,22,Louisville,ACC,178,31,31,.406,.396,.801
+humphr000isa,Isaac Humphrey,2024,23,Louisville,ACC,221,27,32,.412,.565,.977
+humphr000isa,Isaac Humphrey,2025,24,Mississippi,SEC,284,34,71,.396,.560,.956
+miller039jac,Jackson Miller,2025,19,Mississippi,SEC,7,2,1,.429,.200,.629
+moerma000rya,Ryan Moerman,2022,18,Illinois,BTen,75,9,20,.378,.311,.690
+moerma000rya,Ryan Moerman,2023,19,Illinois,BTen,218,16,53,.372,.547,.919
+moerma000rya,Ryan Moerman,2024,20,Illinois,BTen,228,20,48,.370,.580,.950
+moerma000rya,Ryan Moerman,2025,21,Mississippi,SEC,260,28,58,.385,.498,.882
+paino-000owe,Owen Paino,2025,19,Mississippi,SEC,66,6,18,.348,.345,.694
+reuter000col,Collin Reuter,2022,19,Brigham Young,WCC,166,18,53,.348,.444,.792
+reuter000col,Collin Reuter,2024,21,Brigham Young,B12,214,28,68,.379,.486,.865
+reuter000col,Collin Reuter,2025,22,Mississippi,SEC,47,5,13,.404,.575,.979
+sanfor000mit,Mitchell Sanford,2020,19,Louisiana State,SEC,16,2,3,.400,.250,.650
+sanfor000mit,Mitchell Sanford,2021,20,Louisiana State,SEC,78,6,24,.325,.366,.691
+sanfor000mit,Mitchell Sanford,2022,21,Texas-Arlington,SBC,9,0,3,.111,.167,.278
+sanfor000mit,Mitchell Sanford,2023,22,New Orleans,SLC,244,24,53,.398,.512,.909
+sanfor000mit,Mitchell Sanford,2024,23,New Orleans,SLC,263,26,46,.460,.708,1.168
+sanfor000mit,Mitchell Sanford,2025,24,Mississippi,SEC,298,39,62,.423,.606,1.029
+surowi000eth,Ethan Surowiec,2025,20,Mississippi,SEC,21,2,7,.524,.750,1.274
+boser-000bob,Bobby Boser,2022,19,South Florida,Amer,106,5,35,.295,.378,.673
+boser-000bob,Bobby Boser,2023,20,South Florida,Amer,238,28,73,.445,.621,1.066
+boser-000bob,Bobby Boser,2024,21,South Florida,Amer,131,10,35,.351,.667,1.018
+boser-000bob,Bobby Boser,2025,22,Florida,SEC,287,28,72,.437,.613,1.050
+cyr---000bla,Blake Cyr,2023,19,Miami (FL),ACC,248,37,70,.427,.620,1.047
+cyr---000bla,Blake Cyr,2024,20,Miami (FL),ACC,117,16,27,.397,.537,.933
+cyr---000bla,Blake Cyr,2025,21,Florida,SEC,242,26,52,.358,.429,.788
+jones-012kyl,Kyle Jones,2024,19,Stetson,ASun,297,33,27,.459,.476,.935
+jones-012kyl,Kyle Jones,2025,20,Florida,SEC,17,1,0,.353,.375,.728
+lawson006bra,Brendan Lawson,2025,19,Florida,SEC,271,33,56,.417,.522,.939
+mcdona000cad,Caden McDonald,2025,20,Florida,SEC,0,28.0,30,16,6,14
+nadeau000jus,Justin Nadeau,2023,19,Jacksonville,ASun,226,28,47,.385,.381,.766
+nadeau000jus,Justin Nadeau,2024,20,Jacksonville,ASun,142,14,24,.482,.521,1.003
+nadeau000jus,Justin Nadeau,2025,21,Florida,SEC,199,29,47,.421,.409,.830
+stripl000lan,Landon Stripling,2024,19,Texas Tech,B12,119,17,12,.361,.404,.765
+stripl000lan,Landon Stripling,2025,20,Florida,SEC,156,21,21,.397,.368,.765
+branch000kyl,Kyle Branch,2025,21,Oklahoma,SEC,253,19,33,.357,.365,.722
+cain--002bra,Brandon Cain,2025,20,Oklahoma,SEC,17,1,6,.063,.000,.063
+carmic000eas,Easton Carmichael,2023,19,Oklahoma,B12,216,13,44,.346,.482,.828
+carmic000eas,Easton Carmichael,2024,20,Oklahoma,B12,288,20,43,.406,.563,.969
+carmic000eas,Easton Carmichael,2025,21,Oklahoma,SEC,274,25,43,.398,.613,1.011
+christ001sam,Sam Christiansen,2025,21,Oklahoma,SEC,231,46,57,.455,.467,.921
+crooks000dyl,Dylan Crooks,2024,21,Oklahoma,B12,0,30.2,31,14,6,3
+crooks000dyl,Dylan Crooks,2025,22,Oklahoma,SEC,1,32.0,23,6,1,10
+dicker001dre,Drew Dickerson,2025,20,Oklahoma,SEC,99,15,37,.424,.568,.992
+gambil000tre,Trey Gambill,2025,23,Oklahoma,SEC,245,49,40,.445,.414,.859
+hamlin000mas,Mason Hamlin,2023,19,Texas-Permian Basin,LSC,220,17,33,.427,.492,.919
+hamlin000mas,Mason Hamlin,2024,20,Texas-Permian Basin,LSC,290,44,29,.488,.551,1.039
+hamlin000mas,Mason Hamlin,2025,21,Oklahoma,SEC,38,9,5,.447,.286,.733
+harris000das,Dasan Harris,2024,19,Oklahoma,B12,6,0,3,.167,.167,.333
+harris000das,Dasan Harris,2025,20,Oklahoma,SEC,111,11,25,.378,.414,.793
+hoffma003chr,Christian Hoffman,2025,22,Oklahoma,SEC,14,1,6,.143,.154,.297
+horton000bra,Brayden Horton,2023,19,Liberty,ASun,210,38,53,.471,.543,1.014
+horton000bra,Brayden Horton,2024,20,Liberty,CUSA,199,22,50,.406,.534,.940
+horton000bra,Brayden Horton,2025,21,Oklahoma,SEC,38,3,10,.250,.281,.531
+jones-005gav,Gavyn Jones,2025,20,Oklahoma,SEC,0,29.2,33,21,3,7
+mudler000sco,Scott Mudler,2024,21,Oklahoma,B12,170,18,26,.367,.401,.768
+mudler000sco,Scott Mudler,2025,22,Oklahoma,SEC,103,11,21,.350,.456,.805
+tockey000day,Dayton Tockey,2025,20,Oklahoma,SEC,173,26,41,.382,.472,.854
+walk--000jas,Jason Walk,2024,19,Oklahoma,B12,151,18,37,.376,.414,.790
+walk--000jas,Jason Walk,2025,20,Oklahoma,SEC,271,35,51,.386,.475,.861
+willis001daw,Dawson Willis,2025,21,Oklahoma,SEC,239,20,66,.315,.372,.687
+willit000jax,Jaxon Willits,2024,19,Oklahoma,B12,235,31,36,.376,.484,.860
+willit000jax,Jaxon Willits,2025,20,Oklahoma,SEC,270,39,51,.409,.495,.904
+buckne000luk,Lukas Buckner,2025,19,Mississippi State,SEC,41,3,8,.341,.289,.631
+davila000lan,Landis Davila,2025,19,Mississippi State,SEC,7,0,3,.286,.167,.452
+frei--000geh,Gehrig Frei,2023,20,North Alabama,ASun,227,22,40,.373,.465,.838
+frei--000geh,Gehrig Frei,2024,21,North Alabama,ASun,243,25,26,.420,.597,1.017
+frei--000geh,Gehrig Frei,2025,22,Mississippi State,SEC,161,8,21,.404,.586,.990
+owen--002jac,Jackson Owen,2025,22,Mississippi State,SEC,6,1,3,.167,.000,.167
+reese-000ace,Ace Reese,2024,19,Houston,B12,195,29,37,.395,.506,.901
+reese-000ace,Ace Reese,2025,20,Mississippi State,SEC,263,26,52,.422,.718,1.140
+reeves000saw,Sawyer Reeves,2022,20,Citadel,SoCo,168,16,19,.343,.313,.657
+reeves000saw,Sawyer Reeves,2023,21,Citadel,SoCo,240,20,27,.377,.457,.834
+reeves000saw,Sawyer Reeves,2024,22,Citadel,SoCo,215,19,22,.377,.445,.822
+reeves000saw,Sawyer Reeves,2025,23,Mississippi State,SEC,168,15,30,.366,.417,.783
+sander000gat,Gatlin Sanders,2025,21,Mississippi State,SEC,163,12,39,.401,.353,.754
+stallm000ree,Reed Stallman,2024,21,Campbell,CAA,223,47,43,.441,.560,1.001
+stallm000ree,Reed Stallman,2025,22,Mississippi State,SEC,141,15,42,.376,.615,.991
+sulliv000noa,Noah Sullivan,2022,19,USC Upstate,BigS,268,23,35,.410,.394,.804
+sulliv000noa,Noah Sullivan,2023,20,USC Upstate,BigS,76,8,12,.421,.459,.880
+sulliv000noa,Noah Sullivan,2024,21,USC Upstate,BigS,256,37,31,.453,.613,1.066
+sulliv000noa,Noah Sullivan,2025,22,Mississippi State,SEC,255,35,42,.475,.645,1.120
+bell--007tyl,Tyler Bell,2025,20,Kentucky,SEC,265,24,59,.385,.522,.907
+brown-000hud,Hudson Brown,2025,20,Kentucky,SEC,141,18,34,.388,.416,.804
+hage--000col,Cole Hage,2022,20,Columbia,IVY,229,30,36,.454,.520,.974
+hage--000col,Cole Hage,2023,21,Columbia,IVY,165,18,41,.436,.555,.991
+hage--000col,Cole Hage,2024,22,Columbia,IVY,204,27,28,.471,.658,1.129
+hage--000col,Cole Hage,2025,23,Kentucky,SEC,252,30,38,.444,.574,1.019
+hansen002car,Carson Hansen,2023,19,Wisconsin-Milwaukee,Horz,65,7,11,.369,.351,.720
+hansen002car,Carson Hansen,2024,20,Wisconsin-Milwaukee,Horz,240,27,42,.404,.601,1.005
+hansen002car,Carson Hansen,2025,21,Kentucky,SEC,118,12,36,.374,.556,.929
+koontz000dyl,Dylan Koontz,2022,19,Campbell,BigS,48,3,17,.348,.222,.570
+koontz000dyl,Dylan Koontz,2024,21,Campbell,CAA,160,18,31,.406,.488,.895
+koontz000dyl,Dylan Koontz,2025,22,Kentucky,SEC,99,11,20,.429,.400,.829
+lawren001luk,Luke Lawrence,2023,20,Illinois State,MVC,133,8,19,.376,.471,.847
+lawren001luk,Luke Lawrence,2024,21,Illinois State,MVC,273,23,37,.399,.465,.864
+lawren001luk,Luke Lawrence,2025,22,Kentucky,SEC,268,20,34,.397,.425,.822
+marcy-000wil,Will Marcy,2022,19,NC State,ACC,101,11,19,.384,.410,.793
+marcy-000wil,Will Marcy,2023,20,NC State,ACC,159,20,26,.399,.500,.899
+marcy-000wil,Will Marcy,2024,21,Memphis,Amer,182,15,28,.398,.406,.804
+marcy-000wil,Will Marcy,2025,22,Kentucky,SEC,33,4,5,.281,.192,.474
+montoy000sha,Shaun Montoya,2022,20,San Diego State,MWC,162,16,26,.373,.321,.693
+montoy000sha,Shaun Montoya,2023,21,San Diego State,MWC,221,23,38,.388,.452,.840
+montoy000sha,Shaun Montoya,2024,22,San Diego State,MWC,248,20,26,.401,.427,.828
+montoy000sha,Shaun Montoya,2025,23,Kentucky,SEC,158,9,29,.368,.368,.736
+pellet000raf,Raphael Pelletier,2022,20,Kansas State,B12,61,5,13,.339,.585,.924
+pellet000raf,Raphael Pelletier,2023,21,Kansas State,B12,214,22,45,.336,.383,.719
+pellet000raf,Raphael Pelletier,2024,22,Kansas State,B12,231,40,60,.363,.398,.761
+pellet000raf,Raphael Pelletier,2025,23,Kentucky,SEC,70,5,11,.215,.175,.391
+schwar005rya,Ryan Schwartz,2025,20,Kentucky,SEC,76,10,19,.461,.500,.961
+bergev000mat,Matt Bergevin,2020,19,Concordia-Portland,GNAC,69,7,13,.391,.450,.841
+bergev000mat,Matt Bergevin,2022,21,Fairfield,MAAC,238,35,54,.378,.482,.860
+bergev000mat,Matt Bergevin,2023,22,Fairfield,MAAC,227,32,35,.467,.588,1.055
+bergev000mat,Matt Bergevin,2024,23,Fairfield,MAAC,261,45,57,.418,.627,1.044
+bergev000mat,Matt Bergevin,2025,24,Texas A&M,SEC,24,5,5,.417,.176,.593
+crites000hay,Hayden Crites,2025,19,Texas A&M,SEC,3,1,2,.333,.000,.333
+ericks001sam,Sam Erickson,2025,20,Texas A&M,SEC,15,1,8,.133,.077,.210
+farr--000saw,Sawyer Farr,2025,20,Texas A&M,SEC,109,17,37,.352,.200,.552
+gallow001jac,Jacob Galloway,2023,20,Southern California,P12,75,3,8,.425,.524,.948
+gallow001jac,Jacob Galloway,2024,21,Southern California,P12,262,27,45,.386,.451,.837
+gallow001jac,Jacob Galloway,2025,22,Texas A&M,SEC,56,5,8,.286,.320,.606
+george005jam,Jamal George,2023,19,Alabama State,SWAC,238,28,54,.382,.437,.819
+george005jam,Jamal George,2024,20,Alabama State,SWAC,212,23,27,.409,.546,.955
+george005jam,Jamal George,2025,21,Texas A&M,SEC,75,7,27,.307,.277,.584
+harris006con,Bear Harrison,2024,19,St. Mary's (CA),WCC,173,21,32,.410,.541,.952
+harris006con,Bear Harrison,2025,20,Texas A&M,SEC,180,27,42,.417,.522,.938
+hensel000wya,Wyatt Henseler,2021,19,Pennsylvania,IVY,62,4,11,.452,.538,.990
+hensel000wya,Wyatt Henseler,2022,20,Pennsylvania,IVY,232,23,39,.487,.697,1.184
+hensel000wya,Wyatt Henseler,2023,21,Pennsylvania,IVY,240,15,45,.383,.660,1.044
+hensel000wya,Wyatt Henseler,2024,22,Pennsylvania,IVY,245,28,28,.465,.755,1.220
+hensel000wya,Wyatt Henseler,2025,23,Texas A&M,SEC,253,19,41,.423,.562,.985
+kash--000gav,Gavin Kash,2022,19,Texas,B12,26,1,9,.269,.217,.487
+kash--000gav,Gavin Kash,2023,20,Texas Tech,B12,305,34,57,.397,.692,1.089
+kash--000gav,Gavin Kash,2024,21,Texas Tech,B12,266,23,63,.365,.561,.926
+kash--000gav,Gavin Kash,2025,22,Texas A&M,SEC,153,21,35,.333,.389,.722
+kiel--000ter,Terrence Kiel,2025,19,Texas A&M,SEC,233,24,48,.388,.388,.776
+royo--000ben,Ben Royo,2023,19,Rice,CUSA,205,15,67,.322,.505,.827
+royo--000ben,Ben Royo,2024,20,Rice,Amer,84,6,31,.229,.221,.450
+royo--000ben,Ben Royo,2025,21,Texas A&M,SEC,155,18,50,.342,.538,.880
+tobin-000nat,Nathan Tobin,2025,19,Texas A&M,SEC,1,0,0,1.000,2.000,3.000
+bralan000gav,Gavin Braland,2025,20,South Carolina,SEC,96,4,21,.250,.221,.471
+carrio002jor,Jordan Carrion,2021,20,Florida,SEC,95,8,19,.309,.279,.588
+carrio002jor,Jordan Carrion,2022,21,Florida State,ACC,239,21,35,.356,.367,.723
+carrio002jor,Jordan Carrion,2023,22,Florida State,ACC,202,14,36,.318,.354,.672
+carrio002jor,Jordan Carrion,2025,24,South Carolina,SEC,173,10,26,.333,.366,.699
+gaskin000cay,Cayden Gaskin,2025,21,South Carolina,SEC,35,4,12,.382,.414,.796
+hall--003nat,Nathan Hall,2023,19,Clemson,ACC,85,8,20,.321,.324,.646
+hall--003nat,Nathan Hall,2024,20,Clemson,ACC,27,4,4,.346,.273,.619
+hall--003nat,Nathan Hall,2025,21,South Carolina,SEC,239,27,28,.397,.486,.883
+hollin000bea,Beau Hollins,2025,19,South Carolina,SEC,178,13,42,.379,.491,.869
+kaczma000hen,Henry Kaczmar,2023,20,Ohio State,BTen,239,26,49,.377,.452,.828
+kaczma000hen,Henry Kaczmar,2024,21,Ohio State,BTen,265,30,44,.417,.476,.892
+kaczma000hen,Henry Kaczmar,2025,22,South Carolina,SEC,208,22,43,.394,.486,.880
+mashor000dal,Dalton Mashore,2022,20,St. Mary's (CA),WCC,143,19,41,.322,.322,.644
+mashor000dal,Dalton Mashore,2023,21,St. Mary's (CA),WCC,216,21,53,.312,.432,.744
+mashor000dal,Dalton Mashore,2024,22,St. Mary's (CA),WCC,254,29,52,.429,.634,1.063
+mashor000dal,Dalton Mashore,2025,23,South Carolina,SEC,95,12,23,.398,.361,.759
+nawroc000nol,Nolan Nawrocki,2024,20,Clemson,ACC,147,13,29,.352,.400,.752
+nawroc000nol,Nolan Nawrocki,2025,21,South Carolina,SEC,50,3,12,.260,.325,.585
+scobey000kj-,KJ Scobey,2025,20,South Carolina,SEC,221,25,52,.348,.419,.767
+woita-000jas,Jase Woita,2025,22,South Carolina,SEC,142,17,27,.394,.508,.903
+basler000pey,Peyton Basler,2022,19,Charleston Southern,BigS,140,20,22,.381,.262,.642
+basler000pey,Peyton Basler,2025,22,Missouri,SEC,120,12,35,.383,.337,.720
+benson000cam,Cameron Benson,2022,19,Akron,MAC,215,20,55,.335,.427,.762
+benson000cam,Cameron Benson,2023,20,Memphis,Amer,190,23,38,.344,.399,.743
+benson000cam,Cameron Benson,2025,22,Missouri,SEC,40,6,14,.425,.529,.954
+callaw001tre,Trey Callaway,2025,19,Missouri,SEC,10,0,4,.300,.500,.800
+goldbe000geh,Gehrig Goldbeck,2025,21,Missouri,SEC,139,19,38,.407,.286,.693
+knutso000kee,Keegan Knutson,2025,21,Missouri,SEC,173,12,29,.337,.363,.700
+lawren002tre,Trey Lawrence,2025,19,Missouri,SEC,61,5,14,.262,.182,.444
+macon-000tyl,Tyler Macon,2025,20,Missouri,SEC,115,16,29,.391,.370,.760
+malpas000ade,Aden Malpass,2025,19,Missouri,SEC,4,2,1,.500,.000,.500
+nicole000cay,Cayden Nicoletto,2023,21,Columbia (MO),AMWC,227,18,43,.432,.817,1.249
+nicole000cay,Cayden Nicoletto,2024,22,Columbia (MO),AMWC,240,21,34,.467,.915,1.381
+nicole000cay,Cayden Nicoletto,2025,23,Missouri,SEC,171,10,29,.339,.447,.786
+patter004chr,Chris Patterson,2025,18,Missouri,SEC,125,10,41,.304,.393,.697
+picare000bra,Brady Picarelli,2025,19,Missouri,SEC,56,7,15,.393,.604,.997
+seals-000pie,Pierre Seals,2024,20,Memphis,Amer,241,31,63,.436,.553,.988
+seals-000pie,Pierre Seals,2025,21,Missouri,SEC,172,17,58,.374,.446,.820
+simpso002bla,Blake Simpson,2025,22,Missouri,SEC,12,0,0,.333,.583,.917
